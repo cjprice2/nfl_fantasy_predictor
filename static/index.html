@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NFL Fantasy Points Predictor</title>
+    <link rel="stylesheet" href="/static/style.css">
+    <script src="/static/script.js" defer></script>
+</head>
+<body>
+    <div class="container">
+        <h1>NFL Fantasy Points Predictor</h1>
+        
+        <div class="form-group">
+            <label for="team-select">Select Team:</label>
+            <select id="team-select" class="dropdown">
+                <option value="">--Select a Team--</option>
+            </select>
+        </div>
+        
+        <div class="form-group">
+            <label for="player-select">Select Player:</label>
+            <select id="player-select" class="dropdown">
+                <option value="">--Select a Player--</option>
+            </select>
+        </div>
+        
+        <div class="form-group">
+            <label for="week-select">Select Week (2024 season):</label>
+            <select id="week-select" class="dropdown">
+                <option value="">--Select a Future Week--</option>
+            </select>
+        </div>
+        
+        <div class="form-group">
+            <label>Fantasy Format:</label>
+            <label><input type="radio" name="format" value="ppr" checked> PPR</label>
+            <label><input type="radio" name="format" value="non_ppr"> Non-PPR</label>
+        </div>
+
+        <button id="predict-btn" class="button">Predict Fantasy Points</button>
+        
+        <div id="result" class="result"></div>
+    </div>
+</body>
+</html>
