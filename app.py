@@ -4,6 +4,7 @@ import pandas as pd
 from sklearn.ensemble import RandomForestRegressor
 from sklearn.model_selection import train_test_split
 import numpy as np
+import os
 
 app = Flask(__name__)
 
@@ -296,6 +297,5 @@ def predict():
         'predicted_fantasy_points': predicted_points
     })
 
-
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(debug=True, host='0.0.0.0', port=int(os.environ.get('PORT', 5000)))
