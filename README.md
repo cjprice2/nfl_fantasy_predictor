@@ -26,6 +26,7 @@ NFL Fantasy Predictor is a machine learning-based application designed to predic
 
 ## Future Enhancements
 - Implement additional/different models for more precise predictions.
+- Exclude defensive players; data is currently being trained on pick-sixes for some defensive players, leading to inaccurate predictions. 
 - Integrate real-time data updates during the NFL season.
 - Add support for custom scoring settings.
 - Switch to React for scalability purposes.
