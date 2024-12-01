@@ -18,11 +18,14 @@ NFL Fantasy Predictor is a machine learning-based application designed to predic
 - **HTML/CSS/JavaScript**: Frontend interface for user interaction.
 
 ## Usage
-1. Select an NFL team and player.
-2. Choose the week for which you want the prediction.
-3. Get instant predictions for the selected player and week, adjusted based on opponent strength and injury history.
+1. Visit https://nfl-fantasy-predictor.onrender.com
+2. This is a free Render deployment, so it may take around a minute to load.
+3. Select an NFL team and player.
+4. Choose the week for which you want the prediction.
+5. Get instant predictions for the selected player and week, adjusted based on opponent strength and injury history.
 
 ## Future Enhancements
 - Implement additional models for more precise predictions.
 - Integrate real-time data updates during the NFL season.
 - Add support for custom scoring settings.
+- Address limitations with the free deployment.
