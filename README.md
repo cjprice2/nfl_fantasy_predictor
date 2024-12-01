@@ -16,7 +16,8 @@ NFL Fantasy Predictor is a machine learning-based application designed to predic
 - **scikit-learn**: Machine learning model training and prediction.
 - **nfl_data_py**: NFL data acquisition and preprocessing.
 - **HTML/CSS/JavaScript**: Frontend interface for user interaction.
-
+- **Cron Jobs**: Used cron-job.org to automatically ping the URL to prevent the app from sleeping every 15 minutes while using Render's free tier.
+  
 ## Usage
 1. Visit https://nfl-fantasy-predictor.onrender.com
 3. Select an NFL team and player.
