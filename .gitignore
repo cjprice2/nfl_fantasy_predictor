@@ -15,9 +15,6 @@ Thumbs.db
 # Ignore Python cache files
 __pycache__/
 
-# Ignore CSV data files (if generated dynamically)
-csv_data/
-
 # Ignore sensitive environment variables
 .env
 
