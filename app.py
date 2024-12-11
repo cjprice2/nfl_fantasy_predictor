@@ -1,7 +1,6 @@
 # Author: Colin Price
 from flask import Flask, request, jsonify, send_from_directory
-from apscheduler.schedulers.background import BackgroundScheduler
-from datetime import datetime, timedelta
+from datetime import datetime
 import nfl_data_py as nfl
 import pandas as pd
 from sklearn.ensemble import RandomForestRegressor
@@ -285,14 +284,19 @@ def predict():
 
     return jsonify({'predicted_fantasy_points': predicted_points})
 
-# Scheduler setup
-scheduler = BackgroundScheduler()
-scheduler.add_job(update_nfl_data, 'cron', day_of_week='tue', hour=0, minute=0)
-scheduler.start()
-
-# Serve static files
+# Serve/update files
 @app.route('/')
 def index():
+    # Check if it's Wednesday and the update hasn't already happened today
+    today = datetime.now()
+    last_updated_file = os.path.join(csv_directory, 'last_updated.txt')
+
+    if today.weekday() == 2:  # Wednesday
+        if not os.path.exists(last_updated_file) or \
+            datetime.fromtimestamp(os.path.getmtime(last_updated_file)).date() < today.date():
+            update_nfl_data()
+            with open(last_updated_file, 'w') as f:
+                f.write("Updated on: " + str(today.date()))
     return send_from_directory('static', 'index.html')
 
 if __name__ == '__main__':
@@ -300,5 +304,4 @@ if __name__ == '__main__':
         port = int(os.environ.get("PORT", 8000))  
         app.run(host='0.0.0.0', port=port)
     except (KeyboardInterrupt, SystemExit):
-        scheduler.shutdown()
-
+        pass           

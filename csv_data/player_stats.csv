@@ -16992,6 +16992,8 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,9,00-0023459,A.Rodgers,20.34,20.34,NYJ,HOU,211.0,-1.0,0.0
 2024,10,00-0023459,A.Rodgers,4.04,4.04,NYJ,ARI,151.0,0.0,0.0
 2024,11,00-0023459,A.Rodgers,16.06,16.06,NYJ,IND,184.0,7.0,0.0
+2024,13,00-0023459,A.Rodgers,14.0,14.0,NYJ,SEA,185.0,6.0,0.0
+2024,14,00-0023459,A.Rodgers,17.56,17.56,NYJ,MIA,339.0,0.0,0.0
 2024,6,00-0024243,M.Lewis,1.2,0.2,CHI,JAX,0.0,0.0,2.0
 2024,4,00-0026158,J.Flacco,15.02,15.02,IND,PIT,168.0,3.0,0.0
 2024,5,00-0026158,J.Flacco,26.56,26.56,IND,JAX,359.0,22.0,0.0
@@ -17011,6 +17013,8 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,10,00-0026498,M.Stafford,9.72,9.72,LA,MIA,293.0,0.0,0.0
 2024,11,00-0026498,M.Stafford,27.8,27.8,LA,NE,295.0,0.0,0.0
 2024,12,00-0026498,M.Stafford,19.22,19.22,LA,PHI,243.0,15.0,0.0
+2024,13,00-0026498,M.Stafford,15.62,15.62,LA,NO,183.0,3.0,0.0
+2024,14,00-0026498,M.Stafford,20.8,20.8,LA,BUF,320.0,0.0,0.0
 2024,1,00-0027973,A.Dalton,0.0,0.0,CAR,NO,0.0,0.0,0.0
 2024,3,00-0027973,A.Dalton,24.56,24.56,CAR,LV,319.0,-2.0,0.0
 2024,4,00-0027973,A.Dalton,15.7,15.7,CAR,CIN,220.0,9.0,0.0
@@ -17026,6 +17030,8 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,10,00-0029263,R.Wilson,18.1,18.1,PIT,WAS,195.0,3.0,0.0
 2024,11,00-0029263,R.Wilson,6.3,6.3,PIT,BAL,205.0,1.0,0.0
 2024,12,00-0029263,R.Wilson,13.8,13.8,PIT,CLE,270.0,10.0,0.0
+2024,13,00-0029263,R.Wilson,26.86,26.86,PIT,CIN,414.0,3.0,0.0
+2024,14,00-0029263,R.Wilson,16.02,16.02,PIT,CLE,158.0,17.0,0.0
 2024,1,00-0029604,K.Cousins,6.2,6.2,ATL,PIT,155.0,0.0,0.0
 2024,2,00-0029604,K.Cousins,17.54,17.54,ATL,PHI,241.0,-1.0,0.0
 2024,3,00-0029604,K.Cousins,11.1,11.1,ATL,KC,230.0,-1.0,0.0
@@ -17037,6 +17043,8 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,9,00-0029604,K.Cousins,17.78,17.78,ATL,DAL,222.0,-11.0,0.0
 2024,10,00-0029604,K.Cousins,10.24,10.24,ATL,NO,306.0,0.0,0.0
 2024,11,00-0029604,K.Cousins,4.92,4.92,ATL,DEN,173.0,0.0,0.0
+2024,13,00-0029604,K.Cousins,2.1,2.1,ATL,LAC,245.0,3.0,0.0
+2024,14,00-0029604,K.Cousins,9.76,9.76,ATL,MIN,344.0,0.0,0.0
 2024,9,00-0029692,B.Anger,0.0,0.0,DAL,ATL,0.0,0.0,0.0
 2024,11,00-0029692,B.Anger,0.16,0.16,DAL,HOU,4.0,0.0,0.0
 2024,1,00-0029892,K.Juszczyk,6.0,4.0,SF,NYJ,0.0,0.0,40.0
@@ -17048,10 +17056,14 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,8,00-0029892,K.Juszczyk,1.7,0.7,SF,DAL,0.0,1.0,6.0
 2024,11,00-0029892,K.Juszczyk,3.2,1.2,SF,SEA,0.0,0.0,12.0
 2024,12,00-0029892,K.Juszczyk,2.4,1.4,SF,GB,0.0,0.0,14.0
+2024,13,00-0029892,K.Juszczyk,-2.1,-2.1,SF,BUF,0.0,-1.0,0.0
+2024,14,00-0029892,K.Juszczyk,1.3,0.3,SF,CHI,0.0,0.0,3.0
 2024,1,00-0030035,A.Thielen,7.9,4.9,CAR,NO,0.0,0.0,49.0
 2024,2,00-0030035,A.Thielen,4.0,2.0,CAR,LAC,0.0,0.0,20.0
 2024,3,00-0030035,A.Thielen,13.0,10.0,CAR,LV,0.0,0.0,40.0
 2024,12,00-0030035,A.Thielen,8.7,5.7,CAR,KC,0.0,0.0,57.0
+2024,13,00-0030035,A.Thielen,23.9,15.9,CAR,TB,0.0,0.0,99.0
+2024,14,00-0030035,A.Thielen,19.2,10.2,CAR,PHI,0.0,0.0,102.0
 2024,1,00-0030061,Z.Ertz,5.8,2.8,WAS,TB,0.0,0.0,28.0
 2024,2,00-0030061,Z.Ertz,10.2,6.2,WAS,NYG,0.0,0.0,62.0
 2024,3,00-0030061,Z.Ertz,8.8,3.8,WAS,CIN,0.0,0.0,38.0
@@ -17064,6 +17076,7 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,10,00-0030061,Z.Ertz,7.1,3.1,WAS,PIT,0.0,0.0,31.0
 2024,11,00-0030061,Z.Ertz,18.7,12.7,WAS,PHI,0.0,0.0,47.0
 2024,12,00-0030061,Z.Ertz,15.8,9.8,WAS,DAL,0.0,0.0,38.0
+2024,13,00-0030061,Z.Ertz,12.5,9.5,WAS,TEN,0.0,0.0,35.0
 2024,1,00-0030279,K.Allen,6.9,2.9,CHI,TEN,0.0,0.0,29.0
 2024,4,00-0030279,K.Allen,4.9,1.9,CHI,LA,0.0,0.0,19.0
 2024,5,00-0030279,K.Allen,6.3,3.3,CHI,CAR,0.0,0.0,33.0
@@ -17074,6 +17087,7 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,11,00-0030279,K.Allen,8.1,4.1,CHI,GB,0.0,0.0,41.0
 2024,12,00-0030279,K.Allen,23.6,14.6,CHI,MIN,0.0,0.0,86.0
 2024,13,00-0030279,K.Allen,24.3,19.3,CHI,DET,0.0,0.0,73.0
+2024,14,00-0030279,K.Allen,6.0,3.0,CHI,SF,0.0,0.0,30.0
 2024,3,00-0030431,R.Woods,3.8,1.8,HOU,MIN,0.0,0.0,18.0
 2024,4,00-0030431,R.Woods,2.0,1.0,HOU,JAX,0.0,0.0,10.0
 2024,8,00-0030431,R.Woods,3.8,1.8,HOU,IND,0.0,0.0,18.0
@@ -17081,6 +17095,7 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,10,00-0030431,R.Woods,1.1,0.1,HOU,DET,0.0,0.0,1.0
 2024,11,00-0030431,R.Woods,3.3,1.3,HOU,DAL,0.0,0.0,13.0
 2024,12,00-0030431,R.Woods,1.8,0.8,HOU,TEN,0.0,0.0,8.0
+2024,13,00-0030431,R.Woods,0.0,0.0,HOU,JAX,0.0,0.0,0.0
 2024,1,00-0030506,T.Kelce,6.4,3.4,KC,BAL,0.0,0.0,34.0
 2024,2,00-0030506,T.Kelce,1.6,0.6,KC,CIN,0.0,1.0,5.0
 2024,3,00-0030506,T.Kelce,7.0,3.0,KC,ATL,0.0,0.0,30.0
@@ -17093,6 +17108,7 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,11,00-0030506,T.Kelce,2.8,0.8,KC,BUF,0.0,0.0,8.0
 2024,12,00-0030506,T.Kelce,12.2,6.2,KC,CAR,0.0,0.0,62.0
 2024,13,00-0030506,T.Kelce,13.8,6.8,KC,LV,0.0,0.0,68.0
+2024,14,00-0030506,T.Kelce,9.5,4.5,KC,LAC,0.0,0.0,45.0
 2024,1,00-0030564,D.Hopkins,1.8,0.8,TEN,CHI,0.0,0.0,8.0
 2024,2,00-0030564,D.Hopkins,1.9,0.9,TEN,NYJ,0.0,0.0,9.0
 2024,3,00-0030564,D.Hopkins,19.3,13.3,TEN,GB,0.0,0.0,73.0
@@ -17105,6 +17121,7 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,11,00-0030564,D.Hopkins,5.9,2.9,KC,BUF,0.0,0.0,29.0
 2024,12,00-0030564,D.Hopkins,14.5,9.5,KC,CAR,0.0,0.0,35.0
 2024,13,00-0030564,D.Hopkins,13.0,9.0,KC,LV,0.0,0.0,90.0
+2024,14,00-0030564,D.Hopkins,13.2,9.2,KC,LAC,0.0,0.0,32.0
 2024,1,00-0030565,G.Smith,17.84,17.84,SEA,DEN,171.0,30.0,0.0
 2024,2,00-0030565,G.Smith,17.88,17.88,SEA,NE,327.0,8.0,0.0
 2024,3,00-0030565,G.Smith,11.36,11.36,SEA,MIA,289.0,-2.0,0.0
@@ -17116,6 +17133,8 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,9,00-0030565,G.Smith,22.12,22.12,SEA,LA,363.0,16.0,0.0
 2024,11,00-0030565,G.Smith,15.74,15.74,SEA,SF,221.0,29.0,0.0
 2024,12,00-0030565,G.Smith,12.36,12.36,SEA,ARI,254.0,2.0,0.0
+2024,13,00-0030565,G.Smith,12.44,12.44,SEA,NYJ,206.0,2.0,0.0
+2024,14,00-0030565,G.Smith,13.32,13.32,SEA,ARI,233.0,0.0,0.0
 2024,1,00-0030578,C.Patterson,1.3,1.3,PIT,ATL,0.0,13.0,0.0
 2024,2,00-0030578,C.Patterson,0.3,0.3,PIT,DEN,0.0,3.0,0.0
 2024,3,00-0030578,C.Patterson,7.8,4.8,PIT,LAC,0.0,33.0,15.0
@@ -17123,6 +17142,8 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,10,00-0030578,C.Patterson,1.4,1.4,PIT,WAS,0.0,14.0,0.0
 2024,11,00-0030578,C.Patterson,1.0,0.0,PIT,BAL,0.0,0.0,0.0
 2024,12,00-0030578,C.Patterson,-0.2,-0.2,PIT,CLE,0.0,-2.0,0.0
+2024,13,00-0030578,C.Patterson,8.3,5.3,PIT,CIN,0.0,16.0,37.0
+2024,14,00-0030578,C.Patterson,-0.9,-1.9,PIT,CLE,0.0,3.0,-2.0
 2024,5,00-0031235,O.Beckham,0.0,0.0,MIA,NE,0.0,0.0,0.0
 2024,7,00-0031235,O.Beckham,0.0,0.0,MIA,IND,0.0,0.0,0.0
 2024,9,00-0031235,O.Beckham,4.5,1.5,MIA,BUF,0.0,0.0,15.0
@@ -17130,11 +17151,13 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,11,00-0031235,O.Beckham,3.3,1.3,MIA,LV,0.0,0.0,13.0
 2024,12,00-0031235,O.Beckham,0.0,0.0,MIA,NE,0.0,0.0,0.0
 2024,13,00-0031235,O.Beckham,1.9,0.9,MIA,GB,0.0,0.0,9.0
+2024,14,00-0031235,O.Beckham,1.1,0.1,MIA,NYJ,0.0,0.0,1.0
 2024,1,00-0031236,B.Cooks,14.5,10.5,DAL,CLE,0.0,5.0,40.0
 2024,2,00-0031236,B.Cooks,3.6,1.6,DAL,NO,0.0,-3.0,19.0
 2024,3,00-0031236,B.Cooks,3.6,1.6,DAL,BAL,0.0,0.0,16.0
 2024,4,00-0031236,B.Cooks,2.6,1.6,DAL,NYG,0.0,0.0,16.0
 2024,13,00-0031236,B.Cooks,10.6,7.6,DAL,NYG,0.0,0.0,16.0
+2024,14,00-0031236,B.Cooks,7.3,6.3,DAL,CIN,0.0,0.0,3.0
 2024,1,00-0031280,D.Carr,21.3,21.3,NO,CAR,200.0,13.0,0.0
 2024,2,00-0031280,D.Carr,21.82,21.82,NO,DAL,243.0,1.0,0.0
 2024,3,00-0031280,D.Carr,7.98,7.98,NO,PHI,142.0,3.0,0.0
@@ -17143,6 +17166,8 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,9,00-0031280,D.Carr,13.44,13.44,NO,CAR,236.0,0.0,0.0
 2024,10,00-0031280,D.Carr,20.46,20.46,NO,ATL,269.0,17.0,0.0
 2024,11,00-0031280,D.Carr,18.72,18.72,NO,CLE,248.0,8.0,0.0
+2024,13,00-0031280,D.Carr,14.56,14.56,NO,LA,184.0,12.0,0.0
+2024,14,00-0031280,D.Carr,11.96,11.96,NO,NYG,219.0,12.0,0.0
 2024,1,00-0031299,J.Matthews,0.0,0.0,CAR,NO,0.0,0.0,0.0
 2024,9,00-0031357,C.Goodwin,0.0,0.0,DAL,ATL,0.0,0.0,0.0
 2024,1,00-0031381,D.Adams,10.9,5.9,LV,LAC,0.0,0.0,59.0
@@ -17153,6 +17178,8 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,9,00-0031381,D.Adams,22.1,15.1,NYJ,HOU,0.0,0.0,91.0
 2024,10,00-0031381,D.Adams,9.1,3.1,NYJ,ARI,0.0,0.0,31.0
 2024,11,00-0031381,D.Adams,13.2,7.2,NYJ,IND,0.0,0.0,72.0
+2024,13,00-0031381,D.Adams,17.6,12.6,NYJ,SEA,0.0,0.0,66.0
+2024,14,00-0031381,D.Adams,25.9,16.9,NYJ,MIA,0.0,0.0,109.0
 2024,1,00-0031408,M.Evans,23.1,18.1,TB,WAS,0.0,0.0,61.0
 2024,2,00-0031408,M.Evans,7.2,4.2,TB,DET,0.0,0.0,42.0
 2024,3,00-0031408,M.Evans,3.7,1.7,TB,DEN,0.0,0.0,17.0
@@ -17161,6 +17188,8 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,6,00-0031408,M.Evans,5.4,3.4,TB,NO,0.0,0.0,34.0
 2024,7,00-0031408,M.Evans,9.5,8.5,TB,BAL,0.0,0.0,25.0
 2024,12,00-0031408,M.Evans,11.8,6.8,TB,NYG,0.0,0.0,68.0
+2024,13,00-0031408,M.Evans,25.8,17.8,TB,CAR,0.0,0.0,118.0
+2024,14,00-0031408,M.Evans,10.9,6.9,TB,LV,0.0,0.0,69.0
 2024,6,00-0031428,A.Robinson,0.0,0.0,DET,DAL,0.0,0.0,0.0
 2024,8,00-0031428,A.Robinson,0.0,0.0,DET,TEN,0.0,0.0,0.0
 2024,9,00-0031428,A.Robinson,1.2,0.2,DET,GB,0.0,0.0,2.0
@@ -17175,6 +17204,8 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,9,00-0031503,J.Winston,10.1,10.1,CLE,LAC,235.0,27.0,0.0
 2024,11,00-0031503,J.Winston,26.6,26.6,CLE,NO,395.0,8.0,0.0
 2024,12,00-0031503,J.Winston,13.46,13.46,CLE,PIT,219.0,7.0,0.0
+2024,13,00-0031503,J.Winston,32.98,32.98,CLE,DEN,497.0,11.0,0.0
+2024,14,00-0031503,J.Winston,15.28,15.28,CLE,PIT,212.0,28.0,0.0
 2024,1,00-0031544,A.Cooper,3.6,1.6,CLE,DAL,0.0,0.0,16.0
 2024,2,00-0031544,A.Cooper,4.1,1.1,CLE,JAX,0.0,0.0,11.0
 2024,3,00-0031544,A.Cooper,27.6,20.6,CLE,NYG,0.0,0.0,86.0
@@ -17184,6 +17215,8 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,7,00-0031544,A.Cooper,16.6,12.6,BUF,TEN,0.0,0.0,66.0
 2024,8,00-0031544,A.Cooper,1.3,0.3,BUF,SEA,0.0,0.0,3.0
 2024,11,00-0031544,A.Cooper,7.5,5.5,BUF,KC,0.0,0.0,55.0
+2024,13,00-0031544,A.Cooper,4.2,1.2,BUF,SF,0.0,0.0,12.0
+2024,14,00-0031544,A.Cooper,15.5,9.5,BUF,LA,0.0,0.0,95.0
 2024,1,00-0031549,N.Agholor,1.6,0.6,BAL,KC,0.0,0.0,6.0
 2024,2,00-0031549,N.Agholor,2.3,1.3,BAL,LV,0.0,0.0,13.0
 2024,3,00-0031549,N.Agholor,6.6,5.6,BAL,DAL,0.0,0.0,56.0
@@ -17195,9 +17228,12 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,9,00-0031549,N.Agholor,3.9,2.9,BAL,DEN,0.0,0.0,29.0
 2024,10,00-0031549,N.Agholor,7.6,6.6,BAL,CIN,0.0,0.0,6.0
 2024,11,00-0031549,N.Agholor,0.0,0.0,BAL,PIT,0.0,0.0,0.0
+2024,13,00-0031549,N.Agholor,0.0,0.0,BAL,PHI,0.0,0.0,0.0
 2024,1,00-0031585,M.Pruitt,1.9,0.9,PIT,ATL,0.0,0.0,9.0
 2024,8,00-0031585,M.Pruitt,2.0,1.0,PIT,NYG,0.0,0.0,10.0
 2024,10,00-0031585,M.Pruitt,0.0,0.0,PIT,WAS,0.0,0.0,0.0
+2024,13,00-0031585,M.Pruitt,4.1,2.1,PIT,CIN,0.0,0.0,21.0
+2024,14,00-0031585,M.Pruitt,0.9,-0.1,PIT,CLE,0.0,0.0,-1.0
 2024,1,00-0031588,S.Diggs,21.9,15.9,HOU,IND,0.0,6.0,33.0
 2024,2,00-0031588,S.Diggs,7.7,3.7,HOU,CHI,0.0,0.0,37.0
 2024,3,00-0031588,S.Diggs,19.92,9.92,HOU,MIN,13.0,0.0,94.0
@@ -17214,6 +17250,7 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,9,00-0031595,M.Burton,-0.1,-0.1,DEN,BAL,0.0,-1.0,0.0
 2024,11,00-0031595,M.Burton,1.0,0.0,DEN,ATL,0.0,2.0,-2.0
 2024,12,00-0031595,M.Burton,2.1,1.1,DEN,LV,0.0,3.0,8.0
+2024,13,00-0031595,M.Burton,6.1,6.1,DEN,CLE,0.0,1.0,0.0
 2024,1,00-0031687,R.Mostert,3.9,1.9,MIA,JAX,0.0,9.0,10.0
 2024,5,00-0031687,R.Mostert,11.8,9.8,MIA,NE,0.0,80.0,18.0
 2024,7,00-0031687,R.Mostert,3.0,3.0,MIA,IND,0.0,50.0,0.0
@@ -17233,6 +17270,7 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,8,00-0031763,D.Carter,1.7,0.7,CHI,WAS,0.0,0.0,7.0
 2024,10,00-0031763,D.Carter,1.5,0.5,CHI,NE,0.0,0.0,5.0
 2024,3,00-0031800,T.Heinicke,0.96,0.96,LAC,PIT,24.0,0.0,0.0
+2024,14,00-0031800,T.Heinicke,1.2,1.2,LAC,KC,0.0,12.0,0.0
 2024,1,00-0031941,J.Crowder,1.5,0.5,WAS,TB,0.0,0.0,5.0
 2024,2,00-0032104,A.Abdullah,2.2,0.2,LV,BAL,0.0,1.0,1.0
 2024,3,00-0032104,A.Abdullah,3.3,1.3,LV,CAR,0.0,0.0,13.0
@@ -17243,6 +17281,7 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,11,00-0032104,A.Abdullah,10.7,7.7,LV,MIA,0.0,1.0,16.0
 2024,12,00-0032104,A.Abdullah,17.5,12.5,LV,DEN,0.0,28.0,37.0
 2024,13,00-0032104,A.Abdullah,7.3,5.3,LV,KC,0.0,39.0,14.0
+2024,14,00-0032104,A.Abdullah,0.8,-0.2,LV,TB,0.0,1.0,-3.0
 2024,2,00-0032128,C.Conley,1.4,0.4,SF,MIN,0.0,0.0,4.0
 2024,4,00-0032128,C.Conley,0.0,0.0,SF,NE,0.0,0.0,0.0
 2024,7,00-0032128,C.Conley,0.0,0.0,SF,KC,0.0,0.0,0.0
@@ -17260,6 +17299,8 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,9,00-0032211,T.Lockett,15.3,12.3,SEA,LA,0.0,0.0,63.0
 2024,11,00-0032211,T.Lockett,3.9,1.9,SEA,SF,0.0,0.0,19.0
 2024,12,00-0032211,T.Lockett,4.0,2.0,SEA,ARI,0.0,0.0,20.0
+2024,13,00-0032211,T.Lockett,4.6,1.6,SEA,NYJ,0.0,0.0,16.0
+2024,14,00-0032211,T.Lockett,0.0,0.0,SEA,ARI,0.0,0.0,0.0
 2024,5,00-0032268,M.Mariota,0.12,0.12,WAS,CLE,-2.0,2.0,0.0
 2024,7,00-0032268,M.Mariota,19.6,19.6,WAS,CAR,205.0,34.0,0.0
 2024,6,00-0032381,T.Decker,0.0,0.0,DET,DAL,0.0,0.0,0.0
@@ -17271,6 +17312,8 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,9,00-0032385,S.Shepard,10.9,6.9,TB,KC,0.0,21.0,48.0
 2024,10,00-0032385,S.Shepard,2.0,1.0,TB,SF,0.0,3.0,7.0
 2024,12,00-0032385,S.Shepard,6.6,1.6,TB,NYG,0.0,0.0,16.0
+2024,13,00-0032385,S.Shepard,8.2,4.2,TB,CAR,0.0,0.0,42.0
+2024,14,00-0032385,S.Shepard,10.3,6.3,TB,LV,0.0,0.0,63.0
 2024,1,00-0032392,A.Hooper,5.1,3.1,NE,CIN,0.0,0.0,31.0
 2024,2,00-0032392,A.Hooper,1.5,0.5,NE,SEA,0.0,0.0,5.0
 2024,3,00-0032392,A.Hooper,2.9,1.9,NE,NYJ,0.0,0.0,19.0
@@ -17283,6 +17326,7 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,10,00-0032392,A.Hooper,9.4,6.4,NE,CHI,0.0,0.0,64.0
 2024,11,00-0032392,A.Hooper,7.5,3.5,NE,LA,0.0,0.0,35.0
 2024,12,00-0032392,A.Hooper,15.9,11.9,NE,MIA,0.0,0.0,59.0
+2024,13,00-0032392,A.Hooper,14.2,10.2,NE,IND,0.0,0.0,42.0
 2024,1,00-0032394,N.Vannett,3.1,1.1,TEN,CHI,0.0,0.0,11.0
 2024,3,00-0032394,N.Vannett,8.9,6.9,TEN,GB,0.0,0.0,9.0
 2024,7,00-0032394,N.Vannett,6.5,2.5,TEN,BUF,0.0,0.0,25.0
@@ -17290,9 +17334,12 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,9,00-0032394,N.Vannett,11.3,9.3,TEN,NE,0.0,0.0,33.0
 2024,11,00-0032394,N.Vannett,1.6,0.6,TEN,MIN,0.0,0.0,6.0
 2024,12,00-0032394,N.Vannett,0.0,0.0,TEN,HOU,0.0,0.0,0.0
+2024,13,00-0032394,N.Vannett,1.6,0.6,TEN,WAS,0.0,0.0,6.0
+2024,14,00-0032394,N.Vannett,1.4,0.4,TEN,JAX,0.0,0.0,4.0
 2024,10,00-0032399,M.Killebrew,0.0,0.0,PIT,WAS,0.0,0.0,0.0
 2024,1,00-0032434,B.Allen,-0.1,-0.1,SF,NYJ,0.0,-1.0,0.0
 2024,12,00-0032434,B.Allen,8.46,8.46,SF,GB,199.0,5.0,0.0
+2024,14,00-0032434,B.Allen,-2.0,-2.0,SF,CHI,0.0,0.0,0.0
 2024,1,00-0032464,K.Raymond,1.2,1.2,DET,LA,0.0,12.0,0.0
 2024,2,00-0032464,K.Raymond,5.7,2.7,DET,TB,0.0,0.0,27.0
 2024,4,00-0032464,K.Raymond,1.9,0.9,DET,SEA,0.0,0.0,9.0
@@ -17315,6 +17362,7 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,10,00-0032764,D.Henry,14.1,13.1,BAL,CIN,0.0,68.0,3.0
 2024,11,00-0032764,D.Henry,10.5,10.5,BAL,PIT,0.0,65.0,0.0
 2024,12,00-0032764,D.Henry,14.0,14.0,BAL,LAC,0.0,140.0,0.0
+2024,13,00-0032764,D.Henry,14.1,11.1,BAL,PHI,0.0,82.0,29.0
 2024,1,00-0032775,D.Robinson,8.2,4.2,LA,DET,0.0,0.0,42.0
 2024,2,00-0032775,D.Robinson,7.0,5.0,LA,ARI,0.0,0.0,50.0
 2024,3,00-0032775,D.Robinson,4.2,3.2,LA,SF,0.0,0.0,32.0
@@ -17326,6 +17374,8 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,10,00-0032775,D.Robinson,3.3,2.3,LA,MIA,0.0,0.0,23.0
 2024,11,00-0032775,D.Robinson,3.9,1.9,LA,NE,0.0,0.0,19.0
 2024,12,00-0032775,D.Robinson,9.5,7.5,LA,PHI,0.0,0.0,15.0
+2024,13,00-0032775,D.Robinson,12.9,10.9,LA,NO,0.0,0.0,49.0
+2024,14,00-0032775,D.Robinson,0.0,0.0,LA,BUF,0.0,0.0,0.0
 2024,1,00-0032918,C.Ham,1.1,-0.9,MIN,NYG,0.0,0.0,11.0
 2024,5,00-0032918,C.Ham,7.0,7.0,MIN,NYJ,0.0,10.0,0.0
 2024,12,00-0032918,C.Ham,0.0,0.0,MIN,CHI,0.0,0.0,0.0
@@ -17340,6 +17390,8 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,9,00-0033009,T.Boyd,0.3,0.3,TEN,NE,0.0,3.0,0.0
 2024,11,00-0033009,T.Boyd,5.4,3.4,TEN,MIN,0.0,0.0,34.0
 2024,12,00-0033009,T.Boyd,11.5,5.5,TEN,HOU,0.0,0.0,55.0
+2024,13,00-0033009,T.Boyd,6.7,3.7,TEN,WAS,0.0,0.0,37.0
+2024,14,00-0033009,T.Boyd,1.7,0.7,TEN,JAX,0.0,0.0,7.0
 2024,1,00-0033040,T.Hill,26.0,19.0,MIA,JAX,0.0,0.0,130.0
 2024,2,00-0033040,T.Hill,6.6,3.6,MIA,BUF,0.0,12.0,24.0
 2024,3,00-0033040,T.Hill,7.0,4.0,MIA,SEA,0.0,0.0,40.0
@@ -17352,6 +17404,7 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,11,00-0033040,T.Hill,19.1,12.1,MIA,LV,0.0,0.0,61.0
 2024,12,00-0033040,T.Hill,9.8,4.8,MIA,NE,0.0,0.0,48.0
 2024,13,00-0033040,T.Hill,20.3,14.3,MIA,GB,0.0,0.0,83.0
+2024,14,00-0033040,T.Hill,28.1,18.1,MIA,NYJ,0.0,6.0,115.0
 2024,1,00-0033045,E.Elliott,12.9,10.9,DAL,CLE,0.0,40.0,9.0
 2024,2,00-0033045,E.Elliott,5.2,3.2,DAL,NO,0.0,16.0,16.0
 2024,3,00-0033045,E.Elliott,2.2,1.2,DAL,BAL,0.0,6.0,6.0
@@ -17363,6 +17416,7 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,11,00-0033045,E.Elliott,5.4,2.4,DAL,HOU,0.0,8.0,16.0
 2024,12,00-0033045,E.Elliott,0.6,0.6,DAL,WAS,0.0,6.0,0.0
 2024,13,00-0033045,E.Elliott,0.4,0.4,DAL,NYG,0.0,4.0,0.0
+2024,14,00-0033045,E.Elliott,1.6,0.6,DAL,CIN,0.0,4.0,2.0
 2024,1,00-0033077,D.Prescott,11.46,11.46,DAL,CLE,179.0,3.0,0.0
 2024,2,00-0033077,D.Prescott,12.92,12.92,DAL,NO,293.0,12.0,0.0
 2024,3,00-0033077,D.Prescott,29.86,29.86,DAL,BAL,379.0,7.0,0.0
@@ -17383,6 +17437,7 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,10,00-0033090,H.Henry,2.4,1.4,NE,CHI,0.0,0.0,14.0
 2024,11,00-0033090,H.Henry,12.3,6.3,NE,LA,0.0,0.0,63.0
 2024,12,00-0033090,H.Henry,9.4,4.4,NE,MIA,0.0,0.0,44.0
+2024,13,00-0033090,H.Henry,14.5,7.5,NE,IND,0.0,0.0,75.0
 2024,1,00-0033106,J.Goff,11.38,11.38,DET,LA,217.0,7.0,0.0
 2024,2,00-0033106,J.Goff,8.78,8.78,DET,TB,307.0,5.0,0.0
 2024,3,00-0033106,J.Goff,14.56,14.56,DET,ARI,199.0,6.0,0.0
@@ -17395,6 +17450,7 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,11,00-0033106,J.Goff,34.58,34.58,DET,JAX,412.0,21.0,0.0
 2024,12,00-0033106,J.Goff,10.76,10.76,DET,IND,269.0,0.0,0.0
 2024,13,00-0033106,J.Goff,16.94,16.94,DET,CHI,221.0,1.0,0.0
+2024,14,00-0033106,J.Goff,22.02,22.02,DET,GB,283.0,7.0,0.0
 2024,1,00-0033119,J.Brissett,8.04,8.04,NE,CIN,121.0,32.0,0.0
 2024,2,00-0033119,J.Brissett,10.56,10.56,NE,SEA,149.0,6.0,0.0
 2024,3,00-0033119,J.Brissett,3.92,3.92,NE,NYJ,98.0,0.0,0.0
@@ -17409,6 +17465,7 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,7,00-0033217,M.Alie-Cox,0.0,0.0,IND,MIA,0.0,0.0,0.0
 2024,8,00-0033217,M.Alie-Cox,0.0,0.0,IND,HOU,0.0,0.0,0.0
 2024,11,00-0033217,M.Alie-Cox,3.7,1.7,IND,NYJ,0.0,0.0,17.0
+2024,13,00-0033217,M.Alie-Cox,3.5,1.5,IND,NE,0.0,0.0,15.0
 2024,1,00-0033246,J.Mundt,3.5,1.5,MIN,NYG,0.0,0.0,15.0
 2024,2,00-0033246,J.Mundt,3.2,1.2,MIN,SF,0.0,0.0,12.0
 2024,3,00-0033246,J.Mundt,7.2,6.2,MIN,HOU,0.0,0.0,2.0
@@ -17419,9 +17476,11 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,9,00-0033246,J.Mundt,0.0,0.0,MIN,IND,0.0,0.0,0.0
 2024,11,00-0033246,J.Mundt,2.3,1.3,MIN,TEN,0.0,0.0,13.0
 2024,12,00-0033246,J.Mundt,1.7,0.7,MIN,CHI,0.0,0.0,7.0
+2024,13,00-0033246,J.Mundt,10.2,8.2,MIN,ARI,0.0,0.0,22.0
 2024,10,00-0033280,C.McCaffrey,16.7,10.7,SF,TB,0.0,39.0,68.0
 2024,11,00-0033280,C.McCaffrey,14.6,10.6,SF,SEA,0.0,79.0,27.0
 2024,12,00-0033280,C.McCaffrey,7.8,4.8,SF,GB,0.0,31.0,37.0
+2024,13,00-0033280,C.McCaffrey,8.7,6.7,SF,BUF,0.0,53.0,14.0
 2024,1,00-0033282,C.Samuel,3.5,1.5,BUF,ARI,0.0,0.0,15.0
 2024,2,00-0033282,C.Samuel,1.3,0.3,BUF,MIA,0.0,0.0,3.0
 2024,3,00-0033282,C.Samuel,5.2,2.2,BUF,JAX,0.0,0.0,22.0
@@ -17432,6 +17491,8 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,9,00-0033282,C.Samuel,0.0,0.0,BUF,MIA,0.0,0.0,0.0
 2024,10,00-0033282,C.Samuel,7.5,3.5,BUF,IND,0.0,0.0,35.0
 2024,11,00-0033282,C.Samuel,16.8,11.8,BUF,KC,0.0,0.0,58.0
+2024,13,00-0033282,C.Samuel,0.7,0.7,BUF,SF,0.0,7.0,0.0
+2024,14,00-0033282,C.Samuel,3.6,1.6,BUF,LA,0.0,1.0,15.0
 2024,1,00-0033288,G.Kittle,8.0,4.0,SF,NYJ,0.0,0.0,40.0
 2024,2,00-0033288,G.Kittle,20.6,13.6,SF,MIN,0.0,0.0,76.0
 2024,4,00-0033288,G.Kittle,14.5,10.5,SF,NE,0.0,0.0,45.0
@@ -17441,6 +17502,8 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,8,00-0033288,G.Kittle,24.8,18.8,SF,DAL,0.0,0.0,128.0
 2024,10,00-0033288,G.Kittle,14.7,11.7,SF,TB,0.0,0.0,57.0
 2024,12,00-0033288,G.Kittle,20.2,14.2,SF,GB,0.0,0.0,82.0
+2024,13,00-0033288,G.Kittle,1.7,0.7,SF,BUF,0.0,0.0,7.0
+2024,14,00-0033288,G.Kittle,21.1,15.1,SF,CHI,0.0,0.0,151.0
 2024,1,00-0033293,A.Jones,18.9,16.9,MIN,NYG,0.0,94.0,15.0
 2024,2,00-0033293,A.Jones,9.8,4.8,MIN,SF,0.0,32.0,36.0
 2024,3,00-0033293,A.Jones,25.8,20.8,MIN,HOU,0.0,102.0,46.0
@@ -17452,6 +17515,8 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,10,00-0033293,A.Jones,12.1,10.1,MIN,JAX,0.0,88.0,13.0
 2024,11,00-0033293,A.Jones,5.3,4.3,MIN,TEN,0.0,39.0,4.0
 2024,12,00-0033293,A.Jones,19.9,16.9,MIN,CHI,0.0,106.0,23.0
+2024,13,00-0033293,A.Jones,9.8,6.8,MIN,ARI,0.0,22.0,6.0
+2024,14,00-0033293,A.Jones,16.4,14.4,MIN,ATL,0.0,73.0,11.0
 2024,5,00-0033307,K.Bourne,1.6,0.6,NE,MIA,0.0,0.0,6.0
 2024,6,00-0033307,K.Bourne,2.9,0.9,NE,HOU,0.0,0.0,9.0
 2024,7,00-0033307,K.Bourne,2.4,1.4,NE,JAX,0.0,0.0,14.0
@@ -17459,9 +17524,11 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,9,00-0033307,K.Bourne,8.1,4.1,NE,TEN,0.0,0.0,41.0
 2024,11,00-0033307,K.Bourne,18.0,13.0,NE,LA,0.0,0.0,70.0
 2024,12,00-0033307,K.Bourne,6.0,3.0,NE,MIA,0.0,0.0,30.0
+2024,13,00-0033307,K.Bourne,7.5,4.5,NE,IND,0.0,6.0,39.0
 2024,3,00-0033319,N.Mullens,0.0,0.0,MIN,HOU,0.0,0.0,0.0
 2024,5,00-0033319,N.Mullens,0.96,0.96,MIN,NYJ,24.0,0.0,0.0
 2024,12,00-0033319,N.Mullens,0.56,0.56,MIN,CHI,14.0,0.0,0.0
+2024,14,00-0033319,N.Mullens,-0.2,-0.2,MIN,ATL,0.0,-2.0,0.0
 2024,1,00-0033357,T.Hill,4.6,3.6,NO,CAR,0.0,35.0,1.0
 2024,2,00-0033357,T.Hill,2.9,1.9,NO,DAL,0.0,18.0,1.0
 2024,4,00-0033357,T.Hill,14.4,14.4,NO,ATL,0.0,24.0,0.0
@@ -17469,6 +17536,7 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,9,00-0033357,T.Hill,16.0,12.0,NO,CAR,0.0,19.0,41.0
 2024,10,00-0033357,T.Hill,7.0,5.0,NO,ATL,0.0,14.0,36.0
 2024,11,00-0033357,T.Hill,41.52,33.52,NO,CLE,18.0,138.0,50.0
+2024,13,00-0033357,T.Hill,9.7,4.7,NO,LA,0.0,10.0,37.0
 2024,2,00-0033375,T.Patrick,3.2,1.2,DET,TB,0.0,0.0,12.0
 2024,3,00-0033375,T.Patrick,1.8,0.8,DET,ARI,0.0,0.0,8.0
 2024,4,00-0033375,T.Patrick,7.2,5.2,DET,SEA,0.0,0.0,52.0
@@ -17479,6 +17547,7 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,11,00-0033375,T.Patrick,5.6,2.6,DET,JAX,0.0,0.0,26.0
 2024,12,00-0033375,T.Patrick,9.5,5.5,DET,IND,0.0,0.0,55.0
 2024,13,00-0033375,T.Patrick,6.8,4.8,DET,CHI,0.0,0.0,48.0
+2024,14,00-0033375,T.Patrick,22.3,16.3,DET,GB,0.0,0.0,43.0
 2024,2,00-0033376,P.Ricard,0.0,0.0,BAL,LV,0.0,0.0,0.0
 2024,7,00-0033376,P.Ricard,0.0,0.0,BAL,TB,0.0,0.0,0.0
 2024,9,00-0033376,P.Ricard,7.3,6.3,BAL,DEN,0.0,0.0,3.0
@@ -17487,6 +17556,8 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,4,00-0033439,P.Brown,1.3,0.3,SEA,DET,0.0,0.0,3.0
 2024,5,00-0033439,P.Brown,1.7,0.7,SEA,NYG,0.0,0.0,7.0
 2024,12,00-0033439,P.Brown,3.9,1.9,SEA,ARI,0.0,0.0,19.0
+2024,13,00-0033439,P.Brown,0.0,0.0,SEA,NYJ,0.0,0.0,0.0
+2024,14,00-0033439,P.Brown,1.6,0.6,SEA,ARI,0.0,0.0,6.0
 2024,4,00-0033460,J.Ross,1.6,0.6,PHI,TB,0.0,0.0,6.0
 2024,1,00-0033526,S.Perine,2.0,1.0,KC,BAL,0.0,0.0,10.0
 2024,2,00-0033526,S.Perine,1.3,0.3,KC,CIN,0.0,0.0,3.0
@@ -17500,6 +17571,7 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,11,00-0033526,S.Perine,2.8,0.8,KC,BUF,0.0,0.0,8.0
 2024,12,00-0033526,S.Perine,4.4,2.4,KC,CAR,0.0,13.0,11.0
 2024,13,00-0033526,S.Perine,2.5,1.5,KC,LV,0.0,0.0,15.0
+2024,14,00-0033526,S.Perine,2.9,1.9,KC,LAC,0.0,3.0,16.0
 2024,2,00-0033536,M.Williams,2.9,1.9,NYJ,TEN,0.0,0.0,19.0
 2024,3,00-0033536,M.Williams,6.4,3.4,NYJ,NE,0.0,0.0,34.0
 2024,4,00-0033536,M.Williams,10.7,6.7,NYJ,DEN,0.0,0.0,67.0
@@ -17508,6 +17580,7 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,7,00-0033536,M.Williams,2.5,1.5,NYJ,PIT,0.0,0.0,15.0
 2024,9,00-0033536,M.Williams,1.6,0.6,NYJ,HOU,0.0,0.0,6.0
 2024,10,00-0033536,M.Williams,10.2,9.2,PIT,WAS,0.0,0.0,32.0
+2024,14,00-0033536,M.Williams,6.6,3.6,PIT,CLE,0.0,0.0,36.0
 2024,1,00-0033537,D.Watson,10.66,10.66,CLE,DAL,169.0,39.0,0.0
 2024,2,00-0033537,D.Watson,15.44,15.44,CLE,JAX,186.0,20.0,0.0
 2024,3,00-0033537,D.Watson,16.44,16.44,CLE,NYG,196.0,26.0,0.0
@@ -17526,6 +17599,8 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,9,00-0033553,J.Conner,14.9,11.9,ARI,CHI,0.0,107.0,12.0
 2024,10,00-0033553,J.Conner,22.3,17.3,ARI,NYJ,0.0,33.0,80.0
 2024,12,00-0033553,J.Conner,9.9,4.9,ARI,SEA,0.0,8.0,41.0
+2024,13,00-0033553,J.Conner,11.1,8.1,ARI,MIN,0.0,68.0,13.0
+2024,14,00-0033553,J.Conner,22.2,18.2,ARI,SEA,0.0,90.0,32.0
 2024,1,00-0033555,M.Hollins,10.5,8.5,BUF,ARI,0.0,0.0,25.0
 2024,2,00-0033555,M.Hollins,0.0,0.0,BUF,MIA,0.0,0.0,0.0
 2024,3,00-0033555,M.Hollins,2.6,1.6,BUF,JAX,0.0,0.0,16.0
@@ -17536,12 +17611,15 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,9,00-0033555,M.Hollins,14.0,9.0,BUF,MIA,0.0,0.0,30.0
 2024,10,00-0033555,M.Hollins,12.6,8.6,BUF,IND,0.0,0.0,86.0
 2024,11,00-0033555,M.Hollins,4.7,2.7,BUF,KC,0.0,0.0,27.0
+2024,13,00-0033555,M.Hollins,7.7,6.7,BUF,SF,0.0,0.0,7.0
+2024,14,00-0033555,M.Hollins,15.7,11.7,BUF,LA,0.0,0.0,57.0
 2024,7,00-0033557,J.Reeves-Maybin,0.1,0.1,DET,MIN,0.0,1.0,0.0
 2024,1,00-0033576,E.Saubert,0.0,0.0,SF,NYJ,0.0,0.0,0.0
 2024,2,00-0033576,E.Saubert,4.6,2.6,SF,MIN,0.0,0.0,26.0
 2024,3,00-0033576,E.Saubert,6.1,4.1,SF,LA,0.0,0.0,41.0
 2024,11,00-0033576,E.Saubert,1.7,0.7,SF,SEA,0.0,0.0,7.0
 2024,12,00-0033576,E.Saubert,0.0,0.0,SF,GB,0.0,0.0,0.0
+2024,14,00-0033576,E.Saubert,1.4,0.4,SF,CHI,0.0,0.0,4.0
 2024,1,00-0033589,D.Moore,2.4,1.4,CAR,NO,0.0,0.0,14.0
 2024,2,00-0033589,D.Moore,0.0,0.0,CAR,LAC,0.0,0.0,0.0
 2024,5,00-0033589,D.Moore,3.3,1.3,CAR,CHI,0.0,0.0,13.0
@@ -17550,6 +17628,8 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,9,00-0033589,D.Moore,4.0,2.0,CAR,NO,0.0,0.0,20.0
 2024,10,00-0033589,D.Moore,3.8,1.8,CAR,NYG,0.0,0.0,18.0
 2024,12,00-0033589,D.Moore,20.1,14.1,CAR,KC,0.0,0.0,81.0
+2024,13,00-0033589,D.Moore,9.0,4.0,CAR,TB,0.0,0.0,40.0
+2024,14,00-0033589,D.Moore,4.5,2.5,CAR,PHI,0.0,0.0,25.0
 2024,2,00-0033591,N.Brown,8.6,5.6,WAS,NYG,0.0,0.0,56.0
 2024,3,00-0033591,N.Brown,5.9,2.9,WAS,CIN,0.0,0.0,29.0
 2024,4,00-0033591,N.Brown,5.6,2.6,WAS,ARI,0.0,0.0,26.0
@@ -17560,6 +17640,7 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,10,00-0033591,N.Brown,6.3,3.3,WAS,PIT,0.0,0.0,33.0
 2024,11,00-0033591,N.Brown,1.4,0.4,WAS,PHI,0.0,0.0,4.0
 2024,12,00-0033591,N.Brown,13.1,7.1,WAS,DAL,0.0,0.0,71.0
+2024,13,00-0033591,N.Brown,5.7,2.7,WAS,TEN,0.0,0.0,27.0
 2024,1,00-0033662,C.Rush,-0.1,-0.1,DAL,CLE,0.0,-1.0,0.0
 2024,2,00-0033662,C.Rush,0.24,0.24,DAL,NO,6.0,0.0,0.0
 2024,6,00-0033662,C.Rush,0.04,0.04,DAL,DET,46.0,2.0,0.0
@@ -17568,6 +17649,7 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,11,00-0033662,C.Rush,16.36,16.36,DAL,HOU,354.0,2.0,0.0
 2024,12,00-0033662,C.Rush,17.98,17.98,DAL,WAS,247.0,1.0,0.0
 2024,13,00-0033662,C.Rush,11.8,11.8,DAL,NYG,195.0,0.0,0.0
+2024,14,00-0033662,C.Rush,13.82,13.82,DAL,CIN,183.0,5.0,0.0
 2024,1,00-0033699,A.Ekeler,10.2,6.2,WAS,TB,0.0,10.0,52.0
 2024,2,00-0033699,A.Ekeler,11.5,8.5,WAS,NYG,0.0,38.0,47.0
 2024,3,00-0033699,A.Ekeler,13.7,11.7,WAS,CIN,0.0,35.0,22.0
@@ -17596,6 +17678,7 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,11,00-0033857,J.Smith-Schuster,1.8,0.8,KC,BUF,0.0,0.0,8.0
 2024,12,00-0033857,J.Smith-Schuster,1.6,0.6,KC,CAR,0.0,0.0,6.0
 2024,13,00-0033857,J.Smith-Schuster,2.0,1.0,KC,LV,0.0,0.0,10.0
+2024,14,00-0033857,J.Smith-Schuster,5.1,3.1,KC,LAC,0.0,0.0,31.0
 2024,1,00-0033858,J.Smith,1.7,0.7,MIA,JAX,0.0,0.0,7.0
 2024,2,00-0033858,J.Smith,11.3,5.3,MIA,BUF,0.0,0.0,53.0
 2024,3,00-0033858,J.Smith,3.8,1.8,MIA,SEA,0.0,0.0,18.0
@@ -17608,11 +17691,13 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,11,00-0033858,J.Smith,28.1,22.1,MIA,LV,0.0,0.0,101.0
 2024,12,00-0033858,J.Smith,23.7,14.7,MIA,NE,0.0,0.0,87.0
 2024,13,00-0033858,J.Smith,21.3,11.3,MIA,GB,0.0,0.0,113.0
+2024,14,00-0033858,J.Smith,13.4,10.4,MIA,NYJ,0.0,0.0,44.0
 2024,2,00-0033869,M.Trubisky,-0.2,-0.2,BUF,MIA,0.0,-2.0,0.0
 2024,3,00-0033869,M.Trubisky,0.02,0.02,BUF,JAX,3.0,-1.0,0.0
 2024,4,00-0033869,M.Trubisky,0.08,0.08,BUF,BAL,2.0,0.0,0.0
 2024,8,00-0033869,M.Trubisky,-0.3,-0.3,BUF,SEA,0.0,-3.0,0.0
 2024,10,00-0033869,M.Trubisky,-0.1,-0.1,BUF,IND,0.0,-1.0,0.0
+2024,13,00-0033869,M.Trubisky,-0.14,-0.14,BUF,SF,4.0,-3.0,0.0
 2024,1,00-0033873,P.Mahomes,15.14,14.14,KC,BAL,291.0,3.0,2.0
 2024,2,00-0033873,P.Mahomes,12.94,12.94,KC,CIN,151.0,29.0,0.0
 2024,3,00-0033873,P.Mahomes,16.38,16.38,KC,ATL,217.0,17.0,0.0
@@ -17625,6 +17710,7 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,11,00-0033873,P.Mahomes,15.84,15.84,KC,BUF,196.0,0.0,0.0
 2024,12,00-0033873,P.Mahomes,28.76,28.76,KC,CAR,269.0,60.0,0.0
 2024,13,00-0033873,P.Mahomes,16.64,16.64,KC,LV,306.0,4.0,0.0
+2024,14,00-0033873,P.Mahomes,14.1,14.1,KC,LAC,210.0,17.0,0.0
 2024,1,00-0033881,E.Engram,1.5,0.5,JAX,MIA,0.0,0.0,5.0
 2024,6,00-0033881,E.Engram,18.2,8.2,JAX,CHI,0.0,0.0,102.0
 2024,7,00-0033881,E.Engram,8.5,3.5,JAX,NE,0.0,0.0,35.0
@@ -17632,6 +17718,8 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,9,00-0033881,E.Engram,11.5,6.5,JAX,PHI,0.0,0.0,45.0
 2024,10,00-0033881,E.Engram,10.0,4.0,JAX,MIN,0.0,0.0,40.0
 2024,11,00-0033881,E.Engram,7.8,2.8,JAX,DET,0.0,0.0,28.0
+2024,13,00-0033881,E.Engram,11.1,4.1,JAX,HOU,0.0,0.0,41.0
+2024,14,00-0033881,E.Engram,7.3,3.3,JAX,TEN,0.0,0.0,33.0
 2024,1,00-0033885,D.Njoku,8.4,4.4,CLE,DAL,0.0,0.0,44.0
 2024,5,00-0033885,D.Njoku,2.4,1.4,CLE,WAS,0.0,0.0,14.0
 2024,6,00-0033885,D.Njoku,8.1,3.1,CLE,PHI,0.0,0.0,31.0
@@ -17640,8 +17728,11 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,9,00-0033885,D.Njoku,7.9,2.9,CLE,LAC,0.0,0.0,29.0
 2024,11,00-0033885,D.Njoku,19.1,10.1,CLE,NO,0.0,0.0,81.0
 2024,12,00-0033885,D.Njoku,3.9,2.9,CLE,PIT,0.0,0.0,9.0
+2024,13,00-0033885,D.Njoku,26.2,17.2,CLE,DEN,0.0,0.0,52.0
+2024,14,00-0033885,D.Njoku,17.2,10.2,CLE,PIT,0.0,0.0,42.0
 2024,7,00-0033891,Z.Jones,0.0,0.0,ARI,LAC,0.0,0.0,0.0
 2024,8,00-0033891,Z.Jones,1.3,0.3,ARI,MIA,0.0,0.0,3.0
+2024,14,00-0033891,Z.Jones,2.3,1.3,ARI,SEA,0.0,0.0,13.0
 2024,8,00-0033893,D.Cook,3.2,2.2,DAL,SF,0.0,12.0,10.0
 2024,9,00-0033893,D.Cook,0.8,0.8,DAL,ATL,0.0,8.0,0.0
 2024,1,00-0033895,G.Everett,0.9,-0.1,CHI,TEN,0.0,0.0,-1.0
@@ -17660,6 +17751,7 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,10,00-0033897,J.Mixon,17.0,15.0,HOU,DET,0.0,46.0,44.0
 2024,11,00-0033897,J.Mixon,35.3,33.3,HOU,DAL,0.0,109.0,44.0
 2024,12,00-0033897,J.Mixon,9.5,4.5,HOU,TEN,0.0,22.0,23.0
+2024,13,00-0033897,J.Mixon,21.9,17.9,HOU,JAX,0.0,101.0,18.0
 2024,1,00-0033906,A.Kamara,22.0,17.0,NO,CAR,0.0,83.0,27.0
 2024,2,00-0033906,A.Kamara,44.0,42.0,NO,DAL,0.0,115.0,65.0
 2024,3,00-0033906,A.Kamara,15.7,12.7,NO,PHI,0.0,87.0,40.0
@@ -17671,6 +17763,8 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,9,00-0033906,A.Kamara,27.5,21.5,NO,CAR,0.0,155.0,60.0
 2024,10,00-0033906,A.Kamara,15.9,10.9,NO,ATL,0.0,55.0,54.0
 2024,11,00-0033906,A.Kamara,12.9,8.9,NO,CLE,0.0,67.0,22.0
+2024,13,00-0033906,A.Kamara,15.9,11.9,NO,LA,0.0,112.0,7.0
+2024,14,00-0033906,A.Kamara,12.9,7.9,NO,NYG,0.0,44.0,35.0
 2024,1,00-0033908,C.Kupp,32.0,18.0,LA,DET,0.0,10.0,110.0
 2024,2,00-0033908,C.Kupp,7.7,3.7,LA,ARI,0.0,0.0,37.0
 2024,8,00-0033908,C.Kupp,16.1,11.1,LA,MIN,0.0,0.0,51.0
@@ -17678,6 +17772,8 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,10,00-0033908,C.Kupp,15.0,8.0,LA,MIA,0.0,0.0,80.0
 2024,11,00-0033908,C.Kupp,28.6,22.6,LA,NE,0.0,0.0,106.0
 2024,12,00-0033908,C.Kupp,20.0,12.0,LA,PHI,0.0,0.0,60.0
+2024,13,00-0033908,C.Kupp,4.7,1.7,LA,NO,0.0,0.0,17.0
+2024,14,00-0033908,C.Kupp,20.2,15.2,LA,BUF,0.0,0.0,92.0
 2024,1,00-0033921,C.Godwin,22.3,14.3,TB,WAS,0.0,0.0,83.0
 2024,2,00-0033921,C.Godwin,24.7,17.7,TB,DET,0.0,0.0,117.0
 2024,3,00-0033921,C.Godwin,17.3,11.3,TB,DEN,0.0,0.0,53.0
@@ -17694,6 +17790,7 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,11,00-0033923,K.Hunt,6.0,6.0,KC,BUF,0.0,60.0,0.0
 2024,12,00-0033923,K.Hunt,11.7,8.7,KC,CAR,0.0,68.0,19.0
 2024,13,00-0033923,K.Hunt,3.5,1.5,KC,LV,0.0,15.0,0.0
+2024,14,00-0033923,K.Hunt,3.9,2.9,KC,LAC,0.0,16.0,13.0
 2024,2,00-0033925,D.Foreman,6.1,5.1,CLE,JAX,0.0,42.0,9.0
 2024,3,00-0033925,D.Foreman,0.5,0.5,CLE,NYG,0.0,5.0,0.0
 2024,4,00-0033925,D.Foreman,1.7,0.7,CLE,LV,0.0,2.0,5.0
@@ -17714,6 +17811,8 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,6,00-0033948,J.Williams,0.7,0.7,NO,TB,0.0,7.0,0.0
 2024,7,00-0033948,J.Williams,1.7,1.7,NO,DEN,0.0,17.0,0.0
 2024,8,00-0033948,J.Williams,0.4,0.4,NO,LAC,0.0,4.0,0.0
+2024,13,00-0033948,J.Williams,1.7,0.7,NO,LA,0.0,0.0,7.0
+2024,14,00-0033948,J.Williams,3.5,1.5,NO,NYG,0.0,5.0,10.0
 2024,3,00-0033955,J.McNichols,0.1,0.1,WAS,CIN,0.0,1.0,0.0
 2024,4,00-0033955,J.McNichols,20.4,19.4,WAS,ARI,0.0,68.0,6.0
 2024,5,00-0033955,J.McNichols,10.4,10.4,WAS,CLE,0.0,44.0,0.0
@@ -17724,10 +17823,12 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,10,00-0033955,J.McNichols,6.7,6.7,WAS,PIT,0.0,7.0,0.0
 2024,11,00-0033955,J.McNichols,1.6,0.6,WAS,PHI,0.0,5.0,1.0
 2024,12,00-0033955,J.McNichols,2.2,2.2,WAS,DAL,0.0,22.0,0.0
+2024,13,00-0033955,J.McNichols,3.2,3.2,WAS,TEN,0.0,32.0,0.0
 2024,11,00-0034073,R.Dwelley,1.5,0.5,ATL,DEN,0.0,0.0,5.0
 2024,1,00-0034115,J.Wilson,2.6,2.6,MIA,JAX,0.0,26.0,0.0
 2024,2,00-0034115,J.Wilson,3.2,1.2,MIA,BUF,0.0,0.0,12.0
 2024,3,00-0034115,J.Wilson,1.4,1.4,MIA,SEA,0.0,14.0,0.0
+2024,14,00-0034115,J.Wilson,2.1,1.1,MIA,NYJ,0.0,4.0,7.0
 2024,1,00-0034159,W.Dissly,2.3,1.3,LAC,LV,0.0,0.0,13.0
 2024,2,00-0034159,W.Dissly,5.9,2.9,LAC,CAR,0.0,0.0,29.0
 2024,3,00-0034159,W.Dissly,4.9,1.9,LAC,PIT,0.0,0.0,19.0
@@ -17739,7 +17840,10 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,10,00-0034159,W.Dissly,8.0,3.0,LAC,TEN,0.0,0.0,30.0
 2024,11,00-0034159,W.Dissly,18.0,14.0,LAC,CIN,0.0,0.0,80.0
 2024,12,00-0034159,W.Dissly,8.7,4.7,LAC,BAL,0.0,0.0,47.0
+2024,13,00-0034159,W.Dissly,0.0,0.0,LAC,ATL,0.0,0.0,0.0
+2024,14,00-0034159,W.Dissly,3.9,1.9,LAC,KC,0.0,0.0,19.0
 2024,8,00-0034162,J.Scott,0.0,0.0,LAC,NO,0.0,0.0,0.0
+2024,13,00-0034162,J.Scott,0.12,0.12,LAC,ATL,3.0,0.0,0.0
 2024,3,00-0034177,T.Boyle,3.76,3.76,MIA,SEA,79.0,6.0,0.0
 2024,7,00-0034177,T.Boyle,3.36,3.36,MIA,IND,74.0,4.0,0.0
 2024,1,00-0034184,G.Edwards,3.8,2.8,LAC,LV,0.0,26.0,2.0
@@ -17749,6 +17853,8 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,10,00-0034184,G.Edwards,5.5,5.5,LAC,TEN,0.0,55.0,0.0
 2024,11,00-0034184,G.Edwards,2.7,2.7,LAC,CIN,0.0,27.0,0.0
 2024,12,00-0034184,G.Edwards,7.1,7.1,LAC,BAL,0.0,11.0,0.0
+2024,13,00-0034184,G.Edwards,4.3,3.3,LAC,ATL,0.0,32.0,1.0
+2024,14,00-0034184,G.Edwards,9.6,9.6,LAC,KC,0.0,36.0,0.0
 2024,1,00-0034208,M.Boone,0.7,0.7,CAR,NO,0.0,7.0,0.0
 2024,1,00-0034270,T.Conklin,1.6,0.6,NYJ,SF,0.0,0.0,6.0
 2024,2,00-0034270,T.Conklin,2.0,1.0,NYJ,TEN,0.0,0.0,10.0
@@ -17761,6 +17867,8 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,9,00-0034270,T.Conklin,0.7,-0.3,NYJ,HOU,0.0,0.0,-3.0
 2024,10,00-0034270,T.Conklin,1.8,0.8,NYJ,ARI,0.0,0.0,8.0
 2024,11,00-0034270,T.Conklin,1.7,0.7,NYJ,IND,0.0,0.0,7.0
+2024,13,00-0034270,T.Conklin,7.2,3.2,NYJ,SEA,0.0,0.0,32.0
+2024,14,00-0034270,T.Conklin,6.3,3.3,NYJ,MIA,0.0,0.0,33.0
 2024,1,00-0034272,M.Valdes-Scantling,2.9,1.9,BUF,ARI,0.0,0.0,19.0
 2024,2,00-0034272,M.Valdes-Scantling,0.0,0.0,BUF,MIA,0.0,0.0,0.0
 2024,3,00-0034272,M.Valdes-Scantling,1.7,0.7,BUF,JAX,0.0,0.0,7.0
@@ -17769,6 +17877,8 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,9,00-0034272,M.Valdes-Scantling,1.5,0.5,NO,CAR,0.0,0.0,5.0
 2024,10,00-0034272,M.Valdes-Scantling,25.9,22.9,NO,ATL,0.0,0.0,109.0
 2024,11,00-0034272,M.Valdes-Scantling,16.7,14.7,NO,CLE,0.0,0.0,87.0
+2024,13,00-0034272,M.Valdes-Scantling,11.6,9.6,NO,LA,0.0,0.0,36.0
+2024,14,00-0034272,M.Valdes-Scantling,9.1,5.1,NO,NYG,0.0,0.0,51.0
 2024,1,00-0034348,C.Sutton,7.8,3.8,DEN,SEA,0.0,0.0,38.0
 2024,2,00-0034348,C.Sutton,3.6,2.6,DEN,PIT,0.0,0.0,26.0
 2024,3,00-0034348,C.Sutton,13.8,6.8,DEN,TB,0.0,0.0,68.0
@@ -17780,6 +17890,7 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,10,00-0034348,C.Sutton,19.0,13.0,DEN,KC,0.0,0.0,70.0
 2024,11,00-0034348,C.Sutton,14.8,7.8,DEN,ATL,0.0,0.0,78.0
 2024,12,00-0034348,C.Sutton,29.7,21.7,DEN,LV,0.0,0.0,97.0
+2024,13,00-0034348,C.Sutton,16.2,10.2,DEN,CLE,0.0,0.0,102.0
 2024,1,00-0034351,D.Goedert,7.1,3.1,PHI,GB,0.0,0.0,31.0
 2024,2,00-0034351,D.Goedert,6.8,3.8,PHI,ATL,0.0,0.0,38.0
 2024,3,00-0034351,D.Goedert,27.0,17.0,PHI,NO,0.0,0.0,170.0
@@ -17788,6 +17899,7 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,10,00-0034351,D.Goedert,10.5,8.5,PHI,DAL,0.0,0.0,25.0
 2024,11,00-0034351,D.Goedert,11.1,6.1,PHI,WAS,0.0,0.0,61.0
 2024,12,00-0034351,D.Goedert,5.9,1.9,PHI,LA,0.0,0.0,19.0
+2024,13,00-0034351,D.Goedert,12.5,9.5,PHI,BAL,0.0,0.0,35.0
 2024,1,00-0034364,J.Akins,5.7,2.7,CLE,DAL,0.0,0.0,27.0
 2024,2,00-0034364,J.Akins,2.0,1.0,CLE,JAX,0.0,0.0,10.0
 2024,3,00-0034364,J.Akins,6.9,2.9,CLE,NYG,0.0,0.0,29.0
@@ -17798,6 +17910,8 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,9,00-0034364,J.Akins,6.2,3.2,CLE,LAC,0.0,0.0,32.0
 2024,11,00-0034364,J.Akins,2.9,1.9,CLE,NO,0.0,0.0,19.0
 2024,12,00-0034364,J.Akins,6.8,3.8,CLE,PIT,0.0,0.0,38.0
+2024,13,00-0034364,J.Akins,0.0,0.0,CLE,DEN,0.0,0.0,0.0
+2024,14,00-0034364,J.Akins,2.4,1.4,CLE,PIT,0.0,0.0,14.0
 2024,6,00-0034365,I.Thomas,0.0,0.0,CAR,ATL,0.0,0.0,0.0
 2024,7,00-0034365,I.Thomas,2.4,0.4,CAR,WAS,0.0,0.0,4.0
 2024,10,00-0034365,I.Thomas,1.3,0.3,CAR,NYG,0.0,0.0,3.0
@@ -17813,6 +17927,7 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,10,00-0034383,D.Schultz,9.6,6.6,HOU,DET,0.0,0.0,66.0
 2024,11,00-0034383,D.Schultz,8.3,3.3,HOU,DAL,0.0,0.0,33.0
 2024,12,00-0034383,D.Schultz,4.0,2.0,HOU,TEN,0.0,0.0,20.0
+2024,13,00-0034383,D.Schultz,17.1,12.1,HOU,JAX,0.0,0.0,61.0
 2024,1,00-0034386,J.Watson,3.5,2.5,KC,BAL,0.0,0.0,25.0
 2024,2,00-0034386,J.Watson,4.2,2.2,KC,CIN,0.0,0.0,22.0
 2024,3,00-0034386,J.Watson,2.3,1.3,KC,ATL,0.0,0.0,13.0
@@ -17835,10 +17950,14 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,9,00-0034407,R.McCloud,12.5,9.5,ATL,DAL,0.0,7.0,28.0
 2024,10,00-0034407,R.McCloud,6.6,3.6,ATL,NO,0.0,6.0,30.0
 2024,11,00-0034407,R.McCloud,10.6,4.6,ATL,DEN,0.0,0.0,46.0
+2024,13,00-0034407,R.McCloud,13.3,9.3,ATL,LAC,0.0,-2.0,95.0
+2024,14,00-0034407,R.McCloud,18.1,10.1,ATL,MIN,0.0,3.0,98.0
 2024,3,00-0034418,C.Wilson,1.3,0.3,NO,PHI,0.0,0.0,3.0
 2024,6,00-0034418,C.Wilson,4.8,2.8,NO,TB,0.0,0.0,28.0
 2024,7,00-0034418,C.Wilson,17.7,11.7,NO,DEN,0.0,0.0,57.0
 2024,9,00-0034418,C.Wilson,5.4,3.4,NO,CAR,0.0,0.0,34.0
+2024,13,00-0034418,C.Wilson,2.9,1.9,NO,LA,0.0,0.0,19.0
+2024,14,00-0034418,C.Wilson,2.8,1.8,NO,NYG,0.0,0.0,18.0
 2024,1,00-0034419,B.Berrios,0.0,0.0,MIA,JAX,0.0,0.0,0.0
 2024,2,00-0034419,B.Berrios,0.0,0.0,MIA,BUF,0.0,0.0,0.0
 2024,3,00-0034419,B.Berrios,0.0,0.0,MIA,SEA,0.0,0.0,0.0
@@ -17858,6 +17977,7 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,5,00-0034521,A.Lazard,13.4,9.4,NYJ,MIN,0.0,0.0,34.0
 2024,6,00-0034521,A.Lazard,23.4,17.4,NYJ,BUF,0.0,0.0,114.0
 2024,7,00-0034521,A.Lazard,9.8,5.8,NYJ,PIT,0.0,0.0,58.0
+2024,14,00-0034521,A.Lazard,2.8,1.8,NYJ,MIA,0.0,0.0,18.0
 2024,3,00-0034571,T.Scott,7.1,6.1,WAS,CIN,0.0,0.0,1.0
 2024,5,00-0034577,K.Allen,0.76,0.76,PIT,DAL,19.0,0.0,0.0
 2024,1,00-0034613,T.Hudson,1.8,-0.2,CIN,NE,0.0,0.0,18.0
@@ -17865,11 +17985,14 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,9,00-0034613,T.Hudson,3.4,1.4,CIN,LV,0.0,0.0,14.0
 2024,10,00-0034613,T.Hudson,16.3,10.3,CIN,BAL,0.0,1.0,42.0
 2024,11,00-0034613,T.Hudson,3.3,1.3,CIN,LAC,0.0,0.0,13.0
+2024,13,00-0034613,T.Hudson,6.8,2.8,CIN,PIT,0.0,0.0,28.0
+2024,14,00-0034613,T.Hudson,2.9,1.9,CIN,DAL,0.0,0.0,19.0
 2024,2,00-0034646,B.Powell,3.6,1.6,MIN,SF,0.0,0.0,16.0
 2024,3,00-0034646,B.Powell,2.3,1.3,MIN,HOU,0.0,0.0,13.0
 2024,4,00-0034646,B.Powell,0.0,0.0,MIN,GB,0.0,0.0,0.0
 2024,9,00-0034646,B.Powell,1.9,0.9,MIN,IND,0.0,0.0,9.0
 2024,11,00-0034646,B.Powell,2.3,1.3,MIN,TEN,0.0,0.0,13.0
+2024,13,00-0034646,B.Powell,1.8,0.8,MIN,ARI,0.0,0.0,8.0
 2024,1,00-0034753,M.Andrews,3.4,1.4,BAL,KC,0.0,0.0,14.0
 2024,2,00-0034753,M.Andrews,9.1,5.1,BAL,LV,0.0,0.0,51.0
 2024,3,00-0034753,M.Andrews,0.0,0.0,BAL,DAL,0.0,0.0,0.0
@@ -17882,6 +18005,7 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,10,00-0034753,M.Andrews,18.8,12.8,BAL,CIN,0.0,0.0,68.0
 2024,11,00-0034753,M.Andrews,4.2,2.2,BAL,PIT,0.0,0.0,22.0
 2024,12,00-0034753,M.Andrews,15.6,10.6,BAL,LAC,0.0,2.0,44.0
+2024,13,00-0034753,M.Andrews,18.9,12.9,BAL,PHI,0.0,2.0,67.0
 2024,4,00-0034771,M.Rudolph,3.4,3.4,TEN,MIA,85.0,0.0,0.0
 2024,7,00-0034771,M.Rudolph,9.9,9.9,TEN,BUF,215.0,13.0,0.0
 2024,8,00-0034771,M.Rudolph,19.54,19.54,TEN,DET,266.0,29.0,0.0
@@ -17894,11 +18018,14 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,6,00-0034775,C.Kirk,6.9,3.9,JAX,CHI,0.0,0.0,39.0
 2024,7,00-0034775,C.Kirk,3.4,2.4,JAX,NE,0.0,0.0,24.0
 2024,8,00-0034775,C.Kirk,7.9,5.9,JAX,GB,0.0,0.0,59.0
+2024,14,00-0034777,D.Chark,1.9,0.9,LAC,KC,0.0,0.0,9.0
 2024,7,00-0034791,N.Chubb,10.2,9.2,CLE,CIN,0.0,22.0,10.0
 2024,8,00-0034791,N.Chubb,5.2,5.2,CLE,BAL,0.0,52.0,0.0
 2024,9,00-0034791,N.Chubb,4.5,3.5,CLE,LAC,0.0,39.0,-4.0
 2024,11,00-0034791,N.Chubb,5.0,5.0,CLE,NO,0.0,50.0,0.0
 2024,12,00-0034791,N.Chubb,19.0,18.0,CLE,PIT,0.0,59.0,1.0
+2024,13,00-0034791,N.Chubb,12.5,10.5,CLE,DEN,0.0,21.0,24.0
+2024,14,00-0034791,N.Chubb,4.8,4.8,CLE,PIT,0.0,48.0,0.0
 2024,1,00-0034796,L.Jackson,25.12,25.12,BAL,KC,273.0,122.0,0.0
 2024,2,00-0034796,L.Jackson,16.38,16.38,BAL,LV,247.0,45.0,0.0
 2024,3,00-0034796,L.Jackson,25.98,25.98,BAL,DAL,182.0,87.0,0.0
@@ -17911,6 +18038,7 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,10,00-0034796,L.Jackson,32.9,32.9,BAL,CIN,290.0,33.0,0.0
 2024,11,00-0034796,L.Jackson,14.88,14.88,BAL,PIT,207.0,46.0,0.0
 2024,12,00-0034796,L.Jackson,22.58,22.58,BAL,LAC,177.0,15.0,0.0
+2024,13,00-0034796,L.Jackson,25.38,25.38,BAL,PHI,237.0,79.0,0.0
 2024,1,00-0034798,D.Smythe,0.0,0.0,MIA,JAX,0.0,0.0,0.0
 2024,2,00-0034798,D.Smythe,1.8,0.8,MIA,BUF,0.0,0.0,8.0
 2024,3,00-0034798,D.Smythe,1.3,0.3,MIA,SEA,0.0,0.0,3.0
@@ -17920,6 +18048,7 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,11,00-0034798,D.Smythe,1.3,0.3,MIA,LV,0.0,0.0,3.0
 2024,12,00-0034798,D.Smythe,1.8,0.8,MIA,NE,0.0,0.0,8.0
 2024,13,00-0034798,D.Smythe,1.8,0.8,MIA,GB,0.0,0.0,8.0
+2024,14,00-0034798,D.Smythe,0.0,0.0,MIA,NYJ,0.0,0.0,0.0
 2024,1,00-0034827,D.Moore,10.0,5.0,CHI,TEN,0.0,14.0,36.0
 2024,2,00-0034827,D.Moore,11.3,5.3,CHI,HOU,0.0,0.0,53.0
 2024,3,00-0034827,D.Moore,15.2,7.2,CHI,IND,0.0,-6.0,78.0
@@ -17932,6 +18061,7 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,11,00-0034827,D.Moore,13.7,6.7,CHI,GB,0.0,5.0,62.0
 2024,12,00-0034827,D.Moore,26.9,19.9,CHI,MIN,0.0,13.0,106.0
 2024,13,00-0034827,D.Moore,23.7,15.7,CHI,DET,0.0,0.0,97.0
+2024,14,00-0034827,D.Moore,10.9,4.9,CHI,SF,0.0,0.0,49.0
 2024,1,00-0034829,M.Gesicki,4.8,1.8,CIN,NE,0.0,0.0,18.0
 2024,2,00-0034829,M.Gesicki,16.1,9.1,CIN,KC,0.0,0.0,91.0
 2024,3,00-0034829,M.Gesicki,8.7,4.7,CIN,WAS,0.0,0.0,47.0
@@ -17942,6 +18072,8 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,9,00-0034829,M.Gesicki,27.0,22.0,CIN,LV,0.0,0.0,100.0
 2024,10,00-0034829,M.Gesicki,7.0,3.0,CIN,BAL,0.0,0.0,30.0
 2024,11,00-0034829,M.Gesicki,0.0,0.0,CIN,LAC,0.0,0.0,0.0
+2024,13,00-0034829,M.Gesicki,10.3,5.3,CIN,PIT,0.0,0.0,53.0
+2024,14,00-0034829,M.Gesicki,5.4,2.4,CIN,DAL,0.0,0.0,24.0
 2024,1,00-0034830,H.Hurst,5.3,3.3,LAC,LV,0.0,0.0,33.0
 2024,2,00-0034830,H.Hurst,1.5,0.5,LAC,CAR,0.0,0.0,5.0
 2024,3,00-0034830,H.Hurst,3.5,1.5,LAC,PIT,0.0,0.0,15.0
@@ -17959,6 +18091,8 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,10,00-0034837,C.Ridley,25.4,20.4,TEN,LAC,0.0,0.0,84.0
 2024,11,00-0034837,C.Ridley,9.8,5.8,TEN,MIN,0.0,0.0,58.0
 2024,12,00-0034837,C.Ridley,14.3,9.3,TEN,HOU,0.0,0.0,93.0
+2024,13,00-0034837,C.Ridley,6.5,4.5,TEN,WAS,0.0,0.0,45.0
+2024,14,00-0034837,C.Ridley,12.9,5.9,TEN,JAX,0.0,0.0,59.0
 2024,1,00-0034844,S.Barkley,33.2,31.2,PHI,GB,0.0,109.0,23.0
 2024,2,00-0034844,S.Barkley,17.6,13.6,PHI,ATL,0.0,95.0,21.0
 2024,3,00-0034844,S.Barkley,33.6,29.6,PHI,NO,0.0,147.0,9.0
@@ -17970,6 +18104,8 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,10,00-0034844,S.Barkley,8.8,7.8,PHI,DAL,0.0,66.0,12.0
 2024,11,00-0034844,S.Barkley,33.8,31.8,PHI,WAS,0.0,146.0,52.0
 2024,12,00-0034844,S.Barkley,46.2,42.2,PHI,LA,0.0,255.0,47.0
+2024,13,00-0034844,S.Barkley,19.7,17.7,PHI,BAL,0.0,107.0,10.0
+2024,14,00-0034844,S.Barkley,14.4,14.4,PHI,CAR,0.0,124.0,0.0
 2024,4,00-0034854,K.Hodge,6.0,6.0,ATL,NO,0.0,0.0,0.0
 2024,5,00-0034854,K.Hodge,14.7,12.7,ATL,TB,0.0,0.0,67.0
 2024,9,00-0034854,K.Hodge,1.9,0.9,ATL,DAL,0.0,0.0,9.0
@@ -17985,6 +18121,8 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,9,00-0034855,B.Mayfield,18.0,18.0,TB,KC,200.0,20.0,0.0
 2024,10,00-0034855,B.Mayfield,8.94,8.94,TB,SF,116.0,3.0,0.0
 2024,12,00-0034855,B.Mayfield,18.66,18.66,TB,NYG,294.0,29.0,0.0
+2024,13,00-0034855,B.Mayfield,10.2,10.2,TB,CAR,235.0,8.0,0.0
+2024,14,00-0034855,B.Mayfield,19.0,19.0,TB,LV,295.0,12.0,0.0
 2024,1,00-0034857,J.Allen,31.18,31.18,BUF,ARI,232.0,39.0,0.0
 2024,2,00-0034857,J.Allen,9.76,9.76,BUF,MIA,139.0,2.0,0.0
 2024,3,00-0034857,J.Allen,30.92,30.92,BUF,JAX,263.0,44.0,0.0
@@ -17996,8 +18134,12 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,9,00-0034857,J.Allen,22.1,22.1,BUF,MIA,235.0,7.0,0.0
 2024,10,00-0034857,J.Allen,18.2,18.2,BUF,IND,280.0,50.0,0.0
 2024,11,00-0034857,J.Allen,23.98,23.98,BUF,KC,262.0,55.0,0.0
+2024,13,00-0034857,J.Allen,21.72,21.72,BUF,SF,148.0,18.0,0.0
+2024,14,00-0034857,J.Allen,51.88,51.88,BUF,LA,342.0,82.0,0.0
 2024,10,00-0034860,D.Pettis,1.8,0.8,NO,ATL,0.0,0.0,8.0
 2024,11,00-0034860,D.Pettis,1.9,0.9,NO,CLE,0.0,0.0,9.0
+2024,13,00-0034860,D.Pettis,3.5,2.5,NO,LA,0.0,0.0,5.0
+2024,14,00-0034860,D.Pettis,0.0,0.0,NO,NYG,0.0,0.0,0.0
 2024,1,00-0034869,S.Darnold,14.62,14.62,MIN,NYG,208.0,3.0,0.0
 2024,2,00-0034869,S.Darnold,19.92,19.92,MIN,SF,268.0,32.0,0.0
 2024,3,00-0034869,S.Darnold,23.24,23.24,MIN,HOU,181.0,0.0,0.0
@@ -18009,6 +18151,8 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,10,00-0034869,S.Darnold,6.44,6.44,MIN,JAX,241.0,28.0,0.0
 2024,11,00-0034869,S.Darnold,23.64,23.64,MIN,TEN,246.0,18.0,0.0
 2024,12,00-0034869,S.Darnold,21.1,21.1,MIN,CHI,330.0,-1.0,0.0
+2024,13,00-0034869,S.Darnold,19.6,19.6,MIN,ARI,235.0,22.0,0.0
+2024,14,00-0034869,S.Darnold,34.58,34.58,MIN,ATL,347.0,7.0,0.0
 2024,4,00-0034928,S.Sims,0.0,0.0,HOU,JAX,0.0,0.0,0.0
 2024,6,00-0034959,A.Beck,0.0,0.0,GB,ARI,0.0,0.0,0.0
 2024,1,00-0034960,J.Meyers,9.4,6.4,LV,LAC,0.0,3.0,61.0
@@ -18021,6 +18165,7 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,11,00-0034960,J.Meyers,8.8,4.8,LV,MIA,0.0,20.0,28.0
 2024,12,00-0034960,J.Meyers,22.1,12.1,LV,DEN,0.0,0.0,121.0
 2024,13,00-0034960,J.Meyers,15.7,9.7,LV,KC,0.0,0.0,97.0
+2024,14,00-0034960,J.Meyers,13.7,6.7,LV,TB,0.0,0.0,67.0
 2024,1,00-0034972,A.Mattison,16.2,12.2,LV,LAC,0.0,19.0,43.0
 2024,2,00-0034972,A.Mattison,6.1,6.1,LV,BAL,0.0,1.0,0.0
 2024,3,00-0034972,A.Mattison,13.4,10.4,LV,CAR,0.0,7.0,37.0
@@ -18043,6 +18188,7 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,10,00-0034975,J.Hill,1.8,-0.2,BAL,CIN,0.0,-2.0,0.0
 2024,11,00-0034975,J.Hill,8.1,4.1,BAL,PIT,0.0,13.0,28.0
 2024,12,00-0034975,J.Hill,14.2,12.2,BAL,LAC,0.0,55.0,7.0
+2024,13,00-0034975,J.Hill,6.1,2.1,BAL,PHI,0.0,6.0,15.0
 2024,1,00-0034981,F.Moreau,14.3,10.3,NO,CAR,0.0,0.0,43.0
 2024,3,00-0034981,F.Moreau,1.2,0.2,NO,PHI,0.0,0.0,2.0
 2024,5,00-0034981,F.Moreau,9.3,7.3,NO,KC,0.0,0.0,13.0
@@ -18052,6 +18198,8 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,9,00-0034981,F.Moreau,8.7,7.7,NO,CAR,0.0,0.0,17.0
 2024,10,00-0034981,F.Moreau,0.0,0.0,NO,ATL,0.0,0.0,0.0
 2024,11,00-0034981,F.Moreau,8.0,5.0,NO,CLE,0.0,0.0,50.0
+2024,13,00-0034981,F.Moreau,2.6,0.6,NO,LA,0.0,0.0,6.0
+2024,14,00-0034981,F.Moreau,6.0,4.0,NO,NYG,0.0,0.0,40.0
 2024,1,00-0035021,A.Dulin,12.4,11.4,IND,HOU,0.0,0.0,54.0
 2024,2,00-0035021,A.Dulin,2.3,1.3,IND,GB,0.0,0.0,13.0
 2024,3,00-0035021,A.Dulin,0.0,0.0,IND,CHI,0.0,0.0,0.0
@@ -18088,6 +18236,7 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,10,00-0035208,O.Zaccheaus,1.8,0.8,WAS,PIT,0.0,0.0,8.0
 2024,11,00-0035208,O.Zaccheaus,2.0,1.0,WAS,PHI,0.0,0.0,10.0
 2024,12,00-0035208,O.Zaccheaus,1.8,0.8,WAS,DAL,0.0,0.0,8.0
+2024,13,00-0035208,O.Zaccheaus,4.4,1.4,WAS,TEN,0.0,0.0,14.0
 2024,1,00-0035216,D.Johnson,3.9,1.9,CAR,NO,0.0,0.0,19.0
 2024,2,00-0035216,D.Johnson,4.5,1.5,CAR,LAC,0.0,0.0,15.0
 2024,3,00-0035216,D.Johnson,26.2,18.2,CAR,LV,0.0,0.0,122.0
@@ -18109,10 +18258,14 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,9,00-0035228,K.Murray,4.76,4.76,ARI,CHI,154.0,6.0,0.0
 2024,10,00-0035228,K.Murray,28.74,28.74,ARI,NYJ,266.0,21.0,0.0
 2024,12,00-0035228,K.Murray,10.3,10.3,ARI,SEA,285.0,9.0,0.0
+2024,13,00-0035228,K.Murray,15.2,15.2,ARI,MIN,260.0,48.0,0.0
+2024,14,00-0035228,K.Murray,17.96,17.96,ARI,SEA,259.0,16.0,0.0
 2024,9,00-0035229,T.Hockenson,5.7,2.7,MIN,IND,0.0,0.0,27.0
 2024,10,00-0035229,T.Hockenson,15.2,7.2,MIN,JAX,0.0,0.0,72.0
 2024,11,00-0035229,T.Hockenson,3.3,1.3,MIN,TEN,0.0,0.0,13.0
 2024,12,00-0035229,T.Hockenson,18.4,11.4,MIN,CHI,0.0,0.0,114.0
+2024,13,00-0035229,T.Hockenson,5.8,2.8,MIN,ARI,0.0,0.0,28.0
+2024,14,00-0035229,T.Hockenson,8.5,4.5,MIN,ATL,0.0,0.0,45.0
 2024,1,00-0035243,M.Sanders,2.2,2.2,CAR,NO,0.0,22.0,0.0
 2024,2,00-0035243,M.Sanders,5.5,2.5,CAR,LAC,0.0,20.0,5.0
 2024,3,00-0035243,M.Sanders,11.0,9.0,CAR,LV,0.0,17.0,13.0
@@ -18131,6 +18284,7 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,9,00-0035249,J.Oliver,16.8,11.8,MIN,IND,0.0,0.0,58.0
 2024,10,00-0035249,J.Oliver,9.2,5.2,MIN,JAX,0.0,0.0,52.0
 2024,11,00-0035249,J.Oliver,6.4,3.4,MIN,TEN,0.0,0.0,34.0
+2024,14,00-0035249,J.Oliver,3.6,2.6,MIN,ATL,0.0,0.0,26.0
 2024,1,00-0035250,D.Singletary,9.2,5.2,NYG,MIN,0.0,37.0,15.0
 2024,2,00-0035250,D.Singletary,14.5,13.5,NYG,WAS,0.0,95.0,0.0
 2024,3,00-0035250,D.Singletary,18.8,14.8,NYG,CLE,0.0,65.0,43.0
@@ -18141,6 +18295,7 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,10,00-0035250,D.Singletary,5.5,4.5,NYG,CAR,0.0,40.0,5.0
 2024,12,00-0035250,D.Singletary,9.0,7.0,NYG,TB,0.0,3.0,7.0
 2024,13,00-0035250,D.Singletary,2.3,2.3,NYG,DAL,0.0,23.0,0.0
+2024,14,00-0035250,D.Singletary,0.8,0.8,NYG,NO,0.0,8.0,0.0
 2024,1,00-0035261,T.Pollard,18.4,15.4,TEN,CHI,0.0,82.0,12.0
 2024,2,00-0035261,T.Pollard,15.2,10.2,TEN,NYJ,0.0,62.0,40.0
 2024,3,00-0035261,T.Pollard,5.9,2.9,TEN,GB,0.0,14.0,15.0
@@ -18152,6 +18307,8 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,10,00-0035261,T.Pollard,10.3,6.3,TEN,LAC,0.0,44.0,19.0
 2024,11,00-0035261,T.Pollard,4.9,2.9,TEN,MIN,0.0,15.0,14.0
 2024,12,00-0035261,T.Pollard,21.9,18.9,TEN,HOU,0.0,119.0,10.0
+2024,13,00-0035261,T.Pollard,8.8,4.8,TEN,WAS,0.0,35.0,33.0
+2024,14,00-0035261,T.Pollard,14.4,12.4,TEN,JAX,0.0,102.0,22.0
 2024,7,00-0035264,J.Stidham,-0.2,-0.2,DEN,NO,0.0,-2.0,0.0
 2024,5,00-0035280,J.Bailey,0.0,0.0,MIA,NE,0.0,0.0,0.0
 2024,1,00-0035289,G.Minshew,10.78,10.78,LV,LAC,257.0,5.0,0.0
@@ -18166,6 +18323,7 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,12,00-0035289,G.Minshew,11.7,11.7,LV,DEN,230.0,5.0,0.0
 2024,3,00-0035298,S.Miller,5.1,3.1,PIT,LAC,0.0,0.0,31.0
 2024,8,00-0035298,S.Miller,0.0,0.0,PIT,NYG,0.0,0.0,0.0
+2024,14,00-0035298,S.Miller,6.8,3.8,PIT,CLE,0.0,0.0,38.0
 2024,1,00-0035311,M.Gaskin,-0.3,-0.3,MIN,NYG,0.0,-3.0,0.0
 2024,5,00-0035311,M.Gaskin,2.3,1.3,MIN,NYJ,0.0,2.0,11.0
 2024,1,00-0035341,T.Irwin,1.6,0.6,CIN,NE,0.0,0.0,6.0
@@ -18195,6 +18353,8 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,9,00-0035500,G.Dortch,0.0,0.0,ARI,CHI,0.0,0.0,0.0
 2024,10,00-0035500,G.Dortch,0.9,-0.1,ARI,NYJ,0.0,0.0,-1.0
 2024,12,00-0035500,G.Dortch,1.5,0.5,ARI,SEA,0.0,0.0,5.0
+2024,13,00-0035500,G.Dortch,2.7,0.7,ARI,MIN,0.0,6.0,1.0
+2024,14,00-0035500,G.Dortch,1.5,0.5,ARI,SEA,0.0,0.0,5.0
 2024,1,00-0035535,D.Slayton,5.6,2.6,NYG,MIN,0.0,0.0,26.0
 2024,2,00-0035535,D.Slayton,6.3,3.3,NYG,WAS,0.0,0.0,33.0
 2024,3,00-0035535,D.Slayton,1.7,0.7,NYG,CLE,0.0,0.0,7.0
@@ -18206,6 +18366,7 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,9,00-0035535,D.Slayton,9.0,6.0,NYG,WAS,0.0,11.0,49.0
 2024,12,00-0035535,D.Slayton,0.0,0.0,NYG,TB,0.0,0.0,0.0
 2024,13,00-0035535,D.Slayton,2.8,0.8,NYG,DAL,0.0,0.0,8.0
+2024,14,00-0035535,D.Slayton,4.7,2.7,NYG,NO,0.0,0.0,27.0
 2024,1,00-0035537,T.Johnson,0.7,0.7,BUF,ARI,0.0,7.0,0.0
 2024,2,00-0035537,T.Johnson,4.2,3.2,BUF,MIA,0.0,-1.0,33.0
 2024,3,00-0035537,T.Johnson,13.6,10.6,BUF,JAX,0.0,18.0,28.0
@@ -18217,6 +18378,8 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,9,00-0035537,T.Johnson,2.3,2.3,BUF,MIA,0.0,23.0,0.0
 2024,10,00-0035537,T.Johnson,6.2,3.2,BUF,IND,0.0,0.0,32.0
 2024,11,00-0035537,T.Johnson,1.8,1.8,BUF,KC,0.0,18.0,0.0
+2024,13,00-0035537,T.Johnson,4.7,3.7,BUF,SF,0.0,28.0,9.0
+2024,14,00-0035537,T.Johnson,13.5,11.5,BUF,LA,0.0,0.0,55.0
 2024,2,00-0035544,T.Kennedy,0.0,0.0,DET,TB,0.0,0.0,0.0
 2024,5,00-0035547,J.Fortson,1.5,0.5,KC,NO,0.0,0.0,5.0
 2024,7,00-0035547,J.Fortson,0.0,0.0,KC,SF,0.0,0.0,0.0
@@ -18227,6 +18390,7 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,12,00-0035567,C.Reynolds,0.6,0.6,DET,IND,0.0,6.0,0.0
 2024,1,00-0035594,T.Homer,1.0,1.0,CHI,TEN,0.0,10.0,0.0
 2024,2,00-0035594,T.Homer,0.6,0.6,CHI,HOU,0.0,6.0,0.0
+2024,14,00-0035594,T.Homer,4.1,1.1,CHI,SF,0.0,0.0,11.0
 2024,6,00-0035602,A.Bachman,6.1,3.1,LV,PIT,0.0,0.0,31.0
 2024,2,00-0035628,D.Johnson,2.6,2.6,JAX,CLE,0.0,26.0,0.0
 2024,3,00-0035628,D.Johnson,1.2,1.2,JAX,BUF,0.0,12.0,0.0
@@ -18242,9 +18406,12 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,7,00-0035631,D.Sample,0.0,0.0,CIN,CLE,0.0,0.0,0.0
 2024,9,00-0035631,D.Sample,11.4,7.4,CIN,LV,0.0,0.0,14.0
 2024,11,00-0035631,D.Sample,1.5,0.5,CIN,LAC,0.0,-4.0,9.0
+2024,13,00-0035631,D.Sample,2.8,0.8,CIN,PIT,0.0,0.0,8.0
+2024,14,00-0035631,D.Sample,3.3,1.3,CIN,DAL,0.0,0.0,13.0
 2024,3,00-0035639,P.Campbell,3.3,1.3,PHI,NO,0.0,0.0,13.0
 2024,4,00-0035639,P.Campbell,11.7,7.7,PHI,TB,0.0,0.0,17.0
 2024,7,00-0035639,P.Campbell,0.0,0.0,PHI,NYG,0.0,0.0,0.0
+2024,13,00-0035639,P.Campbell,0.0,0.0,PHI,BAL,0.0,0.0,0.0
 2024,1,00-0035640,D.Metcalf,5.9,2.9,SEA,DEN,0.0,0.0,29.0
 2024,2,00-0035640,D.Metcalf,28.9,18.9,SEA,NE,0.0,0.0,129.0
 2024,3,00-0035640,D.Metcalf,20.4,16.4,SEA,MIA,0.0,0.0,104.0
@@ -18254,6 +18421,8 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,7,00-0035640,D.Metcalf,19.9,15.9,SEA,ATL,0.0,0.0,99.0
 2024,11,00-0035640,D.Metcalf,14.0,7.0,SEA,SF,0.0,0.0,70.0
 2024,12,00-0035640,D.Metcalf,9.9,5.9,SEA,ARI,0.0,0.0,59.0
+2024,13,00-0035640,D.Metcalf,10.6,6.6,SEA,NYJ,0.0,0.0,66.0
+2024,14,00-0035640,D.Metcalf,8.9,4.9,SEA,ARI,0.0,0.0,49.0
 2024,1,00-0035644,N.Fant,3.1,1.1,SEA,DEN,0.0,0.0,11.0
 2024,2,00-0035644,N.Fant,2.4,1.4,SEA,NE,0.0,0.0,14.0
 2024,3,00-0035644,N.Fant,12.0,6.0,SEA,MIA,0.0,0.0,60.0
@@ -18262,6 +18431,8 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,6,00-0035644,N.Fant,12.3,6.3,SEA,SF,0.0,0.0,63.0
 2024,7,00-0035644,N.Fant,10.5,6.5,SEA,ATL,0.0,0.0,65.0
 2024,8,00-0035644,N.Fant,5.2,2.2,SEA,BUF,0.0,0.0,22.0
+2024,13,00-0035644,N.Fant,5.6,2.6,SEA,NYJ,0.0,0.0,26.0
+2024,14,00-0035644,N.Fant,4.8,1.8,SEA,ARI,0.0,0.0,18.0
 2024,1,00-0035659,T.McLaurin,3.7,1.7,WAS,TB,0.0,0.0,17.0
 2024,2,00-0035659,T.McLaurin,8.2,2.2,WAS,NYG,0.0,0.0,22.0
 2024,3,00-0035659,T.McLaurin,20.0,16.0,WAS,CIN,0.0,0.0,100.0
@@ -18274,6 +18445,7 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,10,00-0035659,T.McLaurin,16.3,11.3,WAS,PIT,0.0,0.0,113.0
 2024,11,00-0035659,T.McLaurin,2.0,1.0,WAS,PHI,0.0,0.0,10.0
 2024,12,00-0035659,T.McLaurin,21.2,16.2,WAS,DAL,0.0,0.0,102.0
+2024,13,00-0035659,T.McLaurin,27.3,19.3,WAS,TEN,0.0,0.0,73.0
 2024,1,00-0035676,A.Brown,22.9,17.9,PHI,GB,0.0,0.0,119.0
 2024,6,00-0035676,A.Brown,23.6,17.6,PHI,CLE,0.0,0.0,116.0
 2024,7,00-0035676,A.Brown,19.9,14.9,PHI,NYG,0.0,0.0,89.0
@@ -18282,6 +18454,8 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,10,00-0035676,A.Brown,15.9,10.9,PHI,DAL,0.0,0.0,109.0
 2024,11,00-0035676,A.Brown,11.5,6.5,PHI,WAS,0.0,0.0,65.0
 2024,12,00-0035676,A.Brown,22.9,16.9,PHI,LA,0.0,0.0,109.0
+2024,13,00-0035676,A.Brown,11.6,6.6,PHI,BAL,0.0,0.0,66.0
+2024,14,00-0035676,A.Brown,8.3,4.3,PHI,CAR,0.0,0.0,43.0
 2024,1,00-0035685,D.Montgomery,16.3,15.3,DET,LA,0.0,91.0,2.0
 2024,2,00-0035685,D.Montgomery,17.0,13.0,DET,TB,0.0,35.0,35.0
 2024,3,00-0035685,D.Montgomery,21.2,18.2,DET,ARI,0.0,105.0,17.0
@@ -18294,6 +18468,7 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,11,00-0035685,D.Montgomery,24.5,21.5,DET,JAX,0.0,75.0,20.0
 2024,12,00-0035685,D.Montgomery,16.3,13.3,DET,IND,0.0,37.0,36.0
 2024,13,00-0035685,D.Montgomery,15.4,12.4,DET,CHI,0.0,88.0,36.0
+2024,14,00-0035685,D.Montgomery,19.4,14.4,DET,GB,0.0,51.0,33.0
 2024,1,00-0035689,D.Knox,3.3,2.3,BUF,ARI,0.0,0.0,23.0
 2024,3,00-0035689,D.Knox,1.7,0.7,BUF,JAX,0.0,0.0,7.0
 2024,4,00-0035689,D.Knox,1.0,0.0,BUF,BAL,0.0,0.0,0.0
@@ -18303,6 +18478,8 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,9,00-0035689,D.Knox,1.5,0.5,BUF,MIA,0.0,0.0,5.0
 2024,10,00-0035689,D.Knox,6.0,4.0,BUF,IND,0.0,0.0,40.0
 2024,11,00-0035689,D.Knox,8.0,4.0,BUF,KC,0.0,0.0,40.0
+2024,13,00-0035689,D.Knox,7.6,5.6,BUF,SF,0.0,0.0,56.0
+2024,14,00-0035689,D.Knox,1.5,0.5,BUF,LA,0.0,0.0,5.0
 2024,1,00-0035700,J.Jacobs,12.4,10.4,GB,PHI,0.0,84.0,20.0
 2024,2,00-0035700,J.Jacobs,13.1,13.1,GB,IND,0.0,151.0,0.0
 2024,3,00-0035700,J.Jacobs,5.8,4.8,GB,TEN,0.0,43.0,5.0
@@ -18315,9 +18492,11 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,11,00-0035700,J.Jacobs,23.4,19.4,GB,CHI,0.0,76.0,58.0
 2024,12,00-0035700,J.Jacobs,28.6,28.6,GB,SF,0.0,106.0,0.0
 2024,13,00-0035700,J.Jacobs,21.7,17.7,GB,MIA,0.0,43.0,74.0
+2024,14,00-0035700,J.Jacobs,24.6,24.6,GB,DET,0.0,66.0,0.0
 2024,7,00-0035704,D.Lock,1.54,1.54,NYG,PHI,6.0,13.0,0.0
 2024,12,00-0035704,D.Lock,0.12,0.12,NYG,TB,3.0,0.0,0.0
 2024,13,00-0035704,D.Lock,14.82,14.82,NYG,DAL,178.0,57.0,0.0
+2024,14,00-0035704,D.Lock,14.98,14.98,NYG,NO,227.0,59.0,0.0
 2024,1,00-0035710,D.Jones,4.94,4.94,NYG,MIN,186.0,15.0,0.0
 2024,2,00-0035710,D.Jones,18.32,18.32,NYG,WAS,178.0,32.0,0.0
 2024,3,00-0035710,D.Jones,19.44,19.44,NYG,CLE,236.0,20.0,0.0
@@ -18337,6 +18516,8 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,10,00-0035719,D.Samuel,12.6,7.6,SF,TB,0.0,14.0,62.0
 2024,11,00-0035719,D.Samuel,6.1,2.1,SF,SEA,0.0,-1.0,22.0
 2024,12,00-0035719,D.Samuel,3.1,2.1,SF,GB,0.0,0.0,21.0
+2024,13,00-0035719,D.Samuel,6.0,2.0,SF,BUF,0.0,0.0,20.0
+2024,14,00-0035719,D.Samuel,5.5,3.5,SF,CHI,0.0,13.0,22.0
 2024,10,00-0035795,J.Pierre,0.0,0.0,PIT,WAS,0.0,0.0,0.0
 2024,2,00-0035806,J.Hasty,0.2,0.2,NE,SEA,0.0,2.0,0.0
 2024,3,00-0035806,J.Hasty,0.5,0.5,NE,NYJ,0.0,5.0,0.0
@@ -18352,6 +18533,8 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,6,00-0035924,J.Ward,1.3,1.3,PIT,LV,0.0,13.0,0.0
 2024,6,00-0035973,P.Taylor,3.8,2.8,SF,SEA,0.0,16.0,12.0
 2024,8,00-0035973,P.Taylor,0.9,0.9,SF,DAL,0.0,9.0,0.0
+2024,14,00-0035973,P.Taylor,8.5,8.5,SF,CHI,0.0,25.0,0.0
+2024,13,00-0035976,D.Chisena,1.6,0.6,CAR,TB,0.0,0.0,6.0
 2024,4,00-0035993,T.Huntley,11.84,11.84,MIA,TEN,96.0,40.0,0.0
 2024,5,00-0035993,T.Huntley,6.46,6.46,MIA,NE,194.0,7.0,0.0
 2024,7,00-0035993,T.Huntley,9.48,9.48,MIA,IND,87.0,20.0,0.0
@@ -18365,10 +18548,13 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,9,00-0036040,J.Johnson,6.1,4.1,NO,CAR,0.0,0.0,41.0
 2024,10,00-0036040,J.Johnson,4.2,2.2,NO,ATL,0.0,0.0,22.0
 2024,11,00-0036040,J.Johnson,12.0,9.0,NO,CLE,0.0,0.0,30.0
+2024,13,00-0036040,J.Johnson,8.6,3.6,NO,LA,0.0,0.0,36.0
+2024,14,00-0036040,J.Johnson,15.0,11.0,NO,NYG,0.0,0.0,50.0
 2024,3,00-0036096,J.Taylor,2.3,0.3,HOU,MIN,0.0,3.0,0.0
 2024,4,00-0036096,J.Taylor,1.8,1.8,HOU,JAX,0.0,18.0,0.0
 2024,9,00-0036096,J.Taylor,2.3,2.3,HOU,NYJ,0.0,23.0,0.0
 2024,4,00-0036133,J.Proche,1.3,0.3,CLE,LV,0.0,0.0,3.0
+2024,14,00-0036133,J.Proche,3.8,1.8,CLE,PIT,0.0,0.0,18.0
 2024,1,00-0036139,R.Dowdle,4.2,3.2,DAL,CLE,0.0,26.0,6.0
 2024,2,00-0036139,R.Dowdle,9.9,5.9,DAL,NO,0.0,30.0,29.0
 2024,3,00-0036139,R.Dowdle,8.6,5.6,DAL,BAL,0.0,32.0,24.0
@@ -18380,6 +18566,7 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,11,00-0036139,R.Dowdle,5.4,3.4,DAL,HOU,0.0,28.0,6.0
 2024,12,00-0036139,R.Dowdle,10.8,7.8,DAL,WAS,0.0,86.0,12.0
 2024,13,00-0036139,R.Dowdle,21.3,18.3,DAL,NYG,0.0,112.0,11.0
+2024,14,00-0036139,R.Dowdle,15.1,14.1,DAL,CIN,0.0,131.0,10.0
 2024,1,00-0036158,J.Dobbins,22.9,19.9,LAC,LV,0.0,135.0,4.0
 2024,2,00-0036158,J.Dobbins,20.1,19.1,LAC,CAR,0.0,131.0,0.0
 2024,3,00-0036158,J.Dobbins,8.4,5.4,LAC,PIT,0.0,44.0,10.0
@@ -18400,6 +18587,8 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,10,00-0036182,N.Westbrook-Ikhine,6.1,3.1,TEN,LAC,0.0,0.0,31.0
 2024,11,00-0036182,N.Westbrook-Ikhine,19.7,17.7,TEN,MIN,0.0,0.0,117.0
 2024,12,00-0036182,N.Westbrook-Ikhine,12.8,10.8,TEN,HOU,0.0,0.0,48.0
+2024,13,00-0036182,N.Westbrook-Ikhine,21.1,18.1,TEN,WAS,0.0,0.0,61.0
+2024,14,00-0036182,N.Westbrook-Ikhine,2.9,1.9,TEN,JAX,0.0,0.0,19.0
 2024,6,00-0036183,K.Wilkerson,9.8,7.8,LV,PIT,0.0,0.0,18.0
 2024,1,00-0036196,G.Davis,9.2,6.2,JAX,MIA,0.0,0.0,62.0
 2024,2,00-0036196,G.Davis,7.3,4.3,JAX,CLE,0.0,0.0,43.0
@@ -18418,6 +18607,7 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,11,00-0036212,T.Tagovailoa,23.52,23.52,MIA,LV,288.0,0.0,0.0
 2024,12,00-0036212,T.Tagovailoa,28.48,28.48,MIA,NE,317.0,-2.0,0.0
 2024,13,00-0036212,T.Tagovailoa,25.2,25.2,MIA,GB,365.0,6.0,0.0
+2024,14,00-0036212,T.Tagovailoa,23.54,23.54,MIA,NYJ,331.0,3.0,0.0
 2024,1,00-0036223,J.Taylor,10.8,10.8,IND,HOU,0.0,48.0,0.0
 2024,2,00-0036223,J.Taylor,15.5,13.5,IND,GB,0.0,103.0,32.0
 2024,3,00-0036223,J.Taylor,26.5,25.5,IND,CHI,0.0,110.0,25.0
@@ -18427,6 +18617,7 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,10,00-0036223,J.Taylor,14.2,12.2,IND,BUF,0.0,114.0,8.0
 2024,11,00-0036223,J.Taylor,7.0,6.0,IND,NYJ,0.0,57.0,3.0
 2024,12,00-0036223,J.Taylor,3.5,3.5,IND,DET,0.0,35.0,0.0
+2024,13,00-0036223,J.Taylor,17.3,16.3,IND,NE,0.0,96.0,7.0
 2024,2,00-0036232,H.Bryant,0.0,0.0,LV,BAL,0.0,0.0,0.0
 2024,4,00-0036232,H.Bryant,4.1,2.1,LV,CLE,0.0,0.0,21.0
 2024,6,00-0036232,H.Bryant,5.4,2.4,LV,PIT,0.0,0.0,24.0
@@ -18441,6 +18632,8 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,8,00-0036244,C.Parkinson,3.7,1.7,LA,MIN,0.0,0.0,17.0
 2024,11,00-0036244,C.Parkinson,8.9,7.9,LA,NE,0.0,0.0,19.0
 2024,12,00-0036244,C.Parkinson,2.0,1.0,LA,PHI,0.0,0.0,10.0
+2024,13,00-0036244,C.Parkinson,2.3,1.3,LA,NO,0.0,0.0,13.0
+2024,14,00-0036244,C.Parkinson,2.1,1.1,LA,BUF,0.0,0.0,11.0
 2024,1,00-0036251,Z.Moss,14.1,12.1,CIN,NE,0.0,44.0,17.0
 2024,2,00-0036251,Z.Moss,5.7,4.7,CIN,KC,0.0,34.0,13.0
 2024,3,00-0036251,Z.Moss,20.7,15.7,CIN,WAS,0.0,58.0,39.0
@@ -18460,6 +18653,8 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,9,00-0036252,M.Pittman,2.4,1.4,IND,MIN,0.0,0.0,14.0
 2024,11,00-0036252,M.Pittman,9.6,4.6,IND,NYJ,0.0,0.0,46.0
 2024,12,00-0036252,M.Pittman,15.6,9.6,IND,DET,0.0,0.0,96.0
+2024,13,00-0036252,M.Pittman,9.2,4.2,IND,NE,0.0,0.0,42.0
+2024,14,00-0036254,C.Johnson,1.6,0.6,CHI,SF,0.0,0.0,6.0
 2024,1,00-0036259,J.Jennings,11.4,6.4,SF,NYJ,0.0,0.0,64.0
 2024,2,00-0036259,J.Jennings,5.7,3.7,SF,MIN,0.0,0.0,37.0
 2024,3,00-0036259,J.Jennings,46.5,35.5,SF,LA,0.0,0.0,175.0
@@ -18469,6 +18664,8 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,10,00-0036259,J.Jennings,16.3,9.3,SF,TB,0.0,0.0,93.0
 2024,11,00-0036259,J.Jennings,25.1,15.1,SF,SEA,0.0,0.0,91.0
 2024,12,00-0036259,J.Jennings,9.0,4.0,SF,GB,0.0,0.0,40.0
+2024,13,00-0036259,J.Jennings,8.6,5.6,SF,BUF,0.0,0.0,56.0
+2024,14,00-0036259,J.Jennings,28.0,21.0,SF,CHI,0.0,0.0,90.0
 2024,1,00-0036261,B.Aiyuk,4.8,2.8,SF,NYJ,0.0,0.0,28.0
 2024,2,00-0036261,B.Aiyuk,8.3,4.3,SF,MIN,0.0,0.0,43.0
 2024,3,00-0036261,B.Aiyuk,9.8,4.8,SF,LA,0.0,0.0,48.0
@@ -18486,6 +18683,7 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,11,00-0036264,J.Love,20.24,20.24,GB,CHI,261.0,18.0,0.0
 2024,12,00-0036264,J.Love,14.72,14.72,GB,SF,163.0,2.0,0.0
 2024,13,00-0036264,J.Love,18.96,18.96,GB,MIA,274.0,0.0,0.0
+2024,14,00-0036264,J.Love,14.54,14.54,GB,DET,206.0,23.0,0.0
 2024,1,00-0036268,L.Shenault,1.1,0.1,SEA,DEN,0.0,1.0,0.0
 2024,2,00-0036268,L.Shenault,1.6,0.6,SEA,NE,0.0,0.0,6.0
 2024,3,00-0036268,L.Shenault,1.2,0.2,SEA,MIA,0.0,0.0,2.0
@@ -18504,6 +18702,7 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,11,00-0036275,D.Swift,16.4,14.4,CHI,GB,0.0,71.0,13.0
 2024,12,00-0036275,D.Swift,9.5,6.5,CHI,MIN,0.0,30.0,35.0
 2024,13,00-0036275,D.Swift,9.4,7.4,CHI,DET,0.0,39.0,35.0
+2024,14,00-0036275,D.Swift,5.0,4.0,CHI,SF,0.0,38.0,2.0
 2024,1,00-0036290,C.Kmet,1.4,0.4,CHI,TEN,0.0,0.0,4.0
 2024,2,00-0036290,C.Kmet,6.7,2.7,CHI,HOU,0.0,0.0,27.0
 2024,3,00-0036290,C.Kmet,25.7,15.7,CHI,IND,0.0,0.0,97.0
@@ -18515,6 +18714,7 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,11,00-0036290,C.Kmet,7.2,4.2,CHI,GB,0.0,0.0,42.0
 2024,12,00-0036290,C.Kmet,13.4,6.4,CHI,MIN,0.0,0.0,64.0
 2024,13,00-0036290,C.Kmet,5.6,2.6,CHI,DET,0.0,0.0,26.0
+2024,14,00-0036297,D.Evans,0.3,0.3,CHI,SF,0.0,3.0,0.0
 2024,1,00-0036309,D.Mooney,2.5,1.5,ATL,PIT,0.0,0.0,15.0
 2024,2,00-0036309,D.Mooney,17.8,14.8,ATL,PHI,0.0,0.0,88.0
 2024,3,00-0036309,D.Mooney,14.6,6.6,ATL,KC,0.0,0.0,66.0
@@ -18526,6 +18726,8 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,9,00-0036309,D.Mooney,19.8,14.8,ATL,DAL,0.0,0.0,88.0
 2024,10,00-0036309,D.Mooney,14.6,9.6,ATL,NO,0.0,0.0,96.0
 2024,11,00-0036309,D.Mooney,4.7,2.7,ATL,DEN,0.0,0.0,27.0
+2024,13,00-0036309,D.Mooney,5.0,2.0,ATL,LAC,0.0,0.0,20.0
+2024,14,00-0036309,D.Mooney,20.2,14.2,ATL,MIN,0.0,0.0,142.0
 2024,1,00-0036322,J.Jefferson,15.9,11.9,MIN,NYG,0.0,0.0,59.0
 2024,2,00-0036322,J.Jefferson,23.3,19.3,MIN,SF,0.0,0.0,133.0
 2024,3,00-0036322,J.Jefferson,20.1,14.1,MIN,HOU,0.0,0.0,81.0
@@ -18537,6 +18739,8 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,10,00-0036322,J.Jefferson,9.8,4.8,MIN,JAX,0.0,0.0,48.0
 2024,11,00-0036322,J.Jefferson,14.1,8.1,MIN,TEN,0.0,0.0,81.0
 2024,12,00-0036322,J.Jefferson,4.7,2.7,MIN,CHI,0.0,0.0,27.0
+2024,13,00-0036322,J.Jefferson,16.9,9.9,MIN,ARI,0.0,0.0,99.0
+2024,14,00-0036322,J.Jefferson,32.2,25.2,MIN,ATL,0.0,0.0,132.0
 2024,1,00-0036328,A.Gibson,1.8,1.8,NE,CIN,0.0,18.0,0.0
 2024,2,00-0036328,A.Gibson,11.3,10.3,NE,SEA,0.0,96.0,7.0
 2024,3,00-0036328,A.Gibson,6.7,3.7,NE,NYJ,0.0,29.0,8.0
@@ -18549,11 +18753,14 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,10,00-0036328,A.Gibson,2.6,2.6,NE,CHI,0.0,26.0,0.0
 2024,11,00-0036328,A.Gibson,3.0,2.0,NE,LA,0.0,18.0,2.0
 2024,12,00-0036328,A.Gibson,5.5,4.5,NE,MIA,0.0,31.0,14.0
+2024,13,00-0036328,A.Gibson,12.2,12.2,NE,IND,0.0,62.0,0.0
 2024,1,00-0036331,D.Duvernay,0.3,0.3,JAX,MIA,0.0,3.0,0.0
 2024,2,00-0036331,D.Duvernay,0.4,0.4,JAX,CLE,0.0,4.0,0.0
 2024,3,00-0036331,D.Duvernay,0.9,-0.1,JAX,BUF,0.0,0.0,-1.0
 2024,5,00-0036331,D.Duvernay,0.3,0.3,JAX,IND,0.0,3.0,0.0
 2024,11,00-0036331,D.Duvernay,0.0,0.0,JAX,DET,0.0,0.0,0.0
+2024,13,00-0036331,D.Duvernay,4.3,2.3,JAX,HOU,0.0,0.0,23.0
+2024,14,00-0036331,D.Duvernay,3.1,0.1,JAX,TEN,0.0,-7.0,8.0
 2024,3,00-0036332,J.Deguara,1.8,0.8,JAX,BUF,0.0,0.0,8.0
 2024,5,00-0036332,J.Deguara,1.2,0.2,JAX,IND,0.0,0.0,2.0
 2024,1,00-0036345,K.Osborn,5.1,2.1,NE,CIN,0.0,0.0,21.0
@@ -18573,6 +18780,8 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,10,00-0036355,J.Herbert,19.76,19.76,LAC,TEN,164.0,32.0,0.0
 2024,11,00-0036355,J.Herbert,24.38,24.38,LAC,CIN,297.0,65.0,0.0
 2024,12,00-0036355,J.Herbert,17.62,17.62,LAC,BAL,218.0,29.0,0.0
+2024,13,00-0036355,J.Herbert,7.98,7.98,LAC,ATL,147.0,1.0,0.0
+2024,14,00-0036355,J.Herbert,13.72,13.72,LAC,KC,213.0,12.0,0.0
 2024,1,00-0036358,C.Lamb,13.6,8.6,DAL,CLE,0.0,25.0,61.0
 2024,2,00-0036358,C.Lamb,19.0,15.0,DAL,NO,0.0,0.0,90.0
 2024,3,00-0036358,C.Lamb,8.7,4.7,DAL,BAL,0.0,0.0,67.0
@@ -18585,12 +18794,14 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,11,00-0036358,C.Lamb,18.6,10.6,DAL,HOU,0.0,13.0,93.0
 2024,12,00-0036358,C.Lamb,16.8,6.8,DAL,WAS,0.0,1.0,67.0
 2024,13,00-0036358,C.Lamb,5.9,3.9,DAL,NYG,0.0,0.0,39.0
+2024,14,00-0036358,C.Lamb,21.4,15.4,DAL,CIN,0.0,1.0,93.0
 2024,7,00-0036387,J.Reagor,3.0,2.0,LAC,ARI,0.0,-1.0,41.0
 2024,8,00-0036387,J.Reagor,5.5,3.5,LAC,NO,0.0,0.0,35.0
 2024,9,00-0036387,J.Reagor,1.0,0.0,LAC,CLE,0.0,0.0,0.0
 2024,10,00-0036387,J.Reagor,-0.2,-0.2,LAC,TEN,0.0,-2.0,0.0
 2024,11,00-0036387,J.Reagor,0.0,0.0,LAC,CIN,0.0,0.0,0.0
 2024,12,00-0036387,J.Reagor,4.0,2.0,LAC,BAL,0.0,0.0,20.0
+2024,14,00-0036387,J.Reagor,1.4,0.4,LAC,KC,0.0,0.0,4.0
 2024,1,00-0036389,J.Hurts,16.42,16.42,PHI,GB,278.0,33.0,0.0
 2024,2,00-0036389,J.Hurts,23.82,23.82,PHI,ATL,183.0,85.0,0.0
 2024,3,00-0036389,J.Hurts,10.94,10.94,PHI,NO,311.0,25.0,0.0
@@ -18602,6 +18813,8 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,10,00-0036389,J.Hurts,29.68,29.68,PHI,DAL,202.0,56.0,0.0
 2024,11,00-0036389,J.Hurts,18.74,18.74,PHI,WAS,221.0,39.0,0.0
 2024,12,00-0036389,J.Hurts,15.06,15.06,PHI,LA,179.0,39.0,0.0
+2024,13,00-0036389,J.Hurts,17.62,17.62,PHI,BAL,118.0,29.0,0.0
+2024,14,00-0036389,J.Hurts,24.22,24.22,PHI,CAR,108.0,59.0,0.0
 2024,1,00-0036407,J.Jeudy,11.5,8.5,CLE,DAL,0.0,0.0,25.0
 2024,2,00-0036407,J.Jeudy,12.3,7.3,CLE,JAX,0.0,0.0,73.0
 2024,3,00-0036407,J.Jeudy,8.7,4.7,CLE,NYG,0.0,0.0,27.0
@@ -18613,12 +18826,16 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,9,00-0036407,J.Jeudy,14.3,7.3,CLE,LAC,0.0,0.0,73.0
 2024,11,00-0036407,J.Jeudy,26.2,20.2,CLE,NO,0.0,0.0,142.0
 2024,12,00-0036407,J.Jeudy,14.5,8.5,CLE,PIT,0.0,0.0,85.0
+2024,13,00-0036407,J.Jeudy,40.5,31.5,CLE,DEN,0.0,0.0,235.0
+2024,14,00-0036407,J.Jeudy,17.4,12.4,CLE,PIT,0.0,0.0,64.0
 2024,3,00-0036410,T.Higgins,6.9,3.9,CIN,WAS,0.0,0.0,39.0
 2024,4,00-0036410,T.Higgins,12.0,6.0,CIN,CAR,0.0,0.0,60.0
 2024,5,00-0036410,T.Higgins,29.3,20.3,CIN,BAL,0.0,0.0,83.0
 2024,6,00-0036410,T.Higgins,14.7,7.7,CIN,NYG,0.0,0.0,77.0
 2024,7,00-0036410,T.Higgins,18.2,14.2,CIN,CLE,0.0,0.0,82.0
 2024,11,00-0036410,T.Higgins,29.8,20.8,CIN,LAC,0.0,0.0,148.0
+2024,13,00-0036410,T.Higgins,17.9,12.9,CIN,PIT,0.0,0.0,69.0
+2024,14,00-0036410,T.Higgins,4.3,2.3,CIN,DAL,0.0,0.0,23.0
 2024,2,00-0036414,C.Akers,2.5,1.5,HOU,CHI,0.0,32.0,3.0
 2024,3,00-0036414,C.Akers,9.9,8.9,HOU,MIN,0.0,21.0,8.0
 2024,4,00-0036414,C.Akers,5.3,5.3,HOU,JAX,0.0,53.0,0.0
@@ -18628,6 +18845,8 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,10,00-0036414,C.Akers,5.7,4.7,MIN,JAX,0.0,38.0,9.0
 2024,11,00-0036414,C.Akers,11.6,9.6,MIN,TEN,0.0,25.0,11.0
 2024,12,00-0036414,C.Akers,3.5,2.5,MIN,CHI,0.0,19.0,6.0
+2024,13,00-0036414,C.Akers,2.2,2.2,MIN,ARI,0.0,22.0,0.0
+2024,14,00-0036414,C.Akers,3.7,3.7,MIN,ATL,0.0,37.0,0.0
 2024,1,00-0036415,V.Jefferson,1.1,0.1,PIT,ATL,0.0,0.0,1.0
 2024,2,00-0036415,V.Jefferson,3.4,1.4,PIT,DEN,0.0,0.0,14.0
 2024,4,00-0036415,V.Jefferson,4.1,2.1,PIT,IND,0.0,0.0,21.0
@@ -18637,6 +18856,8 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,10,00-0036415,V.Jefferson,0.0,0.0,PIT,WAS,0.0,0.0,0.0
 2024,11,00-0036415,V.Jefferson,0.0,0.0,PIT,BAL,0.0,0.0,0.0
 2024,12,00-0036415,V.Jefferson,5.9,3.9,PIT,CLE,0.0,0.0,39.0
+2024,13,00-0036415,V.Jefferson,5.3,4.3,PIT,CIN,0.0,0.0,43.0
+2024,14,00-0036415,V.Jefferson,8.0,7.0,PIT,CLE,0.0,0.0,10.0
 2024,1,00-0036422,A.Trautman,0.0,0.0,DEN,SEA,0.0,0.0,0.0
 2024,3,00-0036422,A.Trautman,2.3,1.3,DEN,TB,0.0,0.0,13.0
 2024,5,00-0036422,A.Trautman,2.9,1.9,DEN,LV,0.0,0.0,19.0
@@ -18646,6 +18867,7 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,10,00-0036422,A.Trautman,4.4,3.4,DEN,KC,0.0,0.0,34.0
 2024,11,00-0036422,A.Trautman,0.0,0.0,DEN,ATL,0.0,0.0,0.0
 2024,12,00-0036422,A.Trautman,1.3,0.3,DEN,LV,0.0,0.0,3.0
+2024,13,00-0036422,A.Trautman,0.0,0.0,DEN,CLE,0.0,0.0,0.0
 2024,1,00-0036425,D.Dallas,6.0,6.0,ARI,BUF,0.0,0.0,0.0
 2024,9,00-0036425,D.Dallas,0.2,0.2,ARI,CHI,0.0,2.0,0.0
 2024,10,00-0036425,D.Dallas,1.0,1.0,ARI,NYJ,0.0,10.0,0.0
@@ -18658,9 +18880,13 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,9,00-0036427,T.Johnson,6.8,3.8,LA,SEA,0.0,0.0,38.0
 2024,10,00-0036427,T.Johnson,5.5,2.5,LA,MIA,0.0,0.0,25.0
 2024,12,00-0036427,T.Johnson,2.1,1.1,LA,PHI,0.0,0.0,11.0
+2024,13,00-0036427,T.Johnson,0.0,0.0,LA,NO,0.0,0.0,0.0
 2024,1,00-0036429,C.Woerner,1.4,0.4,ATL,PIT,0.0,0.0,4.0
 2024,8,00-0036429,C.Woerner,2.3,1.3,ATL,TB,0.0,0.0,13.0
 2024,10,00-0036429,C.Woerner,0.0,0.0,ATL,NO,0.0,0.0,0.0
+2024,13,00-0036429,C.Woerner,1.5,0.5,ATL,LAC,0.0,0.0,5.0
+2024,14,00-0036429,C.Woerner,2.1,1.1,ATL,MIN,0.0,0.0,11.0
+2024,13,00-0036438,S.Sullivan,0.0,0.0,CAR,TB,0.0,0.0,0.0
 2024,1,00-0036442,J.Burrow,8.06,8.06,CIN,NE,164.0,15.0,0.0
 2024,2,00-0036442,J.Burrow,17.22,17.22,CIN,KC,258.0,9.0,0.0
 2024,3,00-0036442,J.Burrow,25.36,25.36,CIN,WAS,324.0,4.0,0.0
@@ -18672,6 +18898,9 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,9,00-0036442,J.Burrow,29.14,29.14,CIN,LV,251.0,11.0,0.0
 2024,10,00-0036442,J.Burrow,33.72,33.72,CIN,BAL,428.0,6.0,0.0
 2024,11,00-0036442,J.Burrow,29.04,29.04,CIN,LAC,356.0,28.0,0.0
+2024,13,00-0036442,J.Burrow,19.26,19.26,CIN,PIT,309.0,9.0,0.0
+2024,14,00-0036442,J.Burrow,24.56,24.56,CIN,DAL,369.0,-2.0,0.0
+2024,14,00-0036450,K.Vaughn,0.4,0.4,SF,CHI,0.0,4.0,0.0
 2024,8,00-0036497,T.Jones,3.0,2.0,JAX,GB,0.0,0.0,20.0
 2024,9,00-0036497,T.Jones,2.0,1.0,JAX,PHI,0.0,0.0,10.0
 2024,9,00-0036510,K.Yeboah,2.2,1.2,NYJ,HOU,0.0,0.0,12.0
@@ -18707,6 +18936,7 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,5,00-0036554,N.Collins,15.8,13.8,HOU,BUF,0.0,0.0,78.0
 2024,11,00-0036554,N.Collins,9.4,5.4,HOU,DAL,0.0,0.0,54.0
 2024,12,00-0036554,N.Collins,20.2,15.2,HOU,TEN,0.0,0.0,92.0
+2024,13,00-0036554,N.Collins,19.9,11.9,HOU,JAX,0.0,0.0,119.0
 2024,1,00-0036555,C.Hubbard,1.4,1.4,CAR,NO,0.0,14.0,0.0
 2024,2,00-0036555,C.Hubbard,11.6,7.6,CAR,LAC,0.0,64.0,12.0
 2024,3,00-0036555,C.Hubbard,27.9,22.9,CAR,LV,0.0,114.0,55.0
@@ -18718,11 +18948,14 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,9,00-0036555,C.Hubbard,21.2,19.2,CAR,NO,0.0,72.0,0.0
 2024,10,00-0036555,C.Hubbard,24.9,20.9,CAR,NYG,0.0,153.0,16.0
 2024,12,00-0036555,C.Hubbard,15.0,14.0,CAR,KC,0.0,58.0,2.0
+2024,13,00-0036555,C.Hubbard,2.3,2.3,CAR,TB,0.0,43.0,0.0
+2024,14,00-0036555,C.Hubbard,20.7,16.7,CAR,PHI,0.0,92.0,15.0
 2024,1,00-0036556,B.Jordan,1.3,0.3,HOU,IND,0.0,0.0,3.0
 2024,2,00-0036556,B.Jordan,1.4,0.4,HOU,CHI,0.0,0.0,4.0
 2024,5,00-0036563,D.Lenoir,6.0,6.0,SF,SF,0.0,0.0,0.0
 2024,9,00-0036590,Q.Morris,7.2,6.2,BUF,MIA,0.0,0.0,2.0
 2024,11,00-0036590,Q.Morris,0.0,0.0,BUF,KC,0.0,0.0,0.0
+2024,13,00-0036590,Q.Morris,2.4,1.4,BUF,SF,0.0,0.0,14.0
 2024,1,00-0036613,J.Waddle,16.2,11.2,MIA,JAX,0.0,3.0,109.0
 2024,2,00-0036613,J.Waddle,8.5,4.5,MIA,BUF,0.0,4.0,41.0
 2024,3,00-0036613,J.Waddle,6.6,2.6,MIA,SEA,0.0,0.0,26.0
@@ -18735,6 +18968,7 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,11,00-0036613,J.Waddle,5.7,3.7,MIA,LV,0.0,0.0,37.0
 2024,12,00-0036613,J.Waddle,28.4,20.4,MIA,NE,0.0,0.0,144.0
 2024,13,00-0036613,J.Waddle,11.3,7.3,MIA,GB,0.0,0.0,53.0
+2024,14,00-0036613,J.Waddle,20.9,11.9,MIA,NYJ,0.0,0.0,99.0
 2024,3,00-0036620,D.Eskridge,4.0,3.0,MIA,SEA,0.0,0.0,30.0
 2024,8,00-0036620,D.Eskridge,1.6,0.6,MIA,ARI,0.0,0.0,6.0
 2024,2,00-0036626,D.Brown,3.7,1.7,WAS,NYG,0.0,0.0,17.0
@@ -18748,6 +18982,7 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,10,00-0036626,D.Brown,0.7,-1.3,WAS,PIT,0.0,0.0,-13.0
 2024,11,00-0036626,D.Brown,1.4,0.4,WAS,PHI,0.0,0.0,4.0
 2024,12,00-0036626,D.Brown,5.6,3.6,WAS,DAL,0.0,14.0,22.0
+2024,13,00-0036626,D.Brown,7.9,3.9,WAS,TEN,0.0,4.0,35.0
 2024,1,00-0036628,J.Bates,0.0,0.0,WAS,TB,0.0,0.0,0.0
 2024,2,00-0036628,J.Bates,1.5,0.5,WAS,NYG,0.0,0.0,5.0
 2024,4,00-0036628,J.Bates,1.9,0.9,WAS,ARI,0.0,0.0,9.0
@@ -18758,6 +18993,7 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,10,00-0036630,T.Wallace,20.5,17.5,BAL,CIN,0.0,0.0,115.0
 2024,11,00-0036630,T.Wallace,1.8,0.8,BAL,PIT,0.0,0.0,8.0
 2024,12,00-0036630,T.Wallace,2.5,1.5,BAL,LAC,0.0,0.0,15.0
+2024,13,00-0036630,T.Wallace,3.4,1.4,BAL,PHI,0.0,0.0,14.0
 2024,1,00-0036637,N.Gray,6.7,3.7,KC,BAL,0.0,0.0,37.0
 2024,3,00-0036637,N.Gray,2.3,1.3,KC,ATL,0.0,0.0,13.0
 2024,4,00-0036637,N.Gray,8.0,4.0,KC,LAC,0.0,0.0,40.0
@@ -18769,7 +19005,9 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,11,00-0036637,N.Gray,18.3,14.3,KC,BUF,0.0,0.0,23.0
 2024,12,00-0036637,N.Gray,22.6,18.6,KC,CAR,0.0,0.0,66.0
 2024,13,00-0036637,N.Gray,9.8,5.8,KC,LV,0.0,0.0,58.0
+2024,14,00-0036637,N.Gray,6.6,2.6,KC,LAC,0.0,0.0,26.0
 2024,11,00-0036640,Z.Davidson,1.5,0.5,BUF,KC,0.0,0.0,5.0
+2024,13,00-0036640,Z.Davidson,0.0,0.0,BUF,SF,0.0,0.0,0.0
 2024,3,00-0036646,S.Fehoko,2.7,1.7,LAC,PIT,0.0,0.0,17.0
 2024,6,00-0036646,S.Fehoko,6.4,4.4,LAC,DEN,0.0,0.0,44.0
 2024,7,00-0036646,S.Fehoko,7.5,4.5,LAC,ARI,0.0,0.0,45.0
@@ -18789,8 +19027,11 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,11,00-0036754,B.Wright,7.5,6.5,DET,JAX,0.0,0.0,5.0
 2024,12,00-0036754,B.Wright,4.4,2.4,DET,IND,0.0,0.0,24.0
 2024,13,00-0036754,B.Wright,2.3,1.3,DET,CHI,0.0,0.0,13.0
+2024,14,00-0036754,B.Wright,0.0,0.0,DET,GB,0.0,0.0,0.0
 2024,4,00-0036825,F.Franks,0.0,0.0,CAR,CIN,0.0,0.0,0.0
+2024,13,00-0036825,F.Franks,0.0,0.0,CAR,TB,0.0,0.0,0.0
 2024,9,00-0036841,A.Trammell,6.0,4.0,JAX,PHI,0.0,0.0,40.0
+2024,13,00-0036842,K.Nwangwu,6.0,6.0,NYJ,SEA,0.0,0.0,0.0
 2024,2,00-0036849,T.Atwell,7.8,4.8,LA,ARI,0.0,0.0,48.0
 2024,3,00-0036849,T.Atwell,13.3,9.3,LA,SF,0.0,0.0,93.0
 2024,4,00-0036849,T.Atwell,12.2,8.2,LA,CHI,0.0,0.0,82.0
@@ -18801,7 +19042,10 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,10,00-0036849,T.Atwell,1.6,0.6,LA,MIA,0.0,0.0,6.0
 2024,11,00-0036849,T.Atwell,3.1,2.1,LA,NE,0.0,0.0,21.0
 2024,12,00-0036849,T.Atwell,6.0,3.0,LA,PHI,0.0,0.0,30.0
+2024,13,00-0036849,T.Atwell,5.9,3.9,LA,NO,0.0,0.0,39.0
+2024,14,00-0036849,T.Atwell,7.5,4.5,LA,BUF,0.0,0.0,45.0
 2024,11,00-0036862,B.Skowronek,1.4,0.4,PIT,BAL,0.0,0.0,4.0
+2024,13,00-0036862,B.Skowronek,3.3,2.3,PIT,CIN,0.0,0.0,23.0
 2024,1,00-0036875,R.Stevenson,21.6,18.6,NE,CIN,0.0,120.0,6.0
 2024,2,00-0036875,R.Stevenson,17.0,15.0,NE,SEA,0.0,81.0,9.0
 2024,3,00-0036875,R.Stevenson,0.3,0.3,NE,NYJ,0.0,23.0,0.0
@@ -18813,6 +19057,7 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,10,00-0036875,R.Stevenson,8.7,7.7,NE,CHI,0.0,74.0,3.0
 2024,11,00-0036875,R.Stevenson,12.9,8.9,NE,LA,0.0,73.0,16.0
 2024,12,00-0036875,R.Stevenson,3.3,3.3,NE,MIA,0.0,13.0,0.0
+2024,13,00-0036875,R.Stevenson,12.4,9.4,NE,IND,0.0,73.0,21.0
 2024,1,00-0036876,K.Granson,0.0,0.0,IND,HOU,0.0,0.0,0.0
 2024,2,00-0036876,K.Granson,1.9,0.9,IND,GB,0.0,0.0,9.0
 2024,3,00-0036876,K.Granson,5.0,4.0,IND,CHI,0.0,0.0,40.0
@@ -18823,6 +19068,7 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,10,00-0036876,K.Granson,3.5,1.5,IND,BUF,0.0,0.0,15.0
 2024,11,00-0036876,K.Granson,1.4,0.4,IND,NYJ,0.0,0.0,4.0
 2024,12,00-0036876,K.Granson,0.0,0.0,IND,DET,0.0,0.0,0.0
+2024,13,00-0036876,K.Granson,0.0,0.0,IND,NE,0.0,0.0,0.0
 2024,6,00-0036877,J.Darden,1.6,0.6,CLE,PHI,0.0,0.0,6.0
 2024,13,00-0036880,P.Sewell,0.0,0.0,DET,CHI,0.0,0.0,0.0
 2024,2,00-0036887,L.Farrell,3.3,1.3,JAX,CLE,0.0,0.0,13.0
@@ -18832,6 +19078,7 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,9,00-0036887,L.Farrell,1.5,0.5,JAX,PHI,0.0,0.0,5.0
 2024,10,00-0036887,L.Farrell,3.6,1.6,JAX,MIN,0.0,0.0,16.0
 2024,11,00-0036887,L.Farrell,1.3,0.3,JAX,DET,0.0,0.0,3.0
+2024,13,00-0036887,L.Farrell,0.0,0.0,JAX,HOU,0.0,0.0,0.0
 2024,1,00-0036893,N.Harris,8.9,7.9,PIT,ATL,0.0,70.0,9.0
 2024,2,00-0036893,N.Harris,8.4,7.4,PIT,DEN,0.0,69.0,5.0
 2024,3,00-0036893,N.Harris,13.6,8.6,PIT,LAC,0.0,70.0,16.0
@@ -18843,6 +19090,8 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,10,00-0036893,N.Harris,11.3,11.3,PIT,WAS,0.0,53.0,0.0
 2024,11,00-0036893,N.Harris,13.3,9.3,PIT,BAL,0.0,63.0,30.0
 2024,12,00-0036893,N.Harris,7.4,5.4,PIT,CLE,0.0,41.0,13.0
+2024,13,00-0036893,N.Harris,24.9,18.9,PIT,CIN,0.0,75.0,54.0
+2024,14,00-0036893,N.Harris,11.3,11.3,PIT,CLE,0.0,53.0,0.0
 2024,1,00-0036894,P.Freiermuth,6.7,2.7,PIT,ATL,0.0,0.0,27.0
 2024,2,00-0036894,P.Freiermuth,7.9,3.9,PIT,DEN,0.0,0.0,39.0
 2024,3,00-0036894,P.Freiermuth,7.3,3.3,PIT,LAC,0.0,0.0,33.0
@@ -18854,6 +19103,8 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,10,00-0036894,P.Freiermuth,10.7,7.7,PIT,WAS,0.0,0.0,17.0
 2024,11,00-0036894,P.Freiermuth,3.4,1.4,PIT,BAL,0.0,0.0,14.0
 2024,12,00-0036894,P.Freiermuth,9.9,5.9,PIT,CLE,0.0,0.0,59.0
+2024,13,00-0036894,P.Freiermuth,18.8,12.8,PIT,CIN,0.0,0.0,68.0
+2024,14,00-0036894,P.Freiermuth,13.8,10.8,PIT,CLE,0.0,0.0,48.0
 2024,3,00-0036898,D.Mills,3.16,3.16,HOU,MIN,79.0,0.0,0.0
 2024,6,00-0036898,D.Mills,0.0,0.0,HOU,NE,0.0,0.0,0.0
 2024,1,00-0036900,J.Chase,12.2,6.2,CIN,NE,0.0,0.0,62.0
@@ -18867,9 +19118,13 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,9,00-0036900,J.Chase,11.3,4.3,CIN,LV,0.0,0.0,43.0
 2024,10,00-0036900,J.Chase,55.4,44.4,CIN,BAL,0.0,0.0,264.0
 2024,11,00-0036900,J.Chase,26.5,19.5,CIN,LAC,0.0,0.0,75.0
+2024,13,00-0036900,J.Chase,20.6,14.6,CIN,PIT,0.0,0.0,86.0
+2024,14,00-0036900,J.Chase,45.1,31.1,CIN,DAL,0.0,14.0,177.0
 2024,1,00-0036906,K.Herbert,0.4,0.4,CHI,TEN,0.0,4.0,0.0
 2024,2,00-0036906,K.Herbert,8.7,6.7,CHI,HOU,0.0,3.0,4.0
 2024,3,00-0036906,K.Herbert,0.9,0.9,CHI,IND,0.0,9.0,0.0
+2024,13,00-0036906,K.Herbert,1.4,1.4,CIN,PIT,0.0,14.0,0.0
+2024,14,00-0036906,K.Herbert,2.1,1.1,CIN,DAL,0.0,4.0,7.0
 2024,1,00-0036912,D.Smith,15.4,8.4,PHI,GB,0.0,0.0,84.0
 2024,2,00-0036912,D.Smith,20.6,13.6,PHI,ATL,0.0,0.0,76.0
 2024,3,00-0036912,D.Smith,14.9,7.9,PHI,NO,0.0,0.0,79.0
@@ -18879,7 +19134,9 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,9,00-0036912,D.Smith,18.7,14.7,PHI,JAX,0.0,0.0,87.0
 2024,10,00-0036912,D.Smith,3.4,1.4,PHI,DAL,0.0,0.0,14.0
 2024,11,00-0036912,D.Smith,6.9,2.9,PHI,WAS,0.0,0.0,29.0
+2024,14,00-0036912,D.Smith,13.7,9.7,PHI,CAR,0.0,0.0,37.0
 2024,11,00-0036913,K.Toney,-0.7,-0.7,CLE,NO,0.0,-7.0,0.0
+2024,13,00-0036913,K.Toney,0.3,0.3,CLE,DEN,0.0,3.0,0.0
 2024,1,00-0036919,K.Gainwell,2.2,1.2,PHI,GB,0.0,2.0,10.0
 2024,2,00-0036919,K.Gainwell,0.6,0.6,PHI,ATL,0.0,6.0,0.0
 2024,3,00-0036919,K.Gainwell,3.2,1.2,PHI,NO,0.0,0.0,12.0
@@ -18891,7 +19148,9 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,10,00-0036919,K.Gainwell,4.9,3.9,PHI,DAL,0.0,30.0,9.0
 2024,11,00-0036919,K.Gainwell,5.9,4.9,PHI,WAS,0.0,43.0,6.0
 2024,12,00-0036919,K.Gainwell,8.2,8.2,PHI,LA,0.0,22.0,0.0
+2024,14,00-0036919,K.Gainwell,5.3,3.3,PHI,CAR,0.0,26.0,7.0
 2024,1,00-0036928,K.Trask,-0.2,-0.2,TB,WAS,0.0,-2.0,0.0
+2024,13,00-0036928,K.Trask,0.2,0.2,TB,CAR,5.0,0.0,0.0
 2024,1,00-0036945,J.Fields,11.94,11.94,PIT,ATL,156.0,57.0,0.0
 2024,2,00-0036945,J.Fields,11.38,11.38,PIT,DEN,117.0,27.0,0.0
 2024,3,00-0036945,J.Fields,18.4,18.4,PIT,LAC,245.0,6.0,0.0
@@ -18900,7 +19159,9 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,6,00-0036945,J.Fields,23.7,23.7,PIT,LV,145.0,59.0,0.0
 2024,11,00-0036945,J.Fields,1.7,1.7,PIT,BAL,0.0,17.0,0.0
 2024,12,00-0036945,J.Fields,2.6,2.6,PIT,CLE,0.0,26.0,0.0
+2024,13,00-0036945,J.Fields,0.7,0.7,PIT,CIN,0.0,7.0,0.0
 2024,13,00-0036955,T.Marshall,0.0,0.0,LV,KC,0.0,0.0,0.0
+2024,14,00-0036955,T.Marshall,1.6,0.6,LV,TB,0.0,0.0,6.0
 2024,1,00-0036963,A.St. Brown,4.3,1.3,DET,LA,0.0,0.0,13.0
 2024,2,00-0036963,A.St. Brown,22.9,11.9,DET,TB,0.0,0.0,119.0
 2024,3,00-0036963,A.St. Brown,20.5,13.5,DET,ARI,0.0,0.0,75.0
@@ -18913,6 +19174,7 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,11,00-0036963,A.St. Brown,38.7,27.7,DET,JAX,0.0,-4.0,161.0
 2024,12,00-0036963,A.St. Brown,12.2,6.2,DET,IND,0.0,0.0,62.0
 2024,13,00-0036963,A.St. Brown,12.3,7.3,DET,CHI,0.0,0.0,73.0
+2024,14,00-0036963,A.St. Brown,10.3,5.3,DET,GB,0.0,10.0,43.0
 2024,1,00-0036970,K.Pitts,11.6,8.6,ATL,PIT,0.0,0.0,26.0
 2024,2,00-0036970,K.Pitts,5.0,2.0,ATL,PHI,0.0,0.0,20.0
 2024,3,00-0036970,K.Pitts,7.9,5.9,ATL,KC,0.0,0.0,59.0
@@ -18924,6 +19186,8 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,9,00-0036970,K.Pitts,2.1,1.1,ATL,DAL,0.0,0.0,11.0
 2024,10,00-0036970,K.Pitts,9.5,5.5,ATL,NO,0.0,0.0,55.0
 2024,11,00-0036970,K.Pitts,1.9,0.9,ATL,DEN,0.0,0.0,9.0
+2024,13,00-0036970,K.Pitts,0.0,0.0,ATL,LAC,0.0,0.0,0.0
+2024,14,00-0036970,K.Pitts,2.4,1.4,ATL,MIN,0.0,0.0,14.0
 2024,1,00-0036971,T.Lawrence,11.28,11.28,JAX,MIA,162.0,8.0,0.0
 2024,2,00-0036971,T.Lawrence,13.3,13.3,JAX,CLE,220.0,45.0,0.0
 2024,3,00-0036971,T.Lawrence,9.42,9.42,JAX,BUF,178.0,3.0,0.0
@@ -18933,10 +19197,13 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,7,00-0036971,T.Lawrence,15.02,15.02,JAX,NE,193.0,13.0,0.0
 2024,8,00-0036971,T.Lawrence,23.32,23.32,JAX,GB,308.0,10.0,0.0
 2024,9,00-0036971,T.Lawrence,19.56,19.56,JAX,PHI,169.0,8.0,0.0
+2024,13,00-0036971,T.Lawrence,0.24,0.24,JAX,HOU,41.0,6.0,0.0
 2024,3,00-0036972,M.Jones,-1.12,-1.12,JAX,BUF,22.0,0.0,0.0
 2024,6,00-0036972,M.Jones,0.24,0.24,JAX,CHI,6.0,0.0,0.0
 2024,10,00-0036972,M.Jones,5.24,5.24,JAX,MIN,111.0,8.0,0.0
 2024,11,00-0036972,M.Jones,4.22,4.22,JAX,DET,138.0,7.0,0.0
+2024,13,00-0036972,M.Jones,20.0,20.0,JAX,HOU,235.0,6.0,0.0
+2024,14,00-0036972,M.Jones,5.1,5.1,JAX,TEN,220.0,3.0,0.0
 2024,1,00-0036973,T.Etienne,11.9,9.9,JAX,MIA,0.0,44.0,15.0
 2024,2,00-0036973,T.Etienne,14.8,11.8,JAX,CLE,0.0,52.0,6.0
 2024,3,00-0036973,T.Etienne,12.5,8.5,JAX,BUF,0.0,68.0,17.0
@@ -18946,6 +19213,8 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,9,00-0036973,T.Etienne,5.0,3.0,JAX,PHI,0.0,24.0,6.0
 2024,10,00-0036973,T.Etienne,5.3,4.3,JAX,MIN,0.0,44.0,-1.0
 2024,11,00-0036973,T.Etienne,6.3,3.3,JAX,DET,0.0,27.0,6.0
+2024,13,00-0036973,T.Etienne,8.8,5.8,JAX,HOU,0.0,46.0,12.0
+2024,14,00-0036973,T.Etienne,11.0,7.0,JAX,TEN,0.0,20.0,50.0
 2024,1,00-0036980,E.Moore,3.9,0.9,CLE,DAL,0.0,0.0,9.0
 2024,2,00-0036980,E.Moore,10.4,4.4,CLE,JAX,0.0,0.0,44.0
 2024,3,00-0036980,E.Moore,3.7,1.7,CLE,NYG,0.0,0.0,17.0
@@ -18957,6 +19226,8 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,9,00-0036980,E.Moore,5.8,2.8,CLE,LAC,0.0,0.0,28.0
 2024,11,00-0036980,E.Moore,18.6,12.6,CLE,NO,0.0,0.0,66.0
 2024,12,00-0036980,E.Moore,5.1,2.1,CLE,PIT,0.0,0.0,21.0
+2024,13,00-0036980,E.Moore,19.2,11.2,CLE,DEN,0.0,1.0,111.0
+2024,14,00-0036980,E.Moore,6.4,3.4,CLE,PIT,0.0,0.0,34.0
 2024,2,00-0036984,T.Sermon,1.7,0.7,IND,GB,0.0,0.0,7.0
 2024,3,00-0036984,T.Sermon,7.6,7.6,IND,CHI,0.0,16.0,0.0
 2024,4,00-0036984,T.Sermon,0.8,0.8,IND,PIT,0.0,8.0,0.0
@@ -18977,6 +19248,8 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,10,00-0036988,J.Palmer,4.6,3.6,LAC,TEN,0.0,0.0,36.0
 2024,11,00-0036988,J.Palmer,4.3,2.3,LAC,CIN,0.0,0.0,23.0
 2024,12,00-0036988,J.Palmer,6.8,3.8,LAC,BAL,0.0,0.0,38.0
+2024,13,00-0036988,J.Palmer,4.1,3.1,LAC,ATL,0.0,0.0,11.0
+2024,14,00-0036988,J.Palmer,13.8,7.8,LAC,KC,0.0,0.0,78.0
 2024,12,00-0036990,D.Deablo,4.4,3.4,LV,DEN,0.0,0.0,34.0
 2024,1,00-0036997,J.Williams,3.3,2.3,DEN,SEA,0.0,23.0,0.0
 2024,2,00-0036997,J.Williams,11.5,6.5,DEN,PIT,0.0,17.0,48.0
@@ -18990,15 +19263,20 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,10,00-0036997,J.Williams,2.7,0.7,DEN,KC,0.0,1.0,6.0
 2024,11,00-0036997,J.Williams,18.7,14.7,DEN,ATL,0.0,59.0,28.0
 2024,12,00-0036997,J.Williams,2.4,0.4,DEN,LV,0.0,-2.0,6.0
+2024,13,00-0036997,J.Williams,7.4,6.4,DEN,CLE,0.0,1.0,3.0
 2024,5,00-0037004,H.Long,3.6,1.6,LA,GB,0.0,0.0,16.0
 2024,7,00-0037004,H.Long,1.5,0.5,LA,LV,0.0,0.0,5.0
 2024,8,00-0037004,H.Long,2.8,1.8,LA,MIN,0.0,0.0,18.0
 2024,9,00-0037004,H.Long,1.4,0.4,LA,SEA,0.0,0.0,4.0
+2024,13,00-0037004,H.Long,0.0,0.0,LA,NO,0.0,0.0,0.0
+2024,14,00-0037004,H.Long,6.0,6.0,LA,BUF,0.0,0.0,0.0
 2024,2,00-0037005,T.Tremble,5.3,2.3,CAR,LAC,0.0,0.0,23.0
 2024,3,00-0037005,T.Tremble,5.9,2.9,CAR,LV,0.0,0.0,29.0
 2024,5,00-0037005,T.Tremble,-0.3,-1.3,CAR,CHI,0.0,0.0,7.0
 2024,8,00-0037005,T.Tremble,3.3,1.3,CAR,DEN,0.0,0.0,13.0
 2024,12,00-0037005,T.Tremble,1.5,0.5,CAR,KC,0.0,0.0,5.0
+2024,13,00-0037005,T.Tremble,12.7,7.7,CAR,TB,0.0,0.0,77.0
+2024,14,00-0037005,T.Tremble,7.3,6.3,CAR,PHI,0.0,0.0,3.0
 2024,10,00-0037012,T.Lance,0.54,0.54,DAL,PHI,21.0,17.0,0.0
 2024,12,00-0037012,T.Lance,-0.3,-0.3,DAL,WAS,0.0,-3.0,0.0
 2024,2,00-0037085,T.Badie,2.8,1.8,DEN,PIT,0.0,16.0,2.0
@@ -19013,6 +19291,7 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,9,00-0037086,G.Calcaterra,8.0,3.0,PHI,JAX,0.0,0.0,30.0
 2024,10,00-0037086,G.Calcaterra,0.0,0.0,PHI,DAL,0.0,0.0,0.0
 2024,12,00-0037086,G.Calcaterra,0.0,0.0,PHI,LA,0.0,0.0,0.0
+2024,14,00-0037086,G.Calcaterra,10.6,7.6,PHI,CAR,0.0,0.0,16.0
 2024,2,00-0037091,B.Melton,0.8,0.8,GB,IND,0.0,8.0,0.0
 2024,4,00-0037091,B.Melton,3.8,2.8,GB,MIN,0.0,0.0,28.0
 2024,5,00-0037091,B.Melton,2.2,1.2,GB,LA,0.0,0.0,12.0
@@ -19030,10 +19309,12 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,10,00-0037120,T.Goodson,8.9,6.9,IND,BUF,0.0,0.0,9.0
 2024,2,00-0037132,B.Covey,8.3,2.3,PHI,ATL,0.0,0.0,23.0
 2024,3,00-0037132,B.Covey,2.1,1.1,PHI,NO,0.0,0.0,11.0
+2024,13,00-0037132,B.Covey,0.0,0.0,PHI,BAL,0.0,0.0,0.0
 2024,7,00-0037156,I.Charles,0.0,0.0,NYJ,PIT,0.0,0.0,0.0
 2024,1,00-0037197,I.Pacheco,15.8,13.8,KC,BAL,0.0,45.0,33.0
 2024,2,00-0037197,I.Pacheco,16.1,11.1,KC,CIN,0.0,90.0,21.0
 2024,13,00-0037197,I.Pacheco,5.9,4.9,KC,LV,0.0,44.0,5.0
+2024,14,00-0037197,I.Pacheco,8.1,6.1,KC,LAC,0.0,55.0,6.0
 2024,11,00-0037207,M.Caliendo,1.5,0.5,KC,BUF,0.0,0.0,5.0
 2024,10,00-0037216,J.Ross,0.0,0.0,KC,DEN,0.0,0.0,0.0
 2024,1,00-0037228,J.Warren,4.0,2.0,PIT,ATL,0.0,7.0,13.0
@@ -19045,8 +19326,12 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,10,00-0037228,J.Warren,9.5,7.5,PIT,WAS,0.0,66.0,29.0
 2024,11,00-0037228,J.Warren,10.8,6.8,PIT,BAL,0.0,41.0,27.0
 2024,12,00-0037228,J.Warren,15.4,12.4,PIT,CLE,0.0,45.0,19.0
+2024,13,00-0037228,J.Warren,10.4,6.4,PIT,CIN,0.0,9.0,55.0
+2024,14,00-0037228,J.Warren,9.2,7.2,PIT,CLE,0.0,47.0,25.0
 2024,10,00-0037231,K.Austin,5.6,3.6,NO,ATL,0.0,0.0,36.0
 2024,11,00-0037231,K.Austin,2.8,1.8,NO,CLE,0.0,0.0,18.0
+2024,13,00-0037231,K.Austin,7.0,4.0,NO,LA,0.0,9.0,31.0
+2024,14,00-0037231,K.Austin,1.5,0.5,NO,NYG,0.0,0.0,5.0
 2024,1,00-0037238,D.London,3.5,1.5,ATL,PIT,0.0,0.0,15.0
 2024,2,00-0037238,D.London,17.4,11.4,ATL,PHI,0.0,0.0,54.0
 2024,3,00-0037238,D.London,18.7,12.7,ATL,KC,0.0,0.0,67.0
@@ -19058,6 +19343,8 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,9,00-0037238,D.London,10.7,8.7,ATL,DAL,0.0,0.0,27.0
 2024,10,00-0037238,D.London,17.7,9.7,ATL,NO,0.0,0.0,97.0
 2024,11,00-0037238,D.London,9.1,6.1,ATL,DEN,0.0,0.0,61.0
+2024,13,00-0037238,D.London,17.3,8.3,ATL,LAC,0.0,-3.0,86.0
+2024,14,00-0037238,D.London,12.0,7.0,ATL,MIN,0.0,0.0,70.0
 2024,1,00-0037239,C.Olave,3.1,1.1,NO,CAR,0.0,0.0,11.0
 2024,2,00-0037239,C.Olave,12.8,8.8,NO,DAL,0.0,7.0,81.0
 2024,3,00-0037239,C.Olave,20.6,14.6,NO,PHI,0.0,0.0,86.0
@@ -19076,6 +19363,7 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,11,00-0037240,J.Williams,22.6,18.6,DET,JAX,0.0,2.0,124.0
 2024,12,00-0037240,J.Williams,11.8,6.8,DET,IND,0.0,4.0,64.0
 2024,13,00-0037240,J.Williams,9.6,4.6,DET,CHI,0.0,18.0,28.0
+2024,14,00-0037240,J.Williams,13.0,8.0,DET,GB,0.0,0.0,80.0
 2024,3,00-0037243,T.Smith,1.0,0.0,DAL,BAL,0.0,0.0,0.0
 2024,1,00-0037247,G.Pickens,13.5,7.5,PIT,ATL,0.0,-10.0,85.0
 2024,2,00-0037247,G.Pickens,4.9,2.9,PIT,DEN,0.0,0.0,29.0
@@ -19088,6 +19376,7 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,10,00-0037247,G.Pickens,20.5,15.5,PIT,WAS,0.0,4.0,91.0
 2024,11,00-0037247,G.Pickens,16.9,8.9,PIT,BAL,0.0,0.0,89.0
 2024,12,00-0037247,G.Pickens,8.8,4.8,PIT,CLE,0.0,0.0,48.0
+2024,13,00-0037247,G.Pickens,16.4,13.4,PIT,CIN,0.0,0.0,74.0
 2024,1,00-0037248,J.Cook,13.3,10.3,BUF,ARI,0.0,71.0,32.0
 2024,2,00-0037248,J.Cook,28.5,27.5,BUF,MIA,0.0,78.0,17.0
 2024,3,00-0037248,J.Cook,18.7,14.7,BUF,JAX,0.0,39.0,48.0
@@ -19098,6 +19387,8 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,9,00-0037248,J.Cook,11.9,6.9,BUF,MIA,0.0,44.0,25.0
 2024,10,00-0037248,J.Cook,15.5,14.5,BUF,IND,0.0,80.0,5.0
 2024,11,00-0037248,J.Cook,19.7,14.7,BUF,KC,0.0,20.0,7.0
+2024,13,00-0037248,J.Cook,19.0,18.0,BUF,SF,0.0,107.0,13.0
+2024,14,00-0037248,J.Cook,4.9,2.9,BUF,LA,0.0,20.0,9.0
 2024,1,00-0037252,G.Dulcich,3.2,1.2,DEN,SEA,0.0,0.0,12.0
 2024,2,00-0037252,G.Dulcich,4.6,1.6,DEN,PIT,0.0,0.0,16.0
 2024,4,00-0037252,G.Dulcich,0.0,0.0,DEN,NYJ,0.0,0.0,0.0
@@ -19112,12 +19403,15 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,9,00-0037256,R.White,12.5,9.5,TB,KC,0.0,19.0,16.0
 2024,10,00-0037256,R.White,19.0,13.0,TB,SF,0.0,31.0,39.0
 2024,12,00-0037256,R.White,11.7,10.7,TB,NYG,0.0,37.0,10.0
+2024,13,00-0037256,R.White,8.8,7.8,TB,CAR,0.0,76.0,2.0
+2024,14,00-0037256,R.White,24.9,22.9,TB,LV,0.0,90.0,19.0
 2024,2,00-0037257,D.Bell,5.7,2.7,CLE,JAX,0.0,0.0,27.0
 2024,1,00-0037258,D.Pierce,1.6,1.6,HOU,IND,0.0,16.0,0.0
 2024,6,00-0037258,D.Pierce,14.7,13.7,HOU,NE,0.0,76.0,1.0
 2024,7,00-0037258,D.Pierce,0.2,0.2,HOU,GB,0.0,2.0,0.0
 2024,8,00-0037258,D.Pierce,0.4,0.4,HOU,IND,0.0,4.0,0.0
 2024,11,00-0037258,D.Pierce,0.2,0.2,HOU,DAL,0.0,2.0,0.0
+2024,13,00-0037258,D.Pierce,1.1,0.1,HOU,JAX,0.0,0.0,1.0
 2024,1,00-0037261,K.Shakir,13.2,10.2,BUF,ARI,0.0,0.0,42.0
 2024,2,00-0037261,K.Shakir,10.6,5.6,BUF,MIA,0.0,2.0,54.0
 2024,3,00-0037261,K.Shakir,19.2,13.2,BUF,JAX,0.0,0.0,72.0
@@ -19128,6 +19422,8 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,9,00-0037261,K.Shakir,11.0,5.0,BUF,MIA,0.0,0.0,50.0
 2024,10,00-0037261,K.Shakir,11.8,5.8,BUF,IND,0.0,0.0,58.0
 2024,11,00-0037261,K.Shakir,15.0,7.0,BUF,KC,0.0,0.0,70.0
+2024,13,00-0037261,K.Shakir,7.0,3.0,BUF,SF,0.0,0.0,30.0
+2024,14,00-0037261,K.Shakir,21.6,16.6,BUF,LA,0.0,0.0,106.0
 2024,1,00-0037263,T.Allgeier,2.1,2.1,ATL,PIT,0.0,21.0,0.0
 2024,2,00-0037263,T.Allgeier,7.5,6.5,ATL,PHI,0.0,53.0,12.0
 2024,3,00-0037263,T.Allgeier,3.2,3.2,ATL,KC,0.0,32.0,0.0
@@ -19139,6 +19435,8 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,9,00-0037263,T.Allgeier,7.8,7.8,ATL,DAL,0.0,18.0,0.0
 2024,10,00-0037263,T.Allgeier,5.9,5.9,ATL,NO,0.0,59.0,0.0
 2024,11,00-0037263,T.Allgeier,0.9,-0.1,ATL,DEN,0.0,0.0,-1.0
+2024,13,00-0037263,T.Allgeier,3.2,2.2,ATL,LAC,0.0,16.0,6.0
+2024,14,00-0037263,T.Allgeier,12.3,12.3,ATL,MIN,0.0,63.0,0.0
 2024,1,00-0037267,J.Ford,18.9,12.9,CLE,DAL,0.0,44.0,25.0
 2024,2,00-0037267,J.Ford,7.4,6.4,CLE,JAX,0.0,64.0,0.0
 2024,3,00-0037267,J.Ford,10.0,7.0,CLE,NYG,0.0,37.0,33.0
@@ -19148,6 +19446,8 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,9,00-0037267,J.Ford,1.7,0.7,CLE,LAC,0.0,5.0,2.0
 2024,11,00-0037267,J.Ford,7.9,3.9,CLE,NO,0.0,10.0,29.0
 2024,12,00-0037267,J.Ford,3.7,2.7,CLE,PIT,0.0,19.0,8.0
+2024,13,00-0037267,J.Ford,7.2,6.2,CLE,DEN,0.0,41.0,21.0
+2024,14,00-0037267,J.Ford,7.7,4.7,CLE,PIT,0.0,28.0,19.0
 2024,1,00-0037276,T.Chandler,7.2,4.2,MIN,NYG,0.0,17.0,25.0
 2024,2,00-0037276,T.Chandler,8.2,8.2,MIN,SF,0.0,82.0,0.0
 2024,3,00-0037276,T.Chandler,1.3,1.3,MIN,HOU,0.0,13.0,0.0
@@ -19155,6 +19455,7 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,5,00-0037276,T.Chandler,5.9,3.9,MIN,NYJ,0.0,30.0,9.0
 2024,7,00-0037276,T.Chandler,0.4,0.4,MIN,DET,0.0,4.0,0.0
 2024,10,00-0037276,T.Chandler,1.8,1.8,MIN,JAX,0.0,18.0,0.0
+2024,13,00-0037276,T.Chandler,0.2,0.2,MIN,ARI,0.0,2.0,0.0
 2024,11,00-0037287,V.Lowe,7.4,6.4,NE,LA,0.0,0.0,4.0
 2024,1,00-0037291,J.Nailor,9.1,8.1,MIN,NYG,0.0,0.0,21.0
 2024,2,00-0037291,J.Nailor,14.4,11.4,MIN,SF,0.0,0.0,54.0
@@ -19166,6 +19467,7 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,10,00-0037291,J.Nailor,1.4,0.4,MIN,JAX,0.0,-7.0,11.0
 2024,11,00-0037291,J.Nailor,0.0,0.0,MIN,TEN,0.0,0.0,0.0
 2024,12,00-0037291,J.Nailor,7.5,6.5,MIN,CHI,0.0,0.0,5.0
+2024,13,00-0037291,J.Nailor,2.8,1.8,MIN,ARI,0.0,0.0,18.0
 2024,2,00-0037292,A.Ogletree,2.2,1.2,IND,GB,0.0,0.0,12.0
 2024,4,00-0037292,A.Ogletree,8.5,7.5,IND,PIT,0.0,0.0,15.0
 2024,5,00-0037292,A.Ogletree,1.5,0.5,IND,JAX,0.0,0.0,5.0
@@ -19174,6 +19476,9 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,10,00-0037292,A.Ogletree,1.2,0.2,IND,BUF,0.0,0.0,2.0
 2024,11,00-0037292,A.Ogletree,1.8,0.8,IND,NYJ,0.0,0.0,8.0
 2024,12,00-0037292,A.Ogletree,0.0,0.0,IND,DET,0.0,0.0,0.0
+2024,13,00-0037292,A.Ogletree,3.2,2.2,IND,NE,0.0,0.0,22.0
+2024,13,00-0037300,M.Woods,7.3,4.3,CLE,DEN,0.0,0.0,43.0
+2024,14,00-0037300,M.Woods,2.2,1.2,CLE,PIT,0.0,0.0,12.0
 2024,3,00-0037304,C.Heyward,1.2,0.2,PIT,LAC,0.0,0.0,2.0
 2024,5,00-0037304,C.Heyward,10.3,8.3,PIT,DAL,0.0,0.0,23.0
 2024,6,00-0037304,C.Heyward,1.4,0.4,PIT,LV,0.0,0.0,4.0
@@ -19187,10 +19492,14 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,4,00-0037450,T.McAllister,1.1,1.1,LV,CLE,0.0,11.0,0.0
 2024,6,00-0037475,S.Smartt,2.0,1.0,LAC,DEN,0.0,0.0,10.0
 2024,7,00-0037475,S.Smartt,4.1,3.1,LAC,ARI,0.0,0.0,31.0
+2024,13,00-0037475,S.Smartt,1.3,0.3,LAC,ATL,0.0,0.0,3.0
+2024,14,00-0037475,S.Smartt,8.4,5.4,LAC,KC,0.0,0.0,54.0
 2024,9,00-0037487,D.Thompkins,-0.2,-0.2,CAR,NO,0.0,-2.0,0.0
 2024,12,00-0037487,D.Thompkins,4.3,1.3,CAR,KC,0.0,0.0,13.0
+2024,14,00-0037487,D.Thompkins,1.7,0.7,CAR,PHI,0.0,0.0,7.0
 2024,12,00-0037509,S.McCormick,3.3,3.3,LV,DEN,0.0,33.0,0.0
 2024,13,00-0037509,S.McCormick,8.5,6.5,LV,KC,0.0,64.0,1.0
+2024,14,00-0037509,S.McCormick,10.9,8.9,LV,TB,0.0,78.0,11.0
 2024,1,00-0037525,J.Mason,22.2,21.2,SF,NYJ,0.0,147.0,5.0
 2024,2,00-0037525,J.Mason,17.4,16.4,SF,MIN,0.0,100.0,4.0
 2024,3,00-0037525,J.Mason,10.8,8.8,SF,LA,0.0,77.0,11.0
@@ -19202,12 +19511,14 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,10,00-0037525,J.Mason,0.5,0.5,SF,TB,0.0,5.0,0.0
 2024,11,00-0037525,J.Mason,1.3,1.3,SF,SEA,0.0,13.0,0.0
 2024,12,00-0037525,J.Mason,2.3,1.3,SF,GB,0.0,8.0,5.0
+2024,13,00-0037525,J.Mason,7.8,7.8,SF,BUF,0.0,78.0,0.0
 2024,5,00-0037539,L.Krull,1.5,0.5,DEN,LV,0.0,0.0,5.0
 2024,6,00-0037539,L.Krull,3.1,1.1,DEN,LAC,0.0,0.0,11.0
 2024,7,00-0037539,L.Krull,7.1,4.1,DEN,NO,0.0,0.0,41.0
 2024,8,00-0037539,L.Krull,3.8,1.8,DEN,CAR,0.0,0.0,18.0
 2024,9,00-0037539,L.Krull,0.0,0.0,DEN,BAL,0.0,0.0,0.0
 2024,10,00-0037539,L.Krull,4.1,2.1,DEN,KC,0.0,0.0,21.0
+2024,13,00-0037539,L.Krull,5.4,2.4,DEN,CLE,0.0,0.0,24.0
 2024,1,00-0037545,R.Shaheed,16.3,13.3,NO,CAR,0.0,0.0,73.0
 2024,2,00-0037545,R.Shaheed,20.9,16.9,NO,DAL,0.0,13.0,96.0
 2024,3,00-0037545,R.Shaheed,0.0,0.0,NO,PHI,0.0,0.0,0.0
@@ -19237,6 +19548,7 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,10,00-0037614,J.Metchie,18.4,13.4,HOU,DET,0.0,0.0,74.0
 2024,11,00-0037614,J.Metchie,6.3,3.3,HOU,DAL,0.0,0.0,33.0
 2024,12,00-0037614,J.Metchie,1.6,0.6,HOU,TEN,0.0,0.0,6.0
+2024,13,00-0037614,J.Metchie,3.6,1.6,HOU,JAX,0.0,0.0,16.0
 2024,2,00-0037617,H.Haskins,1.1,1.1,LAC,CAR,0.0,11.0,0.0
 2024,6,00-0037617,H.Haskins,0.5,0.5,LAC,DEN,0.0,5.0,0.0
 2024,7,00-0037617,H.Haskins,0.2,0.2,LAC,ARI,0.0,2.0,0.0
@@ -19244,8 +19556,11 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,10,00-0037617,H.Haskins,6.4,6.4,LAC,TEN,0.0,4.0,0.0
 2024,11,00-0037617,H.Haskins,0.1,0.1,LAC,CIN,0.0,1.0,0.0
 2024,12,00-0037617,H.Haskins,0.3,0.3,LAC,BAL,0.0,3.0,0.0
+2024,13,00-0037617,H.Haskins,-2.0,-2.0,LAC,ATL,0.0,0.0,0.0
 2024,11,00-0037654,T.Fisk,1.6,0.6,LAC,CIN,0.0,0.0,6.0
 2024,12,00-0037654,T.Fisk,1.7,0.7,LAC,BAL,0.0,0.0,7.0
+2024,13,00-0037654,T.Fisk,1.1,0.1,LAC,ATL,0.0,0.0,1.0
+2024,14,00-0037654,T.Fisk,1.0,0.0,LAC,KC,0.0,0.0,0.0
 2024,1,00-0037664,A.Pierce,21.5,18.5,IND,HOU,0.0,0.0,125.0
 2024,2,00-0037664,A.Pierce,16.6,11.6,IND,GB,0.0,0.0,56.0
 2024,3,00-0037664,A.Pierce,5.4,4.4,IND,CHI,0.0,0.0,44.0
@@ -19258,6 +19573,7 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,10,00-0037664,A.Pierce,18.1,14.1,IND,BUF,0.0,0.0,81.0
 2024,11,00-0037664,A.Pierce,10.4,7.4,IND,NYJ,0.0,0.0,74.0
 2024,12,00-0037664,A.Pierce,4.9,3.9,IND,DET,0.0,0.0,39.0
+2024,13,00-0037664,A.Pierce,9.6,7.6,IND,NE,0.0,0.0,16.0
 2024,1,00-0037666,J.Tolbert,2.2,1.2,DAL,CLE,0.0,0.0,12.0
 2024,2,00-0037666,J.Tolbert,14.2,8.2,DAL,NO,0.0,0.0,82.0
 2024,3,00-0037666,J.Tolbert,13.2,10.2,DAL,BAL,0.0,0.0,42.0
@@ -19270,6 +19586,7 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,11,00-0037666,J.Tolbert,4.1,2.1,DAL,HOU,0.0,0.0,21.0
 2024,12,00-0037666,J.Tolbert,10.2,8.2,DAL,WAS,0.0,0.0,22.0
 2024,13,00-0037666,J.Tolbert,6.1,4.1,DAL,NYG,0.0,0.0,41.0
+2024,14,00-0037666,J.Tolbert,0.0,0.0,DAL,CIN,0.0,0.0,0.0
 2024,1,00-0037740,G.Wilson,12.0,6.0,NYJ,SF,0.0,0.0,60.0
 2024,2,00-0037740,G.Wilson,10.2,6.2,NYJ,TEN,0.0,5.0,57.0
 2024,3,00-0037740,G.Wilson,14.3,9.3,NYJ,NE,0.0,0.0,33.0
@@ -19281,6 +19598,8 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,9,00-0037740,G.Wilson,30.0,21.0,NYJ,HOU,0.0,0.0,90.0
 2024,10,00-0037740,G.Wilson,9.1,4.1,NYJ,ARI,0.0,0.0,41.0
 2024,11,00-0037740,G.Wilson,5.8,1.8,NYJ,IND,0.0,0.0,18.0
+2024,13,00-0037740,G.Wilson,9.1,4.1,NYJ,SEA,0.0,0.0,41.0
+2024,14,00-0037740,G.Wilson,18.4,11.4,NYJ,MIA,0.0,0.0,114.0
 2024,1,00-0037741,J.Dotson,0.0,0.0,PHI,GB,0.0,0.0,0.0
 2024,2,00-0037741,J.Dotson,1.6,0.6,PHI,ATL,0.0,0.0,6.0
 2024,3,00-0037741,J.Dotson,2.8,0.8,PHI,NO,0.0,0.0,8.0
@@ -19291,6 +19610,8 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,10,00-0037741,J.Dotson,3.7,2.7,PHI,DAL,0.0,0.0,27.0
 2024,11,00-0037741,J.Dotson,1.8,0.8,PHI,WAS,0.0,0.0,8.0
 2024,12,00-0037741,J.Dotson,1.4,0.4,PHI,LA,0.0,0.0,4.0
+2024,13,00-0037741,J.Dotson,1.7,0.7,PHI,BAL,0.0,0.0,7.0
+2024,14,00-0037741,J.Dotson,1.5,0.5,PHI,CAR,0.0,0.0,5.0
 2024,1,00-0037742,T.Burks,1.3,0.3,TEN,CHI,0.0,1.0,2.0
 2024,2,00-0037742,T.Burks,0.0,0.0,TEN,NYJ,0.0,0.0,0.0
 2024,3,00-0037742,T.Burks,1.9,0.9,TEN,GB,0.0,0.0,9.0
@@ -19306,6 +19627,8 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,9,00-0037744,T.McBride,12.7,9.7,ARI,CHI,0.0,2.0,35.0
 2024,10,00-0037744,T.McBride,11.1,7.1,ARI,NYJ,0.0,0.0,71.0
 2024,12,00-0037744,T.McBride,25.3,13.3,ARI,SEA,0.0,0.0,133.0
+2024,13,00-0037744,T.McBride,21.6,9.6,ARI,MIN,0.0,0.0,96.0
+2024,14,00-0037744,T.McBride,14.0,7.0,ARI,SEA,0.0,0.0,70.0
 2024,1,00-0037745,V.Jones,2.9,1.9,CHI,TEN,0.0,11.0,8.0
 2024,1,00-0037746,B.Robinson,17.9,14.9,WAS,TB,0.0,40.0,49.0
 2024,2,00-0037746,B.Robinson,14.6,13.6,WAS,NYG,0.0,133.0,3.0
@@ -19316,6 +19639,7 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,8,00-0037746,B.Robinson,8.6,7.6,WAS,CHI,0.0,65.0,11.0
 2024,11,00-0037746,B.Robinson,14.2,13.2,WAS,PHI,0.0,63.0,9.0
 2024,12,00-0037746,B.Robinson,3.4,2.4,WAS,DAL,0.0,13.0,11.0
+2024,13,00-0037746,B.Robinson,17.9,16.9,WAS,TEN,0.0,103.0,6.0
 2024,1,00-0037801,K.Turpin,6.0,6.0,DAL,CLE,0.0,0.0,0.0
 2024,2,00-0037801,K.Turpin,2.6,0.6,DAL,NO,0.0,2.0,4.0
 2024,3,00-0037801,K.Turpin,14.2,11.2,DAL,BAL,0.0,1.0,51.0
@@ -19326,6 +19650,7 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,11,00-0037801,K.Turpin,17.6,14.6,DAL,HOU,0.0,0.0,86.0
 2024,12,00-0037801,K.Turpin,7.8,6.8,DAL,WAS,0.0,0.0,8.0
 2024,13,00-0037801,K.Turpin,9.5,5.5,DAL,NYG,0.0,2.0,53.0
+2024,14,00-0037801,K.Turpin,4.1,3.1,DAL,CIN,0.0,15.0,16.0
 2024,2,00-0037805,J.Ruckert,0.0,0.0,NYJ,TEN,0.0,0.0,0.0
 2024,3,00-0037805,J.Ruckert,3.5,1.5,NYJ,NE,0.0,0.0,15.0
 2024,4,00-0037805,J.Ruckert,3.0,1.0,NYJ,DEN,0.0,0.0,10.0
@@ -19334,6 +19659,8 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,9,00-0037805,J.Ruckert,1.4,0.4,NYJ,HOU,0.0,0.0,4.0
 2024,10,00-0037805,J.Ruckert,3.7,1.7,NYJ,ARI,0.0,0.0,17.0
 2024,11,00-0037805,J.Ruckert,1.6,0.6,NYJ,IND,0.0,0.0,6.0
+2024,13,00-0037805,J.Ruckert,1.3,0.3,NYJ,SEA,0.0,0.0,3.0
+2024,14,00-0037805,J.Ruckert,0.0,0.0,NYJ,MIA,0.0,0.0,0.0
 2024,1,00-0037809,C.Okonkwo,9.5,7.5,TEN,CHI,0.0,0.0,15.0
 2024,2,00-0037809,C.Okonkwo,4.6,1.6,TEN,NYJ,0.0,0.0,16.0
 2024,3,00-0037809,C.Okonkwo,3.5,1.5,TEN,GB,0.0,0.0,15.0
@@ -19345,6 +19672,8 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,10,00-0037809,C.Okonkwo,2.4,1.4,TEN,LAC,0.0,0.0,14.0
 2024,11,00-0037809,C.Okonkwo,3.9,1.9,TEN,MIN,0.0,0.0,19.0
 2024,12,00-0037809,C.Okonkwo,14.0,13.0,TEN,HOU,0.0,0.0,70.0
+2024,13,00-0037809,C.Okonkwo,5.7,2.7,TEN,WAS,0.0,0.0,27.0
+2024,14,00-0037809,C.Okonkwo,3.8,0.8,TEN,JAX,0.0,0.0,8.0
 2024,1,00-0037816,R.Doubs,9.0,5.0,GB,PHI,0.0,0.0,50.0
 2024,2,00-0037816,R.Doubs,9.2,6.2,GB,IND,0.0,0.0,62.0
 2024,3,00-0037816,R.Doubs,2.8,1.8,GB,TEN,0.0,0.0,18.0
@@ -19365,6 +19694,8 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,8,00-0037834,B.Purdy,26.0,26.0,SF,DAL,260.0,56.0,0.0
 2024,10,00-0037834,B.Purdy,23.82,23.82,SF,TB,353.0,17.0,0.0
 2024,11,00-0037834,B.Purdy,18.36,18.36,SF,SEA,159.0,40.0,0.0
+2024,13,00-0037834,B.Purdy,2.16,2.16,SF,BUF,94.0,4.0,0.0
+2024,14,00-0037834,B.Purdy,22.1,22.1,SF,CHI,325.0,11.0,0.0
 2024,1,00-0037837,C.Austin,1.7,0.7,PIT,ATL,0.0,0.0,7.0
 2024,2,00-0037837,C.Austin,1.6,0.6,PIT,DEN,0.0,0.0,6.0
 2024,3,00-0037837,C.Austin,19.5,15.5,PIT,LAC,0.0,0.0,95.0
@@ -19376,6 +19707,8 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,10,00-0037837,C.Austin,4.0,2.0,PIT,WAS,0.0,0.0,20.0
 2024,11,00-0037837,C.Austin,0.9,-0.1,PIT,BAL,0.0,0.0,-1.0
 2024,12,00-0037837,C.Austin,16.8,13.8,PIT,CLE,0.0,0.0,78.0
+2024,13,00-0037837,C.Austin,10.9,8.9,PIT,CIN,0.0,0.0,29.0
+2024,14,00-0037837,C.Austin,1.4,0.4,PIT,CLE,0.0,0.0,4.0
 2024,1,00-0037838,I.Likely,26.1,17.1,BAL,KC,0.0,0.0,111.0
 2024,2,00-0037838,I.Likely,4.6,2.6,BAL,LV,0.0,0.0,26.0
 2024,3,00-0037838,I.Likely,1.4,0.4,BAL,DAL,0.0,0.0,4.0
@@ -19386,6 +19719,7 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,8,00-0037838,I.Likely,8.7,4.7,BAL,CLE,0.0,0.0,47.0
 2024,9,00-0037838,I.Likely,0.0,0.0,BAL,DEN,0.0,0.0,0.0
 2024,11,00-0037838,I.Likely,9.5,5.5,BAL,PIT,0.0,0.0,75.0
+2024,13,00-0037838,I.Likely,14.8,9.8,BAL,PHI,0.0,0.0,38.0
 2024,1,00-0037840,K.Williams,14.4,11.4,LA,DET,0.0,50.0,4.0
 2024,2,00-0037840,K.Williams,15.2,11.2,LA,ARI,0.0,25.0,27.0
 2024,3,00-0037840,K.Williams,31.6,29.6,LA,SF,0.0,89.0,27.0
@@ -19397,6 +19731,8 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,10,00-0037840,K.Williams,11.2,6.2,LA,MIA,0.0,62.0,20.0
 2024,11,00-0037840,K.Williams,8.6,8.6,LA,NE,0.0,86.0,0.0
 2024,12,00-0037840,K.Williams,11.2,11.2,LA,PHI,0.0,72.0,0.0
+2024,13,00-0037840,K.Williams,18.3,17.3,LA,NO,0.0,104.0,9.0
+2024,14,00-0037840,K.Williams,23.7,21.7,LA,BUF,0.0,87.0,10.0
 2024,1,00-0038040,Z.White,4.6,2.6,LV,LAC,0.0,44.0,2.0
 2024,2,00-0038040,Z.White,6.8,3.8,LV,BAL,0.0,24.0,14.0
 2024,3,00-0038040,Z.White,3.4,3.4,LV,CAR,0.0,34.0,0.0
@@ -19414,6 +19750,7 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,9,00-0038041,J.Ferguson,14.1,7.1,DAL,ATL,0.0,0.0,71.0
 2024,10,00-0038041,J.Ferguson,4.4,0.4,DAL,PHI,0.0,0.0,24.0
 2024,11,00-0038041,J.Ferguson,2.1,1.1,DAL,HOU,0.0,0.0,11.0
+2024,14,00-0038041,J.Ferguson,6.2,3.2,DAL,CIN,0.0,0.0,32.0
 2024,2,00-0038046,C.Kolar,1.4,0.4,BAL,LV,0.0,0.0,4.0
 2024,3,00-0038046,C.Kolar,4.0,3.0,BAL,DAL,0.0,0.0,30.0
 2024,5,00-0038046,C.Kolar,15.6,12.6,BAL,CIN,0.0,2.0,64.0
@@ -19432,6 +19769,7 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,8,00-0038098,P.Strong,1.3,0.3,CLE,BAL,0.0,0.0,3.0
 2024,9,00-0038098,P.Strong,0.8,0.8,CLE,LAC,0.0,8.0,0.0
 2024,11,00-0038098,P.Strong,0.5,0.5,CLE,NO,0.0,5.0,0.0
+2024,14,00-0038098,P.Strong,2.9,0.9,CLE,PIT,0.0,0.0,9.0
 2024,7,00-0038102,K.Pickett,0.0,0.0,PHI,NYG,0.0,0.0,0.0
 2024,10,00-0038102,K.Pickett,0.3,0.3,PHI,DAL,5.0,1.0,0.0
 2024,12,00-0038102,K.Pickett,-0.2,-0.2,PHI,LA,0.0,-2.0,0.0
@@ -19442,6 +19780,7 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,1,00-0038115,D.Bellinger,1.3,0.3,NYG,MIN,0.0,0.0,3.0
 2024,3,00-0038115,D.Bellinger,2.7,1.7,NYG,CLE,0.0,0.0,17.0
 2024,7,00-0038115,D.Bellinger,2.1,1.1,NYG,PHI,0.0,0.0,11.0
+2024,14,00-0038115,D.Bellinger,9.5,4.5,NYG,NO,0.0,0.0,45.0
 2024,1,00-0038117,W.Robinson,11.8,5.8,NYG,MIN,0.0,14.0,44.0
 2024,2,00-0038117,W.Robinson,9.8,7.8,NYG,WAS,0.0,0.0,18.0
 2024,3,00-0038117,W.Robinson,13.1,6.1,NYG,CLE,0.0,0.0,61.0
@@ -19454,6 +19793,7 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,10,00-0038117,W.Robinson,10.1,5.1,NYG,CAR,0.0,0.0,51.0
 2024,12,00-0038117,W.Robinson,9.7,4.7,NYG,TB,0.0,0.0,47.0
 2024,13,00-0038117,W.Robinson,2.6,0.6,NYG,DAL,0.0,0.0,6.0
+2024,14,00-0038117,W.Robinson,7.8,3.8,NYG,NO,0.0,0.0,38.0
 2024,1,00-0038120,B.Hall,18.3,13.3,NYJ,SF,0.0,54.0,39.0
 2024,2,00-0038120,B.Hall,24.4,17.4,NYJ,TEN,0.0,62.0,52.0
 2024,3,00-0038120,B.Hall,18.3,14.3,NYJ,NE,0.0,54.0,29.0
@@ -19465,8 +19805,10 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,9,00-0038120,B.Hall,10.5,8.5,NYJ,HOU,0.0,74.0,11.0
 2024,10,00-0038120,B.Hall,12.3,8.3,NYJ,ARI,0.0,52.0,31.0
 2024,11,00-0038120,B.Hall,31.1,24.1,NYJ,IND,0.0,78.0,43.0
+2024,13,00-0038120,B.Hall,6.0,6.0,NYJ,SEA,0.0,60.0,0.0
 2024,9,00-0038122,D.Ridder,5.16,5.16,LV,CIN,74.0,2.0,0.0
 2024,12,00-0038122,D.Ridder,0.86,0.86,LV,DEN,64.0,3.0,0.0
+2024,14,00-0038122,D.Ridder,4.34,4.34,LV,TB,101.0,3.0,0.0
 2024,1,00-0038124,C.Watson,10.3,7.3,GB,PHI,0.0,0.0,13.0
 2024,3,00-0038124,C.Watson,8.7,6.7,GB,TEN,0.0,0.0,67.0
 2024,4,00-0038124,C.Watson,0.0,0.0,GB,MIN,0.0,0.0,0.0
@@ -19477,6 +19819,7 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,11,00-0038124,C.Watson,19.0,15.0,GB,CHI,0.0,0.0,150.0
 2024,12,00-0038124,C.Watson,0.4,0.4,GB,SF,0.0,4.0,0.0
 2024,13,00-0038124,C.Watson,8.7,6.7,GB,MIA,0.0,0.0,67.0
+2024,14,00-0038124,C.Watson,13.4,9.4,GB,DET,0.0,0.0,114.0
 2024,1,00-0038128,M.Willis,0.0,0.0,GB,PHI,0.0,0.0,0.0
 2024,2,00-0038128,M.Willis,12.98,12.98,GB,IND,122.0,41.0,0.0
 2024,3,00-0038128,M.Willis,25.38,25.38,GB,TEN,202.0,73.0,0.0
@@ -19492,6 +19835,8 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,9,00-0038129,C.Otton,21.7,13.7,TB,KC,0.0,0.0,77.0
 2024,10,00-0038129,C.Otton,8.5,3.5,TB,SF,0.0,0.0,35.0
 2024,12,00-0038129,C.Otton,4.0,3.0,TB,NYG,0.0,0.0,30.0
+2024,13,00-0038129,C.Otton,6.0,2.0,TB,CAR,0.0,0.0,20.0
+2024,14,00-0038129,C.Otton,10.0,7.0,TB,LV,0.0,0.0,70.0
 2024,1,00-0038134,K.Walker,18.9,16.9,SEA,DEN,0.0,103.0,6.0
 2024,4,00-0038134,K.Walker,33.6,29.6,SEA,DET,0.0,80.0,36.0
 2024,5,00-0038134,K.Walker,14.6,7.6,SEA,NYG,0.0,19.0,57.0
@@ -19501,6 +19846,7 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,9,00-0038134,K.Walker,13.7,10.7,SEA,LA,0.0,83.0,24.0
 2024,11,00-0038134,K.Walker,13.9,11.9,SEA,SF,0.0,54.0,5.0
 2024,12,00-0038134,K.Walker,13.3,9.3,SEA,ARI,0.0,41.0,52.0
+2024,13,00-0038134,K.Walker,6.6,4.6,SEA,NYJ,0.0,49.0,-3.0
 2024,5,00-0038359,X.Smith,2.6,0.6,LA,GB,0.0,0.0,6.0
 2024,7,00-0038359,X.Smith,3.0,3.0,LA,LV,0.0,30.0,0.0
 2024,1,00-0038393,D.Wicks,0.0,0.0,GB,PHI,0.0,0.0,0.0
@@ -19515,11 +19861,13 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,11,00-0038393,D.Wicks,0.0,0.0,GB,CHI,0.0,0.0,0.0
 2024,12,00-0038393,D.Wicks,3.5,2.5,GB,SF,0.0,0.0,25.0
 2024,13,00-0038393,D.Wicks,7.0,3.0,GB,MIA,0.0,0.0,30.0
+2024,14,00-0038393,D.Wicks,8.9,4.9,GB,DET,0.0,0.0,49.0
 2024,5,00-0038394,W.Mallory,1.7,0.7,IND,JAX,0.0,0.0,7.0
 2024,6,00-0038394,W.Mallory,0.0,0.0,IND,TEN,0.0,0.0,0.0
 2024,7,00-0038394,W.Mallory,1.5,0.5,IND,MIA,0.0,0.0,5.0
 2024,8,00-0038394,W.Mallory,0.0,0.0,IND,HOU,0.0,0.0,0.0
 2024,10,00-0038394,W.Mallory,2.0,1.0,IND,BUF,0.0,0.0,10.0
+2024,13,00-0038394,W.Mallory,1.7,0.7,IND,NE,0.0,0.0,7.0
 2024,1,00-0038396,E.Gray,2.5,1.5,NYG,MIN,0.0,6.0,9.0
 2024,3,00-0038396,E.Gray,0.0,0.0,NYG,CLE,0.0,0.0,0.0
 2024,4,00-0038396,E.Gray,0.1,0.1,NYG,DAL,0.0,1.0,0.0
@@ -19530,6 +19878,7 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,12,00-0038396,E.Gray,2.6,0.6,NYG,TB,0.0,-1.0,7.0
 2024,5,00-0038416,T.Bagent,-0.4,-0.4,CHI,CAR,0.0,-4.0,0.0
 2024,6,00-0038416,T.Bagent,-0.3,-0.3,CHI,JAX,0.0,-3.0,0.0
+2024,14,00-0038416,T.Bagent,0.24,0.24,CHI,SF,6.0,0.0,0.0
 2024,4,00-0038465,M.Heath,3.2,1.2,GB,MIN,0.0,0.0,12.0
 2024,5,00-0038465,M.Heath,3.4,1.4,GB,LA,0.0,0.0,14.0
 2024,12,00-0038465,M.Heath,9.5,7.5,GB,SF,0.0,0.0,15.0
@@ -19541,6 +19890,7 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,8,00-0038496,X.Gipson,7.1,6.1,NYJ,NE,0.0,0.0,1.0
 2024,10,00-0038496,X.Gipson,0.0,0.0,NYJ,ARI,0.0,0.0,0.0
 2024,11,00-0038496,X.Gipson,2.7,1.7,NYJ,IND,0.0,0.0,17.0
+2024,13,00-0038496,X.Gipson,0.9,-0.1,NYJ,SEA,0.0,0.0,-1.0
 2024,2,00-0038507,G.DuBose,2.3,1.3,MIA,BUF,0.0,0.0,13.0
 2024,1,00-0038542,B.Robinson,16.1,11.1,ATL,PIT,0.0,68.0,43.0
 2024,2,00-0038542,B.Robinson,16.2,12.2,ATL,PHI,0.0,97.0,25.0
@@ -19553,6 +19903,8 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,9,00-0038542,B.Robinson,21.5,14.5,ATL,DAL,0.0,86.0,59.0
 2024,10,00-0038542,B.Robinson,29.4,26.4,ATL,NO,0.0,116.0,28.0
 2024,11,00-0038542,B.Robinson,10.3,6.3,ATL,DEN,0.0,35.0,28.0
+2024,13,00-0038542,B.Robinson,25.5,19.5,ATL,LAC,0.0,102.0,33.0
+2024,14,00-0038542,B.Robinson,20.1,18.1,ATL,MIN,0.0,92.0,9.0
 2024,1,00-0038543,J.Smith-Njigba,3.9,1.9,SEA,DEN,0.0,0.0,19.0
 2024,2,00-0038543,J.Smith-Njigba,23.7,11.7,SEA,NE,0.0,0.0,117.0
 2024,3,00-0038543,J.Smith-Njigba,6.9,3.9,SEA,MIA,0.0,0.0,39.0
@@ -19564,6 +19916,8 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,9,00-0038543,J.Smith-Njigba,37.0,30.0,SEA,LA,0.0,0.0,180.0
 2024,11,00-0038543,J.Smith-Njigba,21.8,11.8,SEA,SF,0.0,8.0,110.0
 2024,12,00-0038543,J.Smith-Njigba,19.7,13.7,SEA,ARI,0.0,0.0,77.0
+2024,13,00-0038543,J.Smith-Njigba,11.9,7.9,SEA,NYJ,0.0,5.0,74.0
+2024,14,00-0038543,J.Smith-Njigba,19.6,14.6,SEA,ARI,0.0,4.0,82.0
 2024,1,00-0038544,Q.Johnston,6.8,3.8,LAC,LV,0.0,0.0,38.0
 2024,2,00-0038544,Q.Johnston,22.1,17.1,LAC,CAR,0.0,0.0,51.0
 2024,3,00-0038544,Q.Johnston,12.4,10.4,LAC,PIT,0.0,0.0,44.0
@@ -19573,6 +19927,8 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,10,00-0038544,Q.Johnston,10.4,8.4,LAC,TEN,0.0,0.0,24.0
 2024,11,00-0038544,Q.Johnston,12.8,10.8,LAC,CIN,0.0,0.0,48.0
 2024,12,00-0038544,Q.Johnston,0.0,0.0,LAC,BAL,0.0,0.0,0.0
+2024,13,00-0038544,Q.Johnston,3.2,1.2,LAC,ATL,0.0,0.0,12.0
+2024,14,00-0038544,Q.Johnston,15.8,10.8,LAC,KC,0.0,0.0,48.0
 2024,2,00-0038547,L.Schoonmaker,10.3,4.3,DAL,NO,0.0,0.0,43.0
 2024,3,00-0038547,L.Schoonmaker,1.5,0.5,DAL,BAL,0.0,0.0,5.0
 2024,5,00-0038547,L.Schoonmaker,1.8,0.8,DAL,PIT,0.0,0.0,8.0
@@ -19580,11 +19936,13 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,11,00-0038547,L.Schoonmaker,11.6,5.6,DAL,HOU,0.0,0.0,56.0
 2024,12,00-0038547,L.Schoonmaker,14.5,11.5,DAL,WAS,0.0,0.0,55.0
 2024,13,00-0038547,L.Schoonmaker,8.3,3.3,DAL,NYG,0.0,0.0,33.0
+2024,14,00-0038547,L.Schoonmaker,4.2,2.2,DAL,CIN,0.0,0.0,22.0
 2024,6,00-0038550,H.Hooker,0.66,0.66,DET,DAL,19.0,-1.0,0.0
 2024,8,00-0038550,H.Hooker,0.24,0.24,DET,TEN,6.0,0.0,0.0
 2024,11,00-0038550,H.Hooker,1.78,1.78,DET,JAX,37.0,3.0,0.0
 2024,7,00-0038551,K.Miller,5.7,3.7,NO,DEN,0.0,36.0,1.0
 2024,8,00-0038551,K.Miller,1.6,1.6,NO,LAC,0.0,16.0,0.0
+2024,14,00-0038551,K.Miller,9.2,9.2,NO,NYG,0.0,32.0,0.0
 2024,1,00-0038555,T.Bigsby,7.3,7.3,JAX,MIA,0.0,73.0,0.0
 2024,3,00-0038555,T.Bigsby,0.9,0.9,JAX,BUF,0.0,9.0,0.0
 2024,4,00-0038555,T.Bigsby,9.0,9.0,JAX,HOU,0.0,90.0,0.0
@@ -19594,6 +19952,8 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,8,00-0038555,T.Bigsby,10.6,8.6,JAX,GB,0.0,78.0,8.0
 2024,9,00-0038555,T.Bigsby,2.2,2.2,JAX,PHI,0.0,22.0,0.0
 2024,10,00-0038555,T.Bigsby,0.4,0.4,JAX,MIN,0.0,4.0,0.0
+2024,13,00-0038555,T.Bigsby,4.5,3.5,JAX,HOU,0.0,28.0,7.0
+2024,14,00-0038555,T.Bigsby,13.2,12.2,JAX,TEN,0.0,55.0,7.0
 2024,1,00-0038558,D.Washington,1.5,0.5,PIT,ATL,0.0,0.0,5.0
 2024,2,00-0038558,D.Washington,7.5,6.5,PIT,DEN,0.0,0.0,5.0
 2024,4,00-0038558,D.Washington,5.1,3.1,PIT,IND,0.0,0.0,31.0
@@ -19604,6 +19964,8 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,10,00-0038558,D.Washington,1.6,0.6,PIT,WAS,0.0,0.0,6.0
 2024,11,00-0038558,D.Washington,6.2,4.2,PIT,BAL,0.0,0.0,42.0
 2024,12,00-0038558,D.Washington,4.4,1.4,PIT,CLE,0.0,0.0,14.0
+2024,13,00-0038558,D.Washington,2.0,1.0,PIT,CIN,0.0,0.0,10.0
+2024,14,00-0038558,D.Washington,0.0,0.0,PIT,CLE,0.0,0.0,0.0
 2024,1,00-0038559,M.Wilson,7.5,6.5,ARI,BUF,0.0,0.0,5.0
 2024,2,00-0038559,M.Wilson,5.1,3.1,ARI,LA,0.0,0.0,31.0
 2024,3,00-0038559,M.Wilson,14.4,6.4,ARI,DET,0.0,0.0,64.0
@@ -19615,6 +19977,8 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,9,00-0038559,M.Wilson,0.0,0.0,ARI,CHI,0.0,0.0,0.0
 2024,10,00-0038559,M.Wilson,5.4,2.4,ARI,NYJ,0.0,0.0,24.0
 2024,12,00-0038559,M.Wilson,7.4,5.4,ARI,SEA,0.0,0.0,54.0
+2024,13,00-0038559,M.Wilson,10.5,5.5,ARI,MIN,0.0,0.0,55.0
+2024,14,00-0038559,M.Wilson,13.7,11.7,ARI,SEA,0.0,0.0,57.0
 2024,1,00-0038563,T.Tucker,4.2,2.2,LV,LAC,0.0,0.0,22.0
 2024,2,00-0038563,T.Tucker,3.3,1.3,LV,BAL,0.0,0.0,13.0
 2024,3,00-0038563,T.Tucker,22.6,15.6,LV,CAR,0.0,0.0,96.0
@@ -19627,12 +19991,15 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,11,00-0038563,T.Tucker,6.5,3.5,LV,MIA,0.0,7.0,28.0
 2024,12,00-0038563,T.Tucker,15.2,8.2,LV,DEN,0.0,0.0,82.0
 2024,13,00-0038563,T.Tucker,13.9,12.9,LV,KC,0.0,11.0,58.0
+2024,14,00-0038563,T.Tucker,2.7,0.7,LV,TB,0.0,0.0,7.0
 2024,1,00-0038573,D.Davis,0.9,0.9,LAC,LV,0.0,9.0,0.0
 2024,3,00-0038573,D.Davis,0.8,0.8,LAC,PIT,0.0,8.0,0.0
 2024,6,00-0038573,D.Davis,3.2,2.2,LAC,DEN,0.0,14.0,8.0
 2024,10,00-0038573,D.Davis,3.3,2.3,LAC,TEN,0.0,6.0,17.0
 2024,11,00-0038573,D.Davis,3.0,2.0,LAC,CIN,0.0,6.0,14.0
 2024,12,00-0038573,D.Davis,2.4,0.4,LAC,BAL,0.0,0.0,4.0
+2024,13,00-0038573,D.Davis,1.6,0.6,LAC,ATL,0.0,3.0,3.0
+2024,14,00-0038573,D.Davis,2.1,0.1,LAC,KC,0.0,0.0,1.0
 2024,1,00-0038576,C.Jones,1.5,0.5,CIN,NE,0.0,0.0,5.0
 2024,7,00-0038576,C.Jones,6.0,6.0,CIN,CLE,0.0,0.0,0.0
 2024,3,00-0038579,A.O'Connell,7.28,7.28,LV,CAR,82.0,0.0,0.0
@@ -19640,6 +20007,7 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,6,00-0038579,A.O'Connell,11.08,11.08,LV,PIT,227.0,0.0,0.0
 2024,7,00-0038579,A.O'Connell,2.08,2.08,LV,LA,52.0,0.0,0.0
 2024,13,00-0038579,A.O'Connell,19.6,19.6,LV,KC,340.0,0.0,0.0
+2024,14,00-0038579,A.O'Connell,6.76,6.76,LV,TB,104.0,6.0,0.0
 2024,2,00-0038582,C.Tune,-2.6,-2.6,ARI,LA,0.0,-6.0,0.0
 2024,7,00-0038582,C.Tune,0.2,0.2,ARI,LAC,0.0,2.0,0.0
 2024,10,00-0038582,C.Tune,-0.1,-0.1,ARI,NYJ,0.0,-1.0,0.0
@@ -19654,6 +20022,8 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,9,00-0038589,J.Whyle,2.2,1.2,TEN,NE,0.0,0.0,12.0
 2024,10,00-0038589,J.Whyle,0.0,0.0,TEN,LAC,0.0,0.0,0.0
 2024,11,00-0038589,J.Whyle,1.6,0.6,TEN,MIN,0.0,0.0,6.0
+2024,13,00-0038589,J.Whyle,1.3,0.3,TEN,WAS,0.0,0.0,3.0
+2024,14,00-0038589,J.Whyle,5.1,3.1,TEN,JAX,0.0,0.0,31.0
 2024,1,00-0038597,C.Brown,5.3,2.3,CIN,NE,0.0,11.0,12.0
 2024,2,00-0038597,C.Brown,3.1,3.1,CIN,KC,0.0,31.0,0.0
 2024,3,00-0038597,C.Brown,8.9,6.9,CIN,WAS,0.0,62.0,7.0
@@ -19665,6 +20035,8 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,9,00-0038597,C.Brown,26.7,21.7,CIN,LV,0.0,120.0,37.0
 2024,10,00-0038597,C.Brown,22.4,13.4,CIN,BAL,0.0,42.0,52.0
 2024,11,00-0038597,C.Brown,19.3,14.3,CIN,LAC,0.0,86.0,57.0
+2024,13,00-0038597,C.Brown,19.0,16.0,CIN,PIT,0.0,70.0,30.0
+2024,14,00-0038597,C.Brown,24.3,18.3,CIN,DAL,0.0,58.0,65.0
 2024,1,00-0038606,P.Washington,1.3,0.3,JAX,MIA,0.0,0.0,3.0
 2024,2,00-0038606,P.Washington,0.0,0.0,JAX,CLE,0.0,0.0,0.0
 2024,3,00-0038606,P.Washington,3.8,1.8,JAX,BUF,0.0,0.0,18.0
@@ -19672,6 +20044,8 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,8,00-0038606,P.Washington,7.6,4.6,JAX,GB,0.0,0.0,46.0
 2024,9,00-0038606,P.Washington,7.1,4.1,JAX,PHI,0.0,0.0,41.0
 2024,11,00-0038606,P.Washington,2.0,1.0,JAX,DET,0.0,0.0,10.0
+2024,13,00-0038606,P.Washington,24.3,18.3,JAX,HOU,0.0,0.0,103.0
+2024,14,00-0038606,P.Washington,3.5,1.5,JAX,TEN,0.0,0.0,15.0
 2024,3,00-0038608,K.Boutte,1.2,0.2,NE,NYJ,0.0,0.0,2.0
 2024,4,00-0038608,K.Boutte,2.1,1.1,NE,SF,0.0,0.0,11.0
 2024,5,00-0038608,K.Boutte,5.4,3.4,NE,MIA,0.0,0.0,34.0
@@ -19682,11 +20056,14 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,10,00-0038608,K.Boutte,8.7,4.7,NE,CHI,0.0,0.0,47.0
 2024,11,00-0038608,K.Boutte,7.3,3.3,NE,LA,0.0,0.0,33.0
 2024,12,00-0038608,K.Boutte,1.6,0.6,NE,MIA,0.0,0.0,6.0
+2024,13,00-0038608,K.Boutte,9.1,6.1,NE,IND,0.0,0.0,41.0
 2024,9,00-0038611,C.Rodriguez,5.2,5.2,WAS,NYG,0.0,52.0,0.0
 2024,10,00-0038611,C.Rodriguez,0.4,0.4,WAS,PIT,0.0,4.0,0.0
+2024,13,00-0038611,C.Rodriguez,15.4,15.4,WAS,TEN,0.0,94.0,0.0
 2024,1,00-0038614,S.Matlock,0.0,0.0,LAC,LV,0.0,0.0,0.0
 2024,4,00-0038614,S.Matlock,1.7,0.7,LAC,KC,0.0,0.0,7.0
 2024,8,00-0038614,S.Matlock,1.9,0.9,LAC,NO,0.0,0.0,9.0
+2024,13,00-0038614,S.Matlock,1.2,0.2,LAC,ATL,0.0,0.0,2.0
 2024,1,00-0038618,X.Hutchinson,1.3,0.3,HOU,IND,0.0,0.0,3.0
 2024,2,00-0038618,X.Hutchinson,0.0,0.0,HOU,CHI,0.0,0.0,0.0
 2024,3,00-0038618,X.Hutchinson,0.0,0.0,HOU,MIN,0.0,0.0,0.0
@@ -19708,6 +20085,8 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,9,00-0038619,A.Iosivas,8.0,7.0,CIN,LV,0.0,0.0,10.0
 2024,10,00-0038619,A.Iosivas,4.9,2.9,CIN,BAL,0.0,0.0,29.0
 2024,11,00-0038619,A.Iosivas,7.6,4.6,CIN,LAC,0.0,0.0,46.0
+2024,13,00-0038619,A.Iosivas,12.5,9.5,CIN,PIT,0.0,0.0,35.0
+2024,14,00-0038619,A.Iosivas,8.1,4.1,CIN,DAL,0.0,0.0,41.0
 2024,1,00-0038621,D.Douglas,3.2,1.2,NE,CIN,0.0,0.0,12.0
 2024,3,00-0038621,D.Douglas,14.8,7.8,NE,NYJ,0.0,9.0,69.0
 2024,4,00-0038621,D.Douglas,4.3,1.3,NE,SF,0.0,0.0,13.0
@@ -19719,12 +20098,14 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,10,00-0038621,D.Douglas,9.0,5.0,NE,CHI,0.0,0.0,50.0
 2024,11,00-0038621,D.Douglas,9.9,5.9,NE,LA,0.0,0.0,59.0
 2024,12,00-0038621,D.Douglas,11.3,6.3,NE,MIA,0.0,1.0,62.0
+2024,13,00-0038621,D.Douglas,6.0,2.0,NE,IND,0.0,0.0,20.0
 2024,1,00-0038622,D.Vaughn,0.4,0.4,DAL,CLE,0.0,4.0,0.0
 2024,2,00-0038622,D.Vaughn,2.7,1.7,DAL,NO,0.0,11.0,6.0
 2024,3,00-0038622,D.Vaughn,2.3,1.3,DAL,BAL,0.0,5.0,8.0
 2024,11,00-0038622,D.Vaughn,2.7,1.7,DAL,HOU,0.0,13.0,4.0
 2024,3,00-0038636,K.McIntosh,1.1,1.1,SEA,MIA,0.0,11.0,0.0
 2024,7,00-0038636,K.McIntosh,0.5,0.5,SEA,ATL,0.0,5.0,0.0
+2024,14,00-0038636,K.McIntosh,6.5,4.5,SEA,ARI,0.0,38.0,7.0
 2024,1,00-0038640,J.Brooks,2.8,1.8,DAL,CLE,0.0,0.0,18.0
 2024,2,00-0038640,J.Brooks,2.0,1.0,DAL,NO,0.0,0.0,10.0
 2024,3,00-0038640,J.Brooks,3.4,2.4,DAL,BAL,0.0,0.0,24.0
@@ -19750,6 +20131,7 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,11,00-0038685,C.Brooks,3.3,1.3,GB,CHI,0.0,0.0,13.0
 2024,12,00-0038685,C.Brooks,3.6,2.6,GB,SF,0.0,11.0,15.0
 2024,13,00-0038685,C.Brooks,4.9,2.9,GB,MIA,0.0,28.0,1.0
+2024,14,00-0038685,C.Brooks,0.3,0.3,GB,DET,0.0,3.0,0.0
 2024,1,00-0038705,E.Demercado,4.6,2.6,ARI,BUF,0.0,0.0,26.0
 2024,2,00-0038705,E.Demercado,4.6,4.6,ARI,LA,0.0,46.0,0.0
 2024,3,00-0038705,E.Demercado,0.7,0.7,ARI,DET,0.0,7.0,0.0
@@ -19761,8 +20143,12 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,9,00-0038705,E.Demercado,16.0,14.0,ARI,CHI,0.0,59.0,21.0
 2024,10,00-0038705,E.Demercado,2.2,2.2,ARI,NYJ,0.0,22.0,0.0
 2024,12,00-0038705,E.Demercado,1.4,1.4,ARI,SEA,0.0,14.0,0.0
+2024,13,00-0038705,E.Demercado,2.5,1.5,ARI,MIN,0.0,12.0,3.0
+2024,14,00-0038705,E.Demercado,5.5,1.5,ARI,SEA,0.0,0.0,15.0
 2024,4,00-0038710,B.Whiteheart,10.3,7.3,CLE,LV,0.0,0.0,13.0
 2024,12,00-0038710,B.Whiteheart,3.9,2.9,CLE,PIT,0.0,0.0,29.0
+2024,13,00-0038710,B.Whiteheart,0.0,0.0,CLE,DEN,0.0,0.0,0.0
+2024,14,00-0038710,B.Whiteheart,0.0,0.0,CLE,PIT,0.0,0.0,0.0
 2024,1,00-0038720,J.Hill,1.6,0.6,MIA,JAX,0.0,0.0,6.0
 2024,2,00-0038720,J.Hill,0.0,0.0,MIA,BUF,0.0,0.0,0.0
 2024,3,00-0038720,J.Hill,4.4,2.4,MIA,SEA,0.0,0.0,24.0
@@ -19772,6 +20158,7 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,11,00-0038720,J.Hill,4.8,2.8,MIA,LV,0.0,0.0,28.0
 2024,12,00-0038720,J.Hill,1.8,0.8,MIA,NE,0.0,0.0,8.0
 2024,13,00-0038720,J.Hill,1.5,0.5,MIA,GB,0.0,0.0,5.0
+2024,14,00-0038720,J.Hill,2.4,1.4,MIA,NYJ,0.0,0.0,14.0
 2024,1,00-0038738,H.Luepke,3.8,1.8,DAL,CLE,0.0,0.0,18.0
 2024,3,00-0038738,H.Luepke,6.1,4.1,DAL,BAL,0.0,0.0,41.0
 2024,4,00-0038738,H.Luepke,4.2,2.2,DAL,NYG,0.0,8.0,14.0
@@ -19781,6 +20168,7 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,10,00-0038738,H.Luepke,0.0,0.0,DAL,PHI,0.0,0.0,0.0
 2024,12,00-0038738,H.Luepke,2.0,1.0,DAL,WAS,0.0,0.0,10.0
 2024,13,00-0038738,H.Luepke,0.4,0.4,DAL,NYG,0.0,4.0,0.0
+2024,14,00-0038738,H.Luepke,1.5,0.5,DAL,CIN,0.0,0.0,5.0
 2024,2,00-0038752,J.Bobo,3.5,1.5,SEA,NE,0.0,0.0,15.0
 2024,4,00-0038752,J.Bobo,6.0,3.0,SEA,DET,0.0,0.0,30.0
 2024,5,00-0038752,J.Bobo,1.3,0.3,SEA,NYG,0.0,0.0,3.0
@@ -19796,6 +20184,7 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,6,00-0038783,N.Adkins,1.5,0.5,DEN,LAC,0.0,0.0,5.0
 2024,8,00-0038783,N.Adkins,7.3,6.3,DEN,CAR,0.0,0.0,3.0
 2024,11,00-0038783,N.Adkins,8.2,7.2,DEN,ATL,0.0,0.0,12.0
+2024,13,00-0038783,N.Adkins,2.6,1.6,DEN,CLE,0.0,0.0,16.0
 2024,1,00-0038794,J.McLaughlin,5.8,0.8,DEN,SEA,0.0,27.0,1.0
 2024,2,00-0038794,J.McLaughlin,0.6,0.6,DEN,PIT,0.0,6.0,0.0
 2024,3,00-0038794,J.McLaughlin,8.4,7.4,DEN,TB,0.0,7.0,7.0
@@ -19808,6 +20197,7 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,10,00-0038794,J.McLaughlin,1.2,1.2,DEN,KC,0.0,12.0,0.0
 2024,11,00-0038794,J.McLaughlin,1.9,1.9,DEN,ATL,0.0,19.0,0.0
 2024,12,00-0038794,J.McLaughlin,4.4,4.4,DEN,LV,0.0,44.0,0.0
+2024,13,00-0038794,J.McLaughlin,9.4,8.4,DEN,CLE,0.0,84.0,0.0
 2024,1,00-0038797,E.Wilson,6.8,4.8,GB,PHI,0.0,46.0,2.0
 2024,2,00-0038797,E.Wilson,0.9,0.9,GB,IND,0.0,9.0,0.0
 2024,3,00-0038797,E.Wilson,16.5,14.5,GB,TEN,0.0,50.0,35.0
@@ -19820,9 +20210,11 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,11,00-0038797,E.Wilson,1.7,1.7,GB,CHI,0.0,17.0,0.0
 2024,12,00-0038797,E.Wilson,4.1,4.1,GB,SF,0.0,41.0,0.0
 2024,13,00-0038797,E.Wilson,2.0,2.0,GB,MIA,0.0,20.0,0.0
+2024,14,00-0038797,E.Wilson,0.7,0.7,GB,DET,0.0,7.0,0.0
 2024,6,00-0038809,B.Sims,5.8,3.8,GB,ARI,0.0,0.0,38.0
 2024,7,00-0038809,B.Sims,1.2,0.2,GB,HOU,0.0,0.0,2.0
 2024,8,00-0038809,B.Sims,0.0,0.0,GB,JAX,0.0,0.0,0.0
+2024,14,00-0038809,B.Sims,1.2,0.2,GB,DET,0.0,0.0,2.0
 2024,8,00-0038821,R.Jarrett,8.8,5.8,TB,ATL,0.0,0.0,58.0
 2024,9,00-0038821,R.Jarrett,1.9,0.9,TB,KC,0.0,0.0,9.0
 2024,10,00-0038821,R.Jarrett,3.0,1.0,TB,SF,0.0,0.0,10.0
@@ -19852,6 +20244,8 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,8,00-0038935,B.Strange,10.9,5.9,JAX,GB,0.0,0.0,59.0
 2024,10,00-0038935,B.Strange,4.5,2.5,JAX,MIN,0.0,0.0,25.0
 2024,11,00-0038935,B.Strange,1.6,0.6,JAX,DET,0.0,0.0,6.0
+2024,13,00-0038935,B.Strange,2.4,1.4,JAX,HOU,0.0,0.0,14.0
+2024,14,00-0038935,B.Strange,3.1,2.1,JAX,TEN,0.0,0.0,21.0
 2024,1,00-0038938,J.Hyatt,0.0,0.0,NYG,MIN,0.0,0.0,0.0
 2024,3,00-0038938,J.Hyatt,0.0,0.0,NYG,CLE,0.0,0.0,0.0
 2024,4,00-0038938,J.Hyatt,0.0,0.0,NYG,DAL,0.0,0.0,0.0
@@ -19859,6 +20253,7 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,7,00-0038938,J.Hyatt,0.0,0.0,NYG,PHI,0.0,0.0,0.0
 2024,10,00-0038938,J.Hyatt,7.9,3.9,NYG,CAR,0.0,0.0,39.0
 2024,13,00-0038938,J.Hyatt,2.8,0.8,NYG,DAL,0.0,0.0,8.0
+2024,14,00-0038938,J.Hyatt,0.0,0.0,NYG,NO,0.0,0.0,0.0
 2024,3,00-0038951,S.Tucker,0.4,0.4,TB,DEN,0.0,4.0,0.0
 2024,4,00-0038951,S.Tucker,2.7,1.7,TB,PHI,0.0,3.0,14.0
 2024,6,00-0038951,S.Tucker,34.2,31.2,TB,NO,0.0,136.0,56.0
@@ -19866,6 +20261,7 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,8,00-0038951,S.Tucker,2.5,1.5,TB,ATL,0.0,3.0,12.0
 2024,9,00-0038951,S.Tucker,2.7,1.7,TB,KC,0.0,11.0,6.0
 2024,12,00-0038951,S.Tucker,8.0,7.0,TB,NYG,0.0,3.0,7.0
+2024,14,00-0038951,S.Tucker,4.7,4.7,TB,LV,0.0,47.0,0.0
 2024,1,00-0038976,M.Mims,0.0,0.0,DEN,SEA,0.0,0.0,0.0
 2024,2,00-0038976,M.Mims,2.0,1.0,DEN,PIT,0.0,0.0,10.0
 2024,3,00-0038976,M.Mims,1.9,0.9,DEN,TB,0.0,0.0,9.0
@@ -19877,6 +20273,7 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,10,00-0038976,M.Mims,7.0,3.0,DEN,KC,0.0,17.0,13.0
 2024,11,00-0038976,M.Mims,13.3,11.3,DEN,ATL,0.0,4.0,49.0
 2024,12,00-0038976,M.Mims,7.2,4.2,DEN,LV,0.0,-2.0,44.0
+2024,13,00-0038976,M.Mims,19.9,16.9,DEN,CLE,0.0,4.0,105.0
 2024,1,00-0038977,T.Dell,8.9,5.9,HOU,IND,0.0,19.0,40.0
 2024,2,00-0038977,T.Dell,2.3,1.3,HOU,CHI,0.0,16.0,-3.0
 2024,3,00-0038977,T.Dell,11.2,6.2,HOU,MIN,0.0,0.0,62.0
@@ -19888,6 +20285,7 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,10,00-0038977,T.Dell,8.3,3.3,HOU,DET,0.0,-6.0,39.0
 2024,11,00-0038977,T.Dell,9.8,5.8,HOU,DAL,0.0,4.0,54.0
 2024,12,00-0038977,T.Dell,10.2,7.2,HOU,TEN,0.0,0.0,72.0
+2024,13,00-0038977,T.Dell,3.3,2.3,HOU,JAX,0.0,0.0,23.0
 2024,1,00-0038979,C.Tillman,1.3,0.3,CLE,DAL,0.0,0.0,3.0
 2024,2,00-0038979,C.Tillman,1.2,0.2,CLE,JAX,0.0,0.0,2.0
 2024,3,00-0038979,C.Tillman,1.4,0.4,CLE,NYG,0.0,0.0,4.0
@@ -19907,6 +20305,8 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,10,00-0038994,J.Addison,4.9,2.9,MIN,JAX,0.0,4.0,25.0
 2024,11,00-0038994,J.Addison,15.1,12.1,MIN,TEN,0.0,0.0,61.0
 2024,12,00-0038994,J.Addison,30.2,22.2,MIN,CHI,0.0,0.0,162.0
+2024,13,00-0038994,J.Addison,9.4,5.4,MIN,ARI,0.0,0.0,54.0
+2024,14,00-0038994,J.Addison,39.3,31.3,MIN,ATL,0.0,0.0,133.0
 2024,1,00-0038996,T.Kraft,5.7,3.7,GB,PHI,0.0,0.0,37.0
 2024,2,00-0038996,T.Kraft,3.6,1.6,GB,IND,0.0,0.0,16.0
 2024,3,00-0038996,T.Kraft,4.4,2.4,GB,TEN,0.0,0.0,24.0
@@ -19919,6 +20319,7 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,11,00-0038996,T.Kraft,0.0,0.0,GB,CHI,0.0,0.0,0.0
 2024,12,00-0038996,T.Kraft,10.6,8.6,GB,SF,0.0,0.0,26.0
 2024,13,00-0038996,T.Kraft,13.8,7.8,GB,MIA,0.0,0.0,78.0
+2024,14,00-0038996,T.Kraft,13.1,10.1,GB,DET,0.0,0.0,41.0
 2024,3,00-0038997,J.Downs,5.2,2.2,IND,CHI,0.0,0.0,22.0
 2024,4,00-0038997,J.Downs,22.2,14.2,IND,PIT,0.0,0.0,82.0
 2024,5,00-0038997,J.Downs,15.9,6.9,IND,JAX,0.0,0.0,69.0
@@ -19935,6 +20336,7 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,7,00-0038998,J.Haener,5.52,5.52,NO,DEN,38.0,0.0,0.0
 2024,8,00-0038998,J.Haener,5.88,5.88,NO,LAC,122.0,10.0,0.0
 2024,11,00-0038998,J.Haener,-0.2,-0.2,NO,CLE,0.0,-2.0,0.0
+2024,14,00-0038998,J.Haener,-0.1,-0.1,NO,NYG,0.0,-1.0,0.0
 2024,3,00-0039021,R.Johnson,10.2,6.2,CHI,IND,0.0,30.0,32.0
 2024,4,00-0039021,R.Johnson,8.6,8.6,CHI,LA,0.0,26.0,0.0
 2024,5,00-0039021,R.Johnson,14.5,14.5,CHI,CAR,0.0,25.0,0.0
@@ -19951,6 +20353,8 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,6,00-0039032,T.Spears,2.7,2.7,TEN,IND,0.0,27.0,0.0
 2024,10,00-0039032,T.Spears,8.1,5.1,TEN,LAC,0.0,47.0,4.0
 2024,11,00-0039032,T.Spears,2.8,0.8,TEN,MIN,0.0,0.0,8.0
+2024,13,00-0039032,T.Spears,0.3,0.3,TEN,WAS,0.0,3.0,0.0
+2024,14,00-0039032,T.Spears,3.3,2.3,TEN,JAX,0.0,21.0,2.0
 2024,1,00-0039040,D.Achane,23.0,16.0,MIA,JAX,0.0,24.0,76.0
 2024,2,00-0039040,D.Achane,29.5,22.5,MIA,BUF,0.0,96.0,69.0
 2024,3,00-0039040,D.Achane,8.8,5.8,MIA,SEA,0.0,30.0,28.0
@@ -19963,6 +20367,7 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,11,00-0039040,D.Achane,20.5,16.5,MIA,LV,0.0,73.0,32.0
 2024,12,00-0039040,D.Achane,20.6,17.6,MIA,NE,0.0,32.0,24.0
 2024,13,00-0039040,D.Achane,21.0,13.0,MIA,GB,0.0,14.0,56.0
+2024,14,00-0039040,D.Achane,18.9,12.9,MIA,NYJ,0.0,24.0,45.0
 2024,1,00-0039041,E.Higgins,3.2,1.2,ARI,BUF,0.0,0.0,12.0
 2024,2,00-0039041,E.Higgins,8.8,7.8,ARI,LA,0.0,0.0,18.0
 2024,3,00-0039041,E.Higgins,2.1,1.1,ARI,DET,0.0,0.0,11.0
@@ -19973,6 +20378,7 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,9,00-0039041,E.Higgins,5.4,3.4,ARI,CHI,0.0,0.0,34.0
 2024,10,00-0039041,E.Higgins,3.3,1.3,ARI,NYJ,0.0,0.0,13.0
 2024,12,00-0039041,E.Higgins,1.5,0.5,ARI,SEA,0.0,0.0,5.0
+2024,13,00-0039041,E.Higgins,4.3,2.3,ARI,MIN,0.0,0.0,23.0
 2024,3,00-0039050,P.Durham,1.8,0.8,TB,DEN,0.0,0.0,8.0
 2024,12,00-0039050,P.Durham,3.6,2.6,TB,NYG,0.0,0.0,26.0
 2024,1,00-0039052,T.Palmer,2.9,1.9,TB,WAS,0.0,0.0,19.0
@@ -19983,6 +20389,7 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,9,00-0039052,T.Palmer,5.3,3.3,TB,KC,0.0,0.0,33.0
 2024,10,00-0039052,T.Palmer,0.0,0.0,TB,SF,0.0,0.0,0.0
 2024,12,00-0039052,T.Palmer,2.8,1.8,TB,NYG,0.0,0.0,18.0
+2024,13,00-0039052,T.Palmer,0.0,0.0,TB,CAR,0.0,0.0,0.0
 2024,1,00-0039062,J.Mingo,4.3,2.3,CAR,NO,0.0,3.0,40.0
 2024,2,00-0039062,J.Mingo,1.1,0.1,CAR,LAC,0.0,0.0,1.0
 2024,3,00-0039062,J.Mingo,5.0,2.0,CAR,LV,0.0,2.0,18.0
@@ -19994,6 +20401,7 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,11,00-0039062,J.Mingo,0.0,0.0,DAL,HOU,0.0,0.0,0.0
 2024,12,00-0039062,J.Mingo,1.8,0.8,DAL,WAS,0.0,0.0,8.0
 2024,13,00-0039062,J.Mingo,1.2,0.2,DAL,NYG,0.0,0.0,2.0
+2024,14,00-0039062,J.Mingo,0.0,0.0,DAL,CIN,0.0,0.0,0.0
 2024,1,00-0039064,Z.Flowers,11.1,5.1,BAL,KC,0.0,14.0,37.0
 2024,2,00-0039064,Z.Flowers,22.1,15.1,BAL,LV,0.0,0.0,91.0
 2024,3,00-0039064,Z.Flowers,5.3,2.3,BAL,DAL,0.0,3.0,20.0
@@ -20006,6 +20414,7 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,10,00-0039064,Z.Flowers,7.4,3.4,BAL,CIN,0.0,0.0,34.0
 2024,11,00-0039064,Z.Flowers,11.9,9.9,BAL,PIT,0.0,0.0,39.0
 2024,12,00-0039064,Z.Flowers,11.2,6.2,BAL,LAC,0.0,0.0,62.0
+2024,13,00-0039064,Z.Flowers,10.1,7.1,BAL,PHI,0.0,-3.0,74.0
 2024,1,00-0039065,S.LaPorta,8.5,4.5,DET,LA,0.0,0.0,45.0
 2024,2,00-0039065,S.LaPorta,3.3,1.3,DET,TB,0.0,0.0,13.0
 2024,3,00-0039065,S.LaPorta,5.6,3.6,DET,ARI,0.0,0.0,36.0
@@ -20017,12 +20426,14 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,10,00-0039065,S.LaPorta,15.6,12.6,DET,HOU,0.0,0.0,66.0
 2024,12,00-0039065,S.LaPorta,4.9,1.9,DET,IND,0.0,0.0,19.0
 2024,13,00-0039065,S.LaPorta,15.6,12.6,DET,CHI,0.0,0.0,6.0
+2024,14,00-0039065,S.LaPorta,10.4,5.4,DET,GB,0.0,0.0,54.0
 2024,1,00-0039066,M.Mayer,2.3,0.3,LV,LAC,0.0,0.0,3.0
 2024,2,00-0039066,M.Mayer,2.1,1.1,LV,BAL,0.0,0.0,11.0
 2024,3,00-0039066,M.Mayer,1.7,0.7,LV,CAR,0.0,0.0,7.0
 2024,11,00-0039066,M.Mayer,1.5,0.5,LV,MIA,0.0,0.0,5.0
 2024,12,00-0039066,M.Mayer,3.1,1.1,LV,DEN,0.0,0.0,11.0
 2024,13,00-0039066,M.Mayer,1.5,0.5,LV,KC,0.0,0.0,5.0
+2024,14,00-0039066,M.Mayer,13.8,6.8,LV,TB,0.0,0.0,68.0
 2024,1,00-0039067,R.Rice,17.3,10.3,KC,BAL,0.0,0.0,103.0
 2024,2,00-0039067,R.Rice,18.5,13.5,KC,CIN,0.0,0.0,75.0
 2024,3,00-0039067,R.Rice,29.1,17.1,KC,ATL,0.0,1.0,110.0
@@ -20037,6 +20448,8 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,10,00-0039075,P.Nacua,18.8,9.8,LA,MIA,0.0,0.0,98.0
 2024,11,00-0039075,P.Nacua,25.3,18.3,LA,NE,0.0,0.0,123.0
 2024,12,00-0039075,P.Nacua,20.7,11.7,LA,PHI,0.0,0.0,117.0
+2024,13,00-0039075,P.Nacua,17.3,12.3,LA,NO,0.0,7.0,56.0
+2024,14,00-0039075,P.Nacua,41.8,29.8,LA,BUF,0.0,16.0,162.0
 2024,1,00-0039139,J.Gibbs,17.4,13.4,DET,LA,0.0,40.0,34.0
 2024,2,00-0039139,J.Gibbs,17.6,10.6,DET,TB,0.0,84.0,22.0
 2024,3,00-0039139,J.Gibbs,8.3,8.3,DET,ARI,0.0,83.0,0.0
@@ -20049,6 +20462,7 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,11,00-0039139,J.Gibbs,19.3,18.3,DET,JAX,0.0,69.0,54.0
 2024,12,00-0039139,J.Gibbs,24.9,21.9,DET,IND,0.0,90.0,9.0
 2024,13,00-0039139,J.Gibbs,10.4,8.4,DET,CHI,0.0,87.0,17.0
+2024,14,00-0039139,J.Gibbs,19.3,13.3,DET,GB,0.0,43.0,30.0
 2024,1,00-0039144,L.Musgrave,0.0,0.0,GB,PHI,0.0,0.0,0.0
 2024,2,00-0039144,L.Musgrave,1.6,0.6,GB,IND,0.0,0.0,6.0
 2024,3,00-0039144,L.Musgrave,1.3,0.3,GB,TEN,0.0,0.0,3.0
@@ -20065,6 +20479,7 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,11,00-0039146,J.Reed,9.8,7.8,GB,CHI,0.0,-5.0,23.0
 2024,12,00-0039146,J.Reed,5.6,2.6,GB,SF,0.0,0.0,26.0
 2024,13,00-0039146,J.Reed,19.7,16.7,GB,MIA,0.0,23.0,24.0
+2024,14,00-0039146,J.Reed,0.0,0.0,GB,DET,0.0,0.0,0.0
 2024,1,00-0039150,B.Young,9.64,9.64,CAR,NO,161.0,12.0,0.0
 2024,2,00-0039150,B.Young,1.96,1.96,CAR,LAC,84.0,6.0,0.0
 2024,5,00-0039150,B.Young,3.12,3.12,CAR,CHI,58.0,8.0,0.0
@@ -20073,6 +20488,8 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,9,00-0039150,B.Young,9.74,9.74,CAR,NO,171.0,9.0,0.0
 2024,10,00-0039150,B.Young,12.04,12.04,CAR,NYG,126.0,30.0,0.0
 2024,12,00-0039150,B.Young,16.52,16.52,CAR,KC,263.0,20.0,0.0
+2024,13,00-0039150,B.Young,23.62,23.62,CAR,TB,298.0,17.0,0.0
+2024,14,00-0039150,B.Young,12.54,12.54,CAR,PHI,191.0,29.0,0.0
 2024,1,00-0039152,W.Levis,6.68,6.68,TEN,CHI,127.0,36.0,0.0
 2024,2,00-0039152,W.Levis,11.48,11.48,TEN,NYJ,192.0,38.0,0.0
 2024,3,00-0039152,W.Levis,13.6,13.6,TEN,GB,260.0,12.0,0.0
@@ -20081,6 +20498,8 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,10,00-0039152,W.Levis,19.1,19.1,TEN,LAC,175.0,41.0,0.0
 2024,11,00-0039152,W.Levis,15.6,15.6,TEN,MIN,295.0,18.0,0.0
 2024,12,00-0039152,W.Levis,16.12,16.12,TEN,HOU,278.0,10.0,0.0
+2024,13,00-0039152,W.Levis,16.18,16.18,TEN,WAS,212.0,-3.0,0.0
+2024,14,00-0039152,W.Levis,7.02,7.02,TEN,JAX,168.0,3.0,0.0
 2024,1,00-0039163,C.Stroud,18.66,18.66,HOU,IND,234.0,13.0,0.0
 2024,2,00-0039163,C.Stroud,14.3,14.3,HOU,CHI,260.0,-1.0,0.0
 2024,3,00-0039163,C.Stroud,9.8,9.8,HOU,MIN,215.0,12.0,0.0
@@ -20093,6 +20512,7 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,10,00-0039163,C.Stroud,9.78,9.78,HOU,DET,232.0,5.0,0.0
 2024,11,00-0039163,C.Stroud,10.88,10.88,HOU,DAL,257.0,26.0,0.0
 2024,12,00-0039163,C.Stroud,15.68,15.68,HOU,TEN,247.0,18.0,0.0
+2024,13,00-0039163,C.Stroud,14.38,14.38,HOU,JAX,242.0,7.0,0.0
 2024,1,00-0039164,A.Richardson,26.08,26.08,IND,HOU,212.0,56.0,0.0
 2024,2,00-0039164,A.Richardson,9.86,9.86,IND,GB,204.0,37.0,0.0
 2024,3,00-0039164,A.Richardson,5.08,5.08,IND,CHI,167.0,24.0,0.0
@@ -20101,6 +20521,7 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,8,00-0039164,A.Richardson,11.5,11.5,IND,HOU,175.0,45.0,0.0
 2024,11,00-0039164,A.Richardson,28.08,28.08,IND,NYJ,272.0,32.0,0.0
 2024,12,00-0039164,A.Richardson,12.98,12.98,IND,DET,172.0,61.0,0.0
+2024,13,00-0039164,A.Richardson,21.16,21.16,IND,NE,109.0,48.0,0.0
 2024,1,00-0039165,Z.Charbonnet,12.1,10.1,SEA,DEN,0.0,12.0,29.0
 2024,2,00-0039165,Z.Charbonnet,17.9,12.9,SEA,NE,0.0,38.0,31.0
 2024,3,00-0039165,Z.Charbonnet,25.7,22.7,SEA,MIA,0.0,91.0,16.0
@@ -20112,12 +20533,17 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,9,00-0039165,Z.Charbonnet,5.3,3.3,SEA,LA,0.0,8.0,25.0
 2024,11,00-0039165,Z.Charbonnet,2.5,0.5,SEA,SF,0.0,3.0,2.0
 2024,12,00-0039165,Z.Charbonnet,2.2,2.2,SEA,ARI,0.0,22.0,0.0
+2024,13,00-0039165,Z.Charbonnet,12.1,10.1,SEA,NYJ,0.0,28.0,13.0
+2024,14,00-0039165,Z.Charbonnet,38.3,31.3,SEA,ARI,0.0,134.0,59.0
 2024,1,00-0039236,J.Wilson,0.0,0.0,PHI,GB,0.0,0.0,0.0
 2024,2,00-0039236,J.Wilson,0.0,0.0,PHI,ATL,0.0,0.0,0.0
 2024,3,00-0039236,J.Wilson,1.9,0.9,PHI,NO,0.0,0.0,9.0
 2024,4,00-0039236,J.Wilson,0.0,0.0,PHI,TB,0.0,0.0,0.0
 2024,10,00-0039236,J.Wilson,7.5,6.5,PHI,DAL,0.0,0.0,5.0
 2024,12,00-0039236,J.Wilson,0.0,0.0,PHI,LA,0.0,0.0,0.0
+2024,14,00-0039236,J.Wilson,0.0,0.0,PHI,CAR,0.0,0.0,0.0
+2024,14,00-0039299,G.Holani,0.9,-0.1,SEA,ARI,0.0,0.0,-1.0
+2024,14,00-0039316,B.Cupp,0.0,0.0,KC,LAC,0.0,0.0,0.0
 2024,1,00-0039325,C.Steele,0.3,0.3,KC,BAL,0.0,3.0,0.0
 2024,2,00-0039325,C.Steele,0.4,0.4,KC,CIN,0.0,24.0,0.0
 2024,3,00-0039325,C.Steele,8.4,7.4,KC,ATL,0.0,72.0,2.0
@@ -20139,6 +20565,7 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,10,00-0039337,M.Nabers,10.8,4.8,NYG,CAR,0.0,-2.0,50.0
 2024,12,00-0039337,M.Nabers,12.4,6.4,NYG,TB,0.0,0.0,64.0
 2024,13,00-0039337,M.Nabers,15.3,7.3,NYG,DAL,0.0,4.0,69.0
+2024,14,00-0039337,M.Nabers,14.9,9.9,NYG,NO,0.0,0.0,79.0
 2024,1,00-0039338,B.Bowers,11.8,5.8,LV,LAC,0.0,0.0,58.0
 2024,2,00-0039338,B.Bowers,18.8,9.8,LV,BAL,0.0,0.0,98.0
 2024,3,00-0039338,B.Bowers,7.1,4.1,LV,CAR,0.0,0.0,41.0
@@ -20151,6 +20578,7 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,11,00-0039338,B.Bowers,31.3,18.3,LV,MIA,0.0,-3.0,126.0
 2024,12,00-0039338,B.Bowers,7.8,3.8,LV,DEN,0.0,0.0,38.0
 2024,13,00-0039338,B.Bowers,30.2,20.2,LV,KC,0.0,2.0,140.0
+2024,14,00-0039338,B.Bowers,8.2,5.2,LV,TB,0.0,3.0,49.0
 2024,1,00-0039342,X.Legette,7.5,3.5,CAR,NO,0.0,0.0,35.0
 2024,3,00-0039342,X.Legette,6.2,4.2,CAR,LV,0.0,0.0,42.0
 2024,4,00-0039342,X.Legette,19.6,13.6,CAR,CIN,0.0,10.0,66.0
@@ -20161,7 +20589,11 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,9,00-0039342,X.Legette,13.9,9.9,CAR,NO,0.0,6.0,33.0
 2024,10,00-0039342,X.Legette,7.0,4.0,CAR,NYG,0.0,0.0,40.0
 2024,12,00-0039342,X.Legette,9.6,5.6,CAR,KC,0.0,0.0,56.0
+2024,13,00-0039342,X.Legette,9.3,5.3,CAR,TB,0.0,0.0,53.0
+2024,14,00-0039342,X.Legette,5.9,3.9,CAR,PHI,0.0,0.0,39.0
 2024,12,00-0039344,J.Brooks,0.7,0.7,CAR,KC,0.0,7.0,0.0
+2024,13,00-0039344,J.Brooks,7.1,4.1,CAR,TB,0.0,18.0,23.0
+2024,14,00-0039344,J.Brooks,-0.3,-0.3,CAR,PHI,0.0,-3.0,0.0
 2024,1,00-0039355,L.McCaffrey,4.8,1.8,WAS,TB,0.0,0.0,18.0
 2024,3,00-0039355,L.McCaffrey,7.4,4.4,WAS,CIN,0.0,0.0,44.0
 2024,4,00-0039355,L.McCaffrey,2.7,1.7,WAS,ARI,0.0,0.0,17.0
@@ -20171,6 +20603,7 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,10,00-0039355,L.McCaffrey,3.3,2.3,WAS,PIT,0.0,0.0,23.0
 2024,11,00-0039355,L.McCaffrey,0.0,0.0,WAS,PHI,0.0,0.0,0.0
 2024,12,00-0039355,L.McCaffrey,1.8,0.8,WAS,DAL,0.0,0.0,8.0
+2024,13,00-0039355,L.McCaffrey,3.3,1.3,WAS,TEN,0.0,0.0,13.0
 2024,1,00-0039356,J.Sanders,1.4,0.4,CAR,NO,0.0,0.0,4.0
 2024,2,00-0039356,J.Sanders,2.8,0.8,CAR,LAC,0.0,0.0,8.0
 2024,3,00-0039356,J.Sanders,0.0,0.0,CAR,LV,0.0,0.0,0.0
@@ -20182,6 +20615,7 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,9,00-0039356,J.Sanders,12.7,8.7,CAR,NO,0.0,0.0,87.0
 2024,10,00-0039356,J.Sanders,8.8,6.8,CAR,NYG,0.0,0.0,8.0
 2024,12,00-0039356,J.Sanders,7.9,4.9,CAR,KC,0.0,0.0,49.0
+2024,14,00-0039356,J.Sanders,0.0,0.0,CAR,PHI,0.0,0.0,0.0
 2024,2,00-0039359,C.Stover,2.8,1.8,HOU,CHI,0.0,0.0,18.0
 2024,4,00-0039359,C.Stover,3.7,2.7,HOU,JAX,0.0,0.0,27.0
 2024,5,00-0039359,C.Stover,2.6,0.6,HOU,BUF,0.0,0.0,6.0
@@ -20192,6 +20626,7 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,10,00-0039359,C.Stover,1.2,0.2,HOU,DET,0.0,0.0,2.0
 2024,11,00-0039359,C.Stover,3.5,1.5,HOU,DAL,0.0,0.0,15.0
 2024,12,00-0039359,C.Stover,11.6,8.6,HOU,TEN,0.0,0.0,26.0
+2024,13,00-0039359,C.Stover,1.4,0.4,HOU,JAX,0.0,0.0,4.0
 2024,1,00-0039361,B.Irving,9.6,7.6,TB,WAS,0.0,62.0,14.0
 2024,2,00-0039361,B.Irving,2.2,2.2,TB,DET,0.0,22.0,0.0
 2024,3,00-0039361,B.Irving,11.4,8.4,TB,DEN,0.0,70.0,14.0
@@ -20203,6 +20638,8 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,9,00-0039361,B.Irving,6.4,3.4,TB,KC,0.0,24.0,10.0
 2024,10,00-0039361,B.Irving,17.7,14.7,TB,SF,0.0,73.0,14.0
 2024,12,00-0039361,B.Irving,27.2,21.2,TB,NYG,0.0,88.0,64.0
+2024,13,00-0039361,B.Irving,27.5,24.5,TB,CAR,0.0,152.0,33.0
+2024,14,00-0039361,B.Irving,2.8,1.8,TB,LV,0.0,3.0,15.0
 2024,2,00-0039363,I.Guerendo,0.0,0.0,SF,MIN,0.0,0.0,0.0
 2024,3,00-0039363,I.Guerendo,1.9,1.9,SF,LA,0.0,19.0,0.0
 2024,4,00-0039363,I.Guerendo,0.0,0.0,SF,NE,0.0,0.0,0.0
@@ -20211,10 +20648,13 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,7,00-0039363,I.Guerendo,1.7,0.7,SF,KC,0.0,2.0,5.0
 2024,8,00-0039363,I.Guerendo,19.2,16.2,SF,DAL,0.0,85.0,17.0
 2024,10,00-0039363,I.Guerendo,0.0,0.0,SF,TB,0.0,0.0,0.0
+2024,13,00-0039363,I.Guerendo,8.6,7.6,SF,BUF,0.0,19.0,-3.0
+2024,14,00-0039363,I.Guerendo,26.8,24.8,SF,CHI,0.0,78.0,50.0
 2024,2,00-0039364,S.Vaki,2.7,1.7,DET,TB,0.0,0.0,17.0
 2024,6,00-0039364,S.Vaki,0.5,0.5,DET,DAL,0.0,5.0,0.0
 2024,11,00-0039364,S.Vaki,0.9,0.9,DET,JAX,0.0,9.0,0.0
 2024,7,00-0039365,J.Cowing,7.0,5.0,SF,KC,0.0,0.0,50.0
+2024,14,00-0039365,J.Cowing,0.0,0.0,SF,CHI,0.0,0.0,0.0
 2024,1,00-0039373,A.Estime,1.4,1.4,DEN,SEA,0.0,14.0,0.0
 2024,6,00-0039373,A.Estime,1.3,1.3,DEN,LAC,0.0,13.0,0.0
 2024,7,00-0039373,A.Estime,0.9,0.9,DEN,NO,0.0,29.0,0.0
@@ -20223,10 +20663,12 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,10,00-0039373,A.Estime,5.3,5.3,DEN,KC,0.0,53.0,0.0
 2024,11,00-0039373,A.Estime,5.5,2.5,DEN,ATL,0.0,16.0,9.0
 2024,12,00-0039373,A.Estime,1.5,1.5,DEN,LV,0.0,15.0,0.0
+2024,13,00-0039373,A.Estime,1.2,1.2,DEN,CLE,0.0,12.0,0.0
 2024,6,00-0039376,S.Rattler,12.42,12.42,NO,TB,243.0,27.0,0.0
 2024,7,00-0039376,S.Rattler,6.28,6.28,NO,DEN,172.0,34.0,0.0
 2024,8,00-0039376,S.Rattler,6.24,6.24,NO,LAC,156.0,0.0,0.0
 2024,11,00-0039379,J.Thrash,2.1,1.1,CLE,NO,0.0,0.0,11.0
+2024,13,00-0039379,J.Thrash,3.1,1.1,CLE,DEN,0.0,0.0,11.0
 2024,1,00-0039384,T.Tracy,1.7,0.7,NYG,MIN,0.0,2.0,5.0
 2024,2,00-0039384,T.Tracy,0.2,0.2,NYG,WAS,0.0,2.0,0.0
 2024,3,00-0039384,T.Tracy,6.0,4.0,NYG,CLE,0.0,23.0,17.0
@@ -20239,6 +20681,7 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,10,00-0039384,T.Tracy,15.4,14.4,NYG,CAR,0.0,103.0,1.0
 2024,12,00-0039384,T.Tracy,9.0,5.0,NYG,TB,0.0,42.0,28.0
 2024,13,00-0039384,T.Tracy,14.5,12.5,NYG,DAL,0.0,32.0,33.0
+2024,14,00-0039384,T.Tracy,19.3,14.3,NYG,NO,0.0,45.0,38.0
 2024,1,00-0039386,B.Means,0.0,0.0,NO,CAR,0.0,0.0,0.0
 2024,6,00-0039386,B.Means,15.5,10.5,NO,TB,0.0,0.0,45.0
 2024,7,00-0039386,B.Means,6.7,3.7,NO,DEN,0.0,0.0,37.0
@@ -20247,6 +20690,8 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,7,00-0039391,K.Vidal,2.9,1.9,LAC,ARI,0.0,10.0,9.0
 2024,8,00-0039391,K.Vidal,1.6,1.6,LAC,NO,0.0,16.0,0.0
 2024,9,00-0039391,K.Vidal,0.7,0.7,LAC,CLE,0.0,7.0,0.0
+2024,13,00-0039391,K.Vidal,2.0,2.0,LAC,ATL,0.0,20.0,0.0
+2024,14,00-0039391,K.Vidal,3.4,3.4,LAC,KC,0.0,34.0,0.0
 2024,8,00-0039392,J.Jackson,0.0,0.0,TEN,DET,0.0,0.0,0.0
 2024,9,00-0039392,J.Jackson,1.3,0.3,TEN,NE,0.0,-5.0,8.0
 2024,7,00-0039393,J.McClellan,1.7,1.7,ATL,SEA,0.0,17.0,0.0
@@ -20257,6 +20702,7 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,6,00-0039410,R.Flournoy,0.2,-0.8,DAL,DET,0.0,0.0,12.0
 2024,9,00-0039410,R.Flournoy,2.3,1.3,DAL,ATL,0.0,0.0,13.0
 2024,11,00-0039410,R.Flournoy,3.9,1.9,DAL,HOU,0.0,0.0,19.0
+2024,14,00-0039410,R.Flournoy,0.0,0.0,DAL,CIN,0.0,0.0,0.0
 2024,9,00-0039420,J.Bell,1.1,0.1,NE,TEN,0.0,0.0,1.0
 2024,11,00-0039420,J.Bell,0.0,0.0,NE,LA,0.0,0.0,0.0
 2024,1,00-0039424,D.Vele,11.9,3.9,DEN,SEA,0.0,0.0,39.0
@@ -20267,6 +20713,7 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,10,00-0039424,D.Vele,13.9,9.9,DEN,KC,0.0,0.0,39.0
 2024,11,00-0039424,D.Vele,10.6,6.6,DEN,ATL,0.0,0.0,66.0
 2024,12,00-0039424,D.Vele,14.0,8.0,DEN,LV,0.0,0.0,80.0
+2024,13,00-0039424,D.Vele,2.6,1.6,DEN,CLE,0.0,0.0,16.0
 2024,8,00-0039451,I.Williams,2.6,0.6,DET,TEN,0.0,0.0,6.0
 2024,4,00-0039491,J.Coker,0.0,0.0,CAR,CIN,0.0,0.0,0.0
 2024,5,00-0039491,J.Coker,10.8,6.8,CAR,CHI,0.0,0.0,68.0
@@ -20287,6 +20734,7 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,4,00-0039589,K.Johnson,0.0,0.0,TB,PHI,0.0,0.0,0.0
 2024,3,00-0039603,B.Brooks,0.2,0.2,HOU,MIN,0.0,2.0,0.0
 2024,9,00-0039611,M.Hayball,1.1,1.1,NO,CAR,0.0,11.0,0.0
+2024,14,00-0039613,D.Holker,2.0,1.0,NO,NYG,0.0,0.0,10.0
 2024,9,00-0039614,J.Jackson,-0.1,-0.1,NO,CAR,0.0,-1.0,0.0
 2024,1,00-0039623,M.Tipton,1.6,0.6,NO,CAR,0.0,0.0,6.0
 2024,3,00-0039623,M.Tipton,3.1,1.1,NO,PHI,0.0,0.0,11.0
@@ -20297,8 +20745,11 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,8,00-0039623,M.Tipton,3.4,1.4,NO,LAC,0.0,0.0,14.0
 2024,9,00-0039623,M.Tipton,0.0,0.0,NO,CAR,0.0,0.0,0.0
 2024,10,00-0039631,C.Grandy,1.0,0.0,CIN,BAL,0.0,0.0,0.0
+2024,14,00-0039648,D.Martin-Robinson,0.0,0.0,TEN,JAX,0.0,0.0,0.0
 2024,10,00-0039650,B.Oliver,4.3,2.3,TEN,LAC,0.0,0.0,23.0
 2024,11,00-0039650,B.Oliver,4.3,3.3,TEN,MIN,0.0,0.0,33.0
+2024,14,00-0039650,B.Oliver,2.6,1.6,TEN,JAX,0.0,0.0,16.0
+2024,13,00-0039731,J.Latham,1.0,0.0,TEN,WAS,0.0,0.0,0.0
 2024,1,00-0039732,B.Nix,11.02,11.02,DEN,SEA,138.0,35.0,0.0
 2024,2,00-0039732,B.Nix,8.34,8.34,DEN,PIT,246.0,25.0,0.0
 2024,3,00-0039732,B.Nix,19.34,19.34,DEN,TB,216.0,47.0,0.0
@@ -20311,8 +20762,11 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,10,00-0039732,B.Nix,16.1,16.1,DEN,KC,215.0,-5.0,0.0
 2024,11,00-0039732,B.Nix,28.78,28.78,DEN,ATL,307.0,5.0,0.0
 2024,12,00-0039732,B.Nix,19.42,19.42,DEN,LV,273.0,5.0,0.0
+2024,13,00-0039732,B.Nix,12.16,12.16,DEN,CLE,294.0,4.0,0.0
 2024,5,00-0039737,T.Reiman,1.5,0.5,ARI,SF,0.0,0.0,5.0
 2024,7,00-0039737,T.Reiman,1.1,0.1,ARI,LAC,0.0,0.0,1.0
+2024,13,00-0039737,T.Reiman,1.9,0.9,ARI,MIN,0.0,0.0,9.0
+2024,14,00-0039737,T.Reiman,2.4,1.4,ARI,SEA,0.0,0.0,14.0
 2024,2,00-0039738,B.Corum,2.8,2.8,LA,ARI,0.0,28.0,0.0
 2024,5,00-0039738,B.Corum,4.3,3.3,LA,GB,0.0,25.0,8.0
 2024,7,00-0039738,B.Corum,1.1,1.1,LA,LV,0.0,11.0,0.0
@@ -20321,9 +20775,12 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,10,00-0039738,B.Corum,2.5,1.5,LA,MIA,0.0,8.0,7.0
 2024,11,00-0039738,B.Corum,3.8,2.8,LA,NE,0.0,21.0,7.0
 2024,12,00-0039738,B.Corum,0.5,0.5,LA,PHI,0.0,5.0,0.0
+2024,13,00-0039738,B.Corum,4.2,4.2,LA,NO,0.0,42.0,0.0
+2024,14,00-0039738,B.Corum,3.4,3.4,LA,BUF,0.0,34.0,0.0
 2024,7,00-0039746,W.Shipley,1.5,1.5,PHI,NYG,0.0,15.0,0.0
 2024,8,00-0039746,W.Shipley,-0.3,-0.3,PHI,CIN,0.0,-3.0,0.0
 2024,10,00-0039746,W.Shipley,3.4,3.4,PHI,DAL,0.0,34.0,0.0
+2024,13,00-0039746,W.Shipley,0.4,0.4,PHI,BAL,0.0,4.0,0.0
 2024,9,00-0039747,A.Smith,1.2,0.2,PHI,JAX,0.0,2.0,0.0
 2024,10,00-0039747,A.Smith,2.6,0.6,PHI,DAL,0.0,0.0,6.0
 2024,2,00-0039751,J.Whittington,4.2,2.2,LA,ARI,0.0,0.0,22.0
@@ -20340,6 +20797,8 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,9,00-0039793,A.Barner,6.7,2.7,SEA,LA,0.0,0.0,27.0
 2024,11,00-0039793,A.Barner,3.5,1.5,SEA,SF,0.0,0.0,15.0
 2024,12,00-0039793,A.Barner,4.9,1.9,SEA,ARI,0.0,0.0,19.0
+2024,13,00-0039793,A.Barner,9.4,7.4,SEA,NYJ,0.0,0.0,14.0
+2024,14,00-0039793,A.Barner,2.3,1.3,SEA,ARI,0.0,0.0,13.0
 2024,1,00-0039794,B.Allen,2.7,1.7,NYJ,SF,0.0,8.0,9.0
 2024,2,00-0039794,B.Allen,19.6,17.6,NYJ,TEN,0.0,33.0,23.0
 2024,3,00-0039794,B.Allen,9.8,6.8,NYJ,NE,0.0,55.0,13.0
@@ -20351,9 +20810,13 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,9,00-0039794,B.Allen,0.9,0.9,NYJ,HOU,0.0,9.0,0.0
 2024,10,00-0039794,B.Allen,4.4,3.4,NYJ,ARI,0.0,27.0,7.0
 2024,11,00-0039794,B.Allen,0.6,0.6,NYJ,IND,0.0,6.0,0.0
+2024,13,00-0039794,B.Allen,4.7,2.7,NYJ,SEA,0.0,11.0,16.0
+2024,14,00-0039794,B.Allen,12.1,8.1,NYJ,MIA,0.0,43.0,38.0
 2024,3,00-0039798,I.Davis,0.6,0.6,NYJ,NE,0.0,6.0,0.0
 2024,7,00-0039798,I.Davis,1.2,1.2,NYJ,PIT,0.0,12.0,0.0
 2024,10,00-0039798,I.Davis,2.0,1.0,NYJ,ARI,0.0,0.0,10.0
+2024,13,00-0039798,I.Davis,12.2,9.2,NYJ,SEA,0.0,4.0,28.0
+2024,14,00-0039798,I.Davis,15.7,12.7,NYJ,MIA,0.0,40.0,27.0
 2024,2,00-0039810,J.Burton,5.7,4.7,CIN,KC,0.0,0.0,47.0
 2024,8,00-0039810,J.Burton,5.1,4.1,CIN,PHI,0.0,0.0,41.0
 2024,10,00-0039810,J.Burton,2.1,1.1,CIN,BAL,0.0,0.0,11.0
@@ -20390,6 +20853,8 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,9,00-0039849,M.Harrison,3.4,1.4,ARI,CHI,0.0,0.0,34.0
 2024,10,00-0039849,M.Harrison,16.4,11.4,ARI,NYJ,0.0,0.0,54.0
 2024,12,00-0039849,M.Harrison,7.7,4.7,ARI,SEA,0.0,0.0,47.0
+2024,13,00-0039849,M.Harrison,17.0,12.0,ARI,MIN,0.0,0.0,60.0
+2024,14,00-0039849,M.Harrison,8.9,4.9,ARI,SEA,0.0,0.0,49.0
 2024,3,00-0039851,D.Maye,2.08,2.08,NE,NYJ,22.0,12.0,0.0
 2024,6,00-0039851,D.Maye,19.52,19.52,NE,HOU,243.0,38.0,0.0
 2024,7,00-0039851,D.Maye,20.84,20.84,NE,JAX,276.0,18.0,0.0
@@ -20398,6 +20863,7 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,10,00-0039851,D.Maye,11.76,11.76,NE,CHI,184.0,24.0,0.0
 2024,11,00-0039851,D.Maye,17.98,17.98,NE,LA,282.0,27.0,0.0
 2024,12,00-0039851,D.Maye,13.48,13.48,NE,MIA,222.0,26.0,0.0
+2024,13,00-0039851,D.Maye,19.42,19.42,NE,IND,238.0,59.0,0.0
 2024,12,00-0039853,J.Baker,0.0,0.0,NE,MIA,0.0,0.0,0.0
 2024,1,00-0039855,J.McMillan,10.2,9.2,TB,WAS,0.0,0.0,32.0
 2024,2,00-0039855,J.McMillan,3.1,2.1,TB,DET,0.0,0.0,21.0
@@ -20406,6 +20872,8 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,7,00-0039855,J.McMillan,5.6,2.6,TB,BAL,0.0,11.0,15.0
 2024,8,00-0039855,J.McMillan,9.2,5.2,TB,ATL,0.0,17.0,35.0
 2024,12,00-0039855,J.McMillan,2.1,1.1,TB,NYG,0.0,0.0,11.0
+2024,13,00-0039855,J.McMillan,4.5,2.5,TB,CAR,0.0,0.0,25.0
+2024,14,00-0039855,J.McMillan,21.9,17.9,TB,LV,0.0,0.0,59.0
 2024,2,00-0039868,T.Franklin,0.0,0.0,DEN,PIT,0.0,0.0,0.0
 2024,3,00-0039868,T.Franklin,3.1,1.1,DEN,TB,0.0,0.0,11.0
 2024,4,00-0039868,T.Franklin,1.8,-0.2,DEN,NYJ,0.0,0.0,-2.0
@@ -20417,6 +20885,7 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,10,00-0039868,T.Franklin,1.9,0.9,DEN,KC,0.0,0.0,9.0
 2024,11,00-0039868,T.Franklin,9.5,7.5,DEN,ATL,0.0,0.0,15.0
 2024,12,00-0039868,T.Franklin,5.1,3.1,DEN,LV,0.0,0.0,31.0
+2024,13,00-0039868,T.Franklin,4.8,2.8,DEN,CLE,0.0,0.0,28.0
 2024,2,00-0039874,J.Wright,0.4,0.4,MIA,BUF,0.0,4.0,0.0
 2024,3,00-0039874,J.Wright,1.7,1.7,MIA,SEA,0.0,17.0,0.0
 2024,4,00-0039874,J.Wright,3.2,3.2,MIA,TEN,0.0,32.0,0.0
@@ -20427,6 +20896,7 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,10,00-0039874,J.Wright,0.3,0.3,MIA,LA,0.0,3.0,0.0
 2024,11,00-0039874,J.Wright,1.6,0.6,MIA,LV,0.0,4.0,2.0
 2024,12,00-0039874,J.Wright,0.8,0.8,MIA,NE,0.0,28.0,0.0
+2024,14,00-0039874,J.Wright,3.3,1.3,MIA,NYJ,0.0,7.0,6.0
 2024,1,00-0039875,R.Davis,3.7,2.7,BUF,ARI,0.0,13.0,14.0
 2024,2,00-0039875,R.Davis,3.8,2.8,BUF,MIA,0.0,29.0,-1.0
 2024,3,00-0039875,R.Davis,9.3,8.3,BUF,JAX,0.0,22.0,1.0
@@ -20438,6 +20908,7 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,9,00-0039875,R.Davis,17.0,15.0,BUF,MIA,0.0,20.0,70.0
 2024,10,00-0039875,R.Davis,0.6,0.6,BUF,IND,0.0,6.0,0.0
 2024,11,00-0039875,R.Davis,1.1,1.1,BUF,KC,0.0,11.0,0.0
+2024,13,00-0039875,R.Davis,13.7,12.7,BUF,SF,0.0,63.0,4.0
 2024,4,00-0039880,M.Washington,1.8,0.8,MIA,TEN,0.0,0.0,8.0
 2024,7,00-0039880,M.Washington,2.9,0.9,MIA,IND,0.0,0.0,9.0
 2024,9,00-0039880,M.Washington,0.9,0.9,MIA,BUF,0.0,9.0,0.0
@@ -20445,6 +20916,7 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,11,00-0039880,M.Washington,4.8,1.8,MIA,LV,0.0,7.0,11.0
 2024,12,00-0039880,M.Washington,1.3,0.3,MIA,NE,0.0,2.0,1.0
 2024,13,00-0039880,M.Washington,2.8,0.8,MIA,GB,0.0,0.0,8.0
+2024,14,00-0039880,M.Washington,0.0,0.0,MIA,NYJ,0.0,0.0,0.0
 2024,1,00-0039890,A.Mitchell,1.2,0.2,IND,HOU,0.0,0.0,2.0
 2024,2,00-0039890,A.Mitchell,4.0,3.0,IND,GB,0.0,0.0,30.0
 2024,3,00-0039890,A.Mitchell,0.0,0.0,IND,CHI,0.0,0.0,0.0
@@ -20457,6 +20929,7 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,10,00-0039890,A.Mitchell,13.1,7.1,IND,BUF,0.0,0.0,71.0
 2024,11,00-0039890,A.Mitchell,4.5,3.5,IND,NYJ,0.0,2.0,33.0
 2024,12,00-0039890,A.Mitchell,2.0,1.0,IND,DET,0.0,0.0,10.0
+2024,13,00-0039890,A.Mitchell,0.0,0.0,IND,NE,0.0,0.0,0.0
 2024,1,00-0039893,B.Thomas,14.7,10.7,JAX,MIA,0.0,0.0,47.0
 2024,2,00-0039893,B.Thomas,11.4,9.4,JAX,CLE,0.0,0.0,94.0
 2024,3,00-0039893,B.Thomas,9.8,4.8,JAX,BUF,0.0,0.0,48.0
@@ -20468,6 +20941,8 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,9,00-0039893,B.Thomas,6.2,4.2,JAX,PHI,0.0,0.0,22.0
 2024,10,00-0039893,B.Thomas,3.2,1.2,JAX,MIN,0.0,0.0,12.0
 2024,11,00-0039893,B.Thomas,13.6,8.6,JAX,DET,0.0,4.0,82.0
+2024,13,00-0039893,B.Thomas,18.7,14.7,JAX,HOU,0.0,11.0,76.0
+2024,14,00-0039893,B.Thomas,16.6,8.6,JAX,TEN,0.0,0.0,86.0
 2024,1,00-0039894,X.Worthy,20.8,18.8,KC,BAL,0.0,21.0,47.0
 2024,2,00-0039894,X.Worthy,4.2,2.2,KC,CIN,0.0,5.0,17.0
 2024,3,00-0039894,X.Worthy,5.0,3.0,KC,ATL,0.0,13.0,17.0
@@ -20480,6 +20955,7 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,11,00-0039894,X.Worthy,16.8,12.8,KC,BUF,0.0,7.0,61.0
 2024,12,00-0039894,X.Worthy,9.1,5.1,KC,CAR,0.0,5.0,46.0
 2024,13,00-0039894,X.Worthy,10.4,5.4,KC,LV,0.0,0.0,54.0
+2024,14,00-0039894,X.Worthy,9.6,4.6,KC,LAC,0.0,5.0,41.0
 2024,1,00-0039901,K.Coleman,9.1,5.1,BUF,ARI,0.0,0.0,51.0
 2024,2,00-0039901,K.Coleman,0.0,0.0,BUF,MIA,0.0,0.0,0.0
 2024,3,00-0039901,K.Coleman,9.4,8.4,BUF,JAX,0.0,0.0,24.0
@@ -20499,6 +20975,7 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,9,00-0039907,J.Polk,0.0,0.0,NE,TEN,0.0,0.0,0.0
 2024,10,00-0039907,J.Polk,7.2,6.2,NE,CHI,0.0,0.0,2.0
 2024,12,00-0039907,J.Polk,1.7,0.7,NE,MIA,0.0,0.0,7.0
+2024,13,00-0039907,J.Polk,0.0,0.0,NE,IND,0.0,0.0,0.0
 2024,1,00-0039910,J.Daniels,28.16,28.16,WAS,TB,184.0,88.0,0.0
 2024,2,00-0039910,J.Daniels,13.44,13.44,WAS,NYG,226.0,44.0,0.0
 2024,3,00-0039910,J.Daniels,28.06,28.06,WAS,CIN,254.0,39.0,0.0
@@ -20511,8 +20988,10 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,10,00-0039910,J.Daniels,8.58,8.58,WAS,PIT,202.0,5.0,0.0
 2024,11,00-0039910,J.Daniels,13.44,13.44,WAS,PHI,191.0,18.0,0.0
 2024,12,00-0039910,J.Daniels,30.4,30.4,WAS,DAL,275.0,74.0,0.0
+2024,13,00-0039910,J.Daniels,27.64,27.64,WAS,TEN,206.0,34.0,0.0
 2024,7,00-0039912,B.Sinnott,8.6,6.6,WAS,CAR,0.0,0.0,6.0
 2024,9,00-0039912,B.Sinnott,2.2,1.2,WAS,NYG,0.0,0.0,12.0
+2024,13,00-0039912,B.Sinnott,1.3,0.3,WAS,TEN,0.0,0.0,3.0
 2024,1,00-0039915,L.McConkey,14.9,9.9,LAC,LV,0.0,0.0,39.0
 2024,2,00-0039915,L.McConkey,4.6,2.6,LAC,CAR,0.0,0.0,26.0
 2024,3,00-0039915,L.McConkey,7.4,4.4,LAC,PIT,0.0,0.0,44.0
@@ -20524,10 +21003,13 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,10,00-0039915,L.McConkey,7.2,5.2,LAC,TEN,0.0,0.0,52.0
 2024,11,00-0039915,L.McConkey,18.3,12.3,LAC,CIN,0.0,0.0,123.0
 2024,12,00-0039915,L.McConkey,14.3,8.3,LAC,BAL,0.0,0.0,83.0
+2024,13,00-0039915,L.McConkey,20.7,11.7,LAC,ATL,0.0,0.0,117.0
 2024,7,00-0039916,R.Pearsall,5.1,2.1,SF,KC,0.0,0.0,21.0
 2024,8,00-0039916,R.Pearsall,11.7,7.7,SF,DAL,0.0,39.0,38.0
 2024,10,00-0039916,R.Pearsall,17.3,13.3,SF,TB,0.0,0.0,73.0
 2024,11,00-0039916,R.Pearsall,0.0,0.0,SF,SEA,0.0,0.0,0.0
+2024,13,00-0039916,R.Pearsall,0.0,0.0,SF,BUF,0.0,0.0,0.0
+2024,14,00-0039916,R.Pearsall,1.5,0.5,SF,CHI,0.0,0.0,5.0
 2024,7,00-0039917,M.Penix,0.56,0.56,ATL,SEA,14.0,0.0,0.0
 2024,11,00-0039917,M.Penix,0.96,0.96,ATL,DEN,24.0,0.0,0.0
 2024,1,00-0039918,C.Williams,7.22,7.22,CHI,TEN,93.0,15.0,0.0
@@ -20542,6 +21024,7 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,11,00-0039918,C.Williams,16.24,16.24,CHI,GB,231.0,70.0,0.0
 2024,12,00-0039918,C.Williams,26.9,26.9,CHI,MIN,340.0,33.0,0.0
 2024,13,00-0039918,C.Williams,26.14,26.14,CHI,DET,256.0,39.0,0.0
+2024,14,00-0039918,C.Williams,14.06,14.06,CHI,SF,134.0,27.0,0.0
 2024,1,00-0039919,R.Odunze,2.1,1.1,CHI,TEN,0.0,0.0,11.0
 2024,2,00-0039919,R.Odunze,5.3,3.3,CHI,HOU,0.0,0.0,33.0
 2024,3,00-0039919,R.Odunze,23.4,17.4,CHI,IND,0.0,2.0,112.0
@@ -20554,10 +21037,12 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,11,00-0039919,R.Odunze,12.5,6.5,CHI,GB,0.0,0.0,65.0
 2024,12,00-0039919,R.Odunze,8.9,3.9,CHI,MIN,0.0,0.0,39.0
 2024,13,00-0039919,R.Odunze,4.5,2.5,CHI,DET,0.0,0.0,25.0
+2024,14,00-0039919,R.Odunze,20.2,16.2,CHI,SF,0.0,0.0,42.0
 2024,2,00-0039920,M.Corley,1.4,0.4,NYJ,TEN,0.0,0.0,4.0
 2024,9,00-0039920,M.Corley,1.8,1.8,NYJ,HOU,0.0,18.0,0.0
 2024,10,00-0039920,M.Corley,1.2,0.2,NYJ,ARI,0.0,0.0,2.0
 2024,11,00-0039920,M.Corley,2.0,1.0,NYJ,IND,0.0,0.0,10.0
+2024,13,00-0039920,M.Corley,0.8,0.8,NYJ,SEA,0.0,8.0,0.0
 2024,1,00-0039921,T.Benson,2.8,1.8,ARI,BUF,0.0,13.0,5.0
 2024,2,00-0039921,T.Benson,2.7,1.7,ARI,LA,0.0,10.0,7.0
 2024,3,00-0039921,T.Benson,0.8,0.8,ARI,DET,0.0,8.0,0.0
@@ -20567,3 +21052,5 @@ season,week,player_id,player_name,fantasy_points_ppr,fantasy_points,recent_team,
 2024,9,00-0039921,T.Benson,12.5,11.5,ARI,CHI,0.0,37.0,18.0
 2024,10,00-0039921,T.Benson,10.7,8.7,ARI,NYJ,0.0,62.0,25.0
 2024,12,00-0039921,T.Benson,1.8,1.8,ARI,SEA,0.0,18.0,0.0
+2024,13,00-0039921,T.Benson,2.0,2.0,ARI,MIN,0.0,20.0,0.0
+2024,14,00-0039921,T.Benson,2.9,1.9,ARI,SEA,0.0,15.0,4.0
