@@ -1,4 +1,4 @@
-# NFL Fantasy Predictor
+# NFL Fantasy Predictor (CURRENTLY UNOPERATIONAL; WILL FIX SOON WITH OFFSEASON USAGE)
 
 ## Overview
 NFL Fantasy Predictor is a machine learning-based application designed to predict weekly fantasy points for NFL players. The tool leverages historical player performance, injury data, and opponent strength to provide dynamic predictions for PPR and non-PPR formats. By emphasizing recent performance data and accounting for player injuries, my predictor aims to be similar (or even better than) predictions on fantasy football apps/websites!
